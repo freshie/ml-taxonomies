@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <meta lastmodifieddate="2013-08-06">
+    <creator>Gephi 0.8.1</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Scheme" type="string"/>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="http://lds.org/concept/cpg/self-reliance" label="Self-reliance">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-480.07974" y="-129.77579" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/nature-and-purposes-of-mortality" label="Nature and purposes of mortality">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="0.00582402217551134"/>
+          <attvalue for="eigencentrality" value="0.029564234783170662"/>
+        </attvalues>
+        <viz:size value="4.5"/>
+        <viz:position x="659.55054" y="-163.14404" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/in-quorums-wards-and-stakes" label="In quorums, wards, and stakes">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-798.9721" y="-559.09033" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/extending-forgiveness-to-us" label="Extending forgiveness to us">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-931.84174" y="391.4247" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/understanding-organization-and-functioning-of-the-priesthood" label="Understanding organization and functioning of the priesthood:">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="0.002974860247923058"/>
+          <attvalue for="eigencentrality" value="0.01267038633564457"/>
+        </attvalues>
+        <viz:size value="2.5"/>
+        <viz:position x="-750.4298" y="-474.93066" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/mans-fallen-nature-as-a-result-of-personal-sin" label="Man's fallen nature as a result of personal sin">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="910.7472" y="71.41232" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/home-and-family" label="Home and Family">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="0.010560753880126863"/>
+          <attvalue for="eigencentrality" value="0.06389086102508065"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-156.23178" y="290.33557" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/citizenship-obedience-to-civil-law-and-participation-in-the-civil-process" label="Citizenship, obedience to civil law, and participation in the civil process">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="730.0554" y="-9.351099" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/jesus-christ" label="Jesus Christ: Names or titles, nature, attributes, role or mission">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-257.8698" y="30.191788" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/gratitude" label="Gratitude">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1131.9572" y="-49.126404" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/grace" label="Grace">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-935.218" y="231.08423" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/gaining-knowledge-and-experience" label="Gaining knowledge and experience">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="593.47015" y="-220.7295" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/mission-of-prophets-seers-and-revelators" label="Mission of prophets, seers, and revelators">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="808.16534" y="213.4878" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/premortal-choices-and-the-war-in-heaven" label="Premortal choices and the War in Heaven">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-63.516693" y="-573.00934" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/teaching-the-gospel" label="Teaching the gospel">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-670.8164" y="-315.2541" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/significant-restoration-events" label="Significant Restoration events">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="0.0036871507298201285"/>
+          <attvalue for="eigencentrality" value="0.016893848447526092"/>
+        </attvalues>
+        <viz:size value="3.0"/>
+        <viz:position x="-422.45813" y="305.73532" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/honoring-the-priesthood-and-sustaining-church-leaders" label="Honoring the priesthood and sustaining Church leaders">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-609.77795" y="-239.83078" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/resurrections" label="Resurrections: first through last">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-187.46286" y="-257.34253" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-millennium" label="The Millennium">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-35.509876" y="-144.97888" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/church-councils" label="Church councils">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-533.81146" y="-392.46753" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/probationary-state" label="Probationary state">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="837.48883" y="-241.23477" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-organization-of-the-church" label="The organization of the Church">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-409.7952" y="378.23798" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-earth" label="The earth: creation and purpose">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="9.918737" y="-335.29105" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/hymns-and-other-sacred-music" label="Hymns and other sacred music">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="666.7269" y="-126.581245" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/succoring-us-according-to-our-infirmities" label="Succoring us according to our infirmities">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-909.45245" y="308.10553" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/physical-death" label="Physical death">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="729.0876" y="92.1495" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/accepting-and-magnifying-church-callings" label="Accepting and magnifying Church callings">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-516.7652" y="-414.15854" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/gethsemane-and-the-crucifixion" label="Gethsemane and the crucifixion">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1088.3978" y="328.46698" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/satan-seeks-to-destroy-the-souls-of-men" label="Satan seeks to destroy the souls of men">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="440.06195" y="29.420212" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/financial-management-according-to-gospel-principles" label="Financial management according to gospel principles">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-462.62195" y="-160.6184" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/plan-of-salvation" label="Plan of salvation / Plan of happiness">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="323.75275" y="-570.2024" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/exaltation" label="Exaltation">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-239.28429" y="-203.91643" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/happiness-and-joy" label="Happiness and joy">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="787.1526" y="-261.7454" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/fullness-of-the-gospel-revealed-in-the-dispensation-of-the-fullness-of-times" label="Fullness of the gospel revealed in the dispensation of the fullness of times">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-359.4589" y="257.77267" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-first-vision" label="The First Vision">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-492.29416" y="439.87085" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/prayer" label="Prayer">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="690.0858" y="413.43756" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/studying-scriptures-and-other-appropriate-materials" label="Studying scriptures and other appropriate materials">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="737.82874" y="392.19745" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/reaching-out-to-respecting-and-including-others-in-and-out-of-the-church" label="Reaching out to, respecting, and including others in and out of the Church,             regardless of religious, political, cultural, or other differences">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1400.532" y="11.262897" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/how-women-share-in-blessings-and-opportunities-of-priesthood" label="How women share in blessings and opportunities of priesthood">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1045.9258" y="-357.58737" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/central-role-in-gods-plan" label="Central role in God's plan">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-118.71969" y="372.92194" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/opposition" label="Opposition">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="618.9382" y="129.27444" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/welfare-principles" label="Welfare Principles">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="0.004399441211717199"/>
+          <attvalue for="eigencentrality" value="0.021117310559407618"/>
+        </attvalues>
+        <viz:size value="3.5"/>
+        <viz:position x="-323.47775" y="-115.68054" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/chastity-modesty-and-purity-in-thought-language-and-action" label="Chastity, modesty, and purity in thought, language, and action">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1415.9172" y="-67.6116" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/vicarious-work-for-the-dead" label="Vicarious work for the dead">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-183.31807" y="71.572014" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/at-the-general-church-level-including-succession-in-the-presidency" label="At the general Church level, including succession in the Presidency">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-876.52716" y="-538.7463" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/obedience" label="Obedience">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="949.8436" y="-140.9492" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/post-mortal-continuing-ministry" label="Post-mortal, continuing ministry">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-707.22406" y="194.52156" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/enduring-to-the-end" label="Enduring to the end">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-360.76337" y="-488.25092" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/meekness-and-self-control" label="Meekness and self-control">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1016.5827" y="-157.55049" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/meeting-adversity" label="Meeting adversity">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="632.69305" y="-241.48773" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/oath-and-covenant-of-the-priesthood" label="Oath and Covenant of the Priesthood">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-267.62546" y="-317.01273" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/fasting" label="Fasting">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="581.05707" y="317.75766" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/consequences-of-sin" label="Consequences of sin">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="426.7281" y="-30.299376" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/agency" label="Agency">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="0.0022625697660259877"/>
+          <attvalue for="eigencentrality" value="0.008446924223763046"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="507.3136" y="129.1566" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/our-birth-as-spirit-children-of-heavenly-father" label="Our birth as spirit children of Heavenly Father with potential to become like             Him">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="199.51663" y="-356.14792" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/rebellion-of-lucifer" label="Rebellion of Lucifer">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="115.99357" y="-632.07825" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/dating-and-courtship" label="Dating and courtship">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-178.06102" y="399.52692" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/home-production-and-storage" label="Home production and storage">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-454.79898" y="-83.76652" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/consecration" label="Consecration">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="843.5882" y="30.033442" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-godhead" label="The Godhead">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="0.002974860247923058"/>
+          <attvalue for="eigencentrality" value="0.01267038633564457"/>
+        </attvalues>
+        <viz:size value="2.5"/>
+        <viz:position x="-195.39136" y="-29.590357" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/final-judgment" label="Final judgment">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-136.6909" y="-278.15335" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-second-coming-of-jesus-christ-and-the-millennium" label="The Second Coming of Jesus Christ and the Millennium">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="0.002974860247923058"/>
+          <attvalue for="eigencentrality" value="0.01267038633564457"/>
+        </attvalues>
+        <viz:size value="2.5"/>
+        <viz:position x="-30.393356" y="-94.82416" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/multiplying-and-replenishing-the-earth" label="Multiplying and replenishing the earth">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-137.6908" y="532.34827" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/reverence" label="Reverence">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="465.7485" y="-143.80579" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/priesthood-and-church-government" label="Priesthood and Church government">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="0.017897345843666684"/>
+          <attvalue for="eigencentrality" value="0.10600572006681651"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-403.9913" y="-298.17148" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-doctrine-and-covenants" label="The Doctrine and Covenants: origin, history, purpose, content">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1042.5334" y="274.8471" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/sanctity-of-life" label="Sanctity of life">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="888.6332" y="-179.04262" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/receiving-and-reverencing-a-physical-body" label="Receiving and reverencing a physical body (including Word of Wisdom)">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="685.6728" y="-282.56192" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/blessing-the-sick-fathers-blessings-and-other-blessings" label="Blessing the sick, father's blessings, and other blessings">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1132.1492" y="-413.0644" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-light-of-christ" label="The Light of Christ">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="864.9835" y="413.4869" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/humility-and-overcoming-pride" label="Humility and overcoming pride">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1109.0886" y="-88.05859" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-bible-and-the-jst" label="The Bible and the JST: origin, history, purpose, content">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="885.9102" y="333.80145" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/record-keeping" label="Record keeping">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-616.17377" y="-277.7696" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/obligations-and-blessings-of-temple-covenants" label="Obligations and blessings of temple covenants">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="104.999664" y="113.360565" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/participating-in-wholesome-work-recreational-activities-and-family-traditions" label="Participating in wholesome work, recreational activities and family             traditions">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-145.314" y="639.877" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/exemplar-and-teacher" label="Exemplar and teacher">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-887.8328" y="173.68466" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/only-one-able-to-atone" label="Only one able to atone">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1224.7743" y="299.75845" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-holy-ghost" label="The Holy Ghost">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="887.54944" y="371.04056" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/faith-in-the-lord-jesus-christ" label="Faith in the Lord Jesus Christ">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-311.5158" y="-395.34912" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/personal-revelation" label="Personal revelation">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1006.41077" y="314.9335" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/priesthood-ordination" label="Priesthood ordination">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-161.20746" y="-473.39484" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/caring-for-the-poor-and-needy" label="Caring for the poor and needy">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-263.06165" y="-139.22237" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/righteous-leadership-and-presiding-in-the-lords-way" label="Righteous leadership and presiding in the Lord's way">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-624.37683" y="-336.05682" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/worship" label="Worship">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="0.0036871507298201285"/>
+          <attvalue for="eigencentrality" value="0.016893848447526092"/>
+        </attvalues>
+        <viz:size value="3.0"/>
+        <viz:position x="590.6697" y="-89.495415" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/state-of-the-soul-between-death-and-resurrection" label="State of the soul between death and resurrection">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-259.12427" y="-221.01637" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel" label="Principles, Ordinances and Covenants of the Gospel">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="0.009884077922324642"/>
+          <attvalue for="eigencentrality" value="0.0550247695315393"/>
+        </attvalues>
+        <viz:size value="6.5"/>
+        <viz:position x="-106.63154" y="-376.993" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-restoration-of-priesthood-authority-and-keys" label="The restoration of priesthood authority and keys">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-410.48495" y="420.97607" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/degrees-of-glory" label="Degrees of glory">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1.2379972" y="-202.11292" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-coming-forth-of-the-book-of-mormon" label="The coming forth of the Book of Mormon">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-560.16394" y="399.6777" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/repentance" label="Repentance">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-238.81021" y="-414.12894" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/parental-responsibility-to-rear-children-in-love-and-righteousness" label="Parental responsibility to rear children in love and righteousness">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-297.239" y="704.1028" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/justice-and-mercy" label="Justice and mercy">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1014.1142" y="249.44598" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/parental-responsibility-to-provide-for-physical-and-spiritual-needs" label="Parental responsibility to provide for physical and spiritual needs">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-23.32382" y="618.33813" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/single-adults-and-single-parent-families" label="Single adults and single-parent families">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-374.58423" y="661.6812" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/in-the-family" label="In the family">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-751.34314" y="-579.74457" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/retention-and-reactivation" label="Retention and reactivation">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-427.76242" y="-354.23306" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/need-for-a-redeemer-to-overcome-spiritual-death" label="Need for a Redeemer to overcome spiritual death">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-795.6788" y="370.46997" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/significant-events-in-church-history-and-the-heritage-of-the-latter-day-saints" label="Significant events in Church history and the heritage of the Latter-day Saints             (general and local)">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-402.52716" y="215.24898" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/maintaining-temple-worthiness-and-having-a-current-temple-recommend" label="Maintaining temple worthiness and having a current temple recommend">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-37.12381" y="134.24408" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/serving-others" label="Serving others">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1031.5013" y="-30.270817" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/sabbath-day" label="Sabbath Day">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="702.43915" y="-84.25247" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/ministry-in-the-spirit-world" label="Ministry in the spirit world">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-690.81696" y="92.56898" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/confirmation-and-the-gift-of-the-holy-ghost" label="Confirmation and the gift of the Holy Ghost">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-305.47705" y="-509.06717" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/charity" label="Charity">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1030.6786" y="-115.48878" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man" label="The Fall and the mortal existence of man">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="0.03559776431880892"/>
+          <attvalue for="eigencentrality" value="0.23938816811527416"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="334.64908" y="10.160775" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/family-prayer-family-scripture-study-and-family-home-evening" label="Family prayer, family scripture study, and family home evening">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-15.824187" y="683.15247" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/choice-and-accountability" label="Choice and accountability">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="585.33044" y="150.55289" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/holy-ghost" label="Holy Ghost: Names or titles, nature, attributes, role or mission">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-413.56186" y="-10.685692" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/sacredness-of-family-relationships" label="Sacredness of family relationships: avoiding child, elderly and spousal abuse">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-89.03159" y="331.47208" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/need-for-a-savior-to-overcome-physical-death-through-resurrection" label="Need for a Savior to overcome physical death through resurrection">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-888.7797" y="279.04044" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-premortal-existence-of-man" label="The premortal existence of man">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="0.00600209479598561"/>
+          <attvalue for="eigencentrality" value="0.03408710208775097"/>
+        </attvalues>
+        <viz:size value="2.5"/>
+        <viz:position x="10.354203" y="-298.53397" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-prophet-joseph-smith" label="The Prophet Joseph Smith: his divine calling and mission">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-214.41216" y="193.88078" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/god-the-father" label="God the Father: Names or titles, nature, attributes, role or mission">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-314.44138" y="10.335976" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/jesus-only-begotten-son-of-god-the-father" label="Jesus, Only Begotten Son of God the Father">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-568.9369" y="172.08203" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/ministry-to-the-prophets-as-jehovah" label="Ministry to the prophets as Jehovah">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-585.86835" y="72.09524" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/mortal-life-and-ministry" label="Mortal life and ministry">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-596.433" y="136.26111" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/forgiving-others" label="Forgiving others">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="932.48346" y="-51.797153" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry" label="Jesus Christ: His Life, Mission and Ministry">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="0.012590781753533517"/>
+          <attvalue for="eigencentrality" value="0.07662112839926502"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-508.02246" y="113.30754" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/tithes-and-offerings" label="Tithes and offerings">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-791.5125" y="-294.34818" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/fostering-love-service-and-mutual-respect-within-the-family-and-extended-family" label="Fostering love, service and mutual respect within the family and extended             family">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-143.62816" y="725.1265" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/priesthood-keys-who-holds-them-their-purpose-and-how-they-are-used" label="Priesthood keys, who holds them, their purpose and how they are used">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-588.93286" y="-454.63898" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/what-gospel-principles-ordinances-and-covenants-are-and-why-the-lord-reveals-them" label="What gospel principles, ordinances and covenants are, and why the Lord reveals             them">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-54.505966" y="-529.9419" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/priesthood-blessings" label="Priesthood Blessings">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="0.0022625697660259877"/>
+          <attvalue for="eigencentrality" value="0.008446924223763046"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="-639.5253" y="-372.40744" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/pondering-gospel-truths" label="Pondering gospel truths">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="753.92773" y="254.149" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/origin-and-history" label="Origin and history">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1143.4924" y="-471.41595" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/offices-and-duties" label="Offices and duties">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-819.57263" y="-496.962" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/endowment-including-washing-and-anointing" label="Endowment, including washing and anointing">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-17.779999" y="-455.07147" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-great-apostasy" label="The Great Apostasy">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-12.933669" y="236.51176" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/testimony" label="Testimony">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1015.7459" y="354.92816" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-second-coming" label="The Second Coming">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-3.180177" y="-124.16103" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/church-auxiliaries" label="Church auxiliaries">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-547.29767" y="-436.04233" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/value-of-regular-temple-attendance" label="Value of regular temple attendance">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-191.51003" y="92.0211" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/divine-roles-of-men-and-women" label="Divine roles of men and women">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-232.1744" y="353.78354" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-restoration" label="The Restoration">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="7"/>
+          <attvalue for="pageranks" value="0.006821228850167239"/>
+          <attvalue for="eigencentrality" value="0.03825068316109277"/>
+        </attvalues>
+        <viz:size value="3.5"/>
+        <viz:position x="-302.94714" y="153.10251" z="0.0"/>
+        <viz:color r="11" g="229" b="78"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-scattering-and-gathering-of-the-house-of-israel" label="The scattering and gathering of the house of Israel">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-240.66681" y="-647.31604" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/honesty-and-integrity" label="Honesty and integrity">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="859.90424" y="-105.49197" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/callings-assignments-and-foreordinations-for-mortality" label="Callings, assignments and foreordinations for mortality">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-15.697893" y="-613.36426" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/developing-a-christ-like-character" label="Developing a Christ-like character">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="0.01223463651258497"/>
+          <attvalue for="eigencentrality" value="0.06757539379010437"/>
+        </attvalues>
+        <viz:size value="9.0"/>
+        <viz:position x="729.7197" y="-31.366653" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-postmortal-existence-of-man" label="The postmortal existence of man">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="0.004399441211717199"/>
+          <attvalue for="eigencentrality" value="0.021117310559407618"/>
+        </attvalues>
+        <viz:size value="3.5"/>
+        <viz:position x="-179.19615" y="-181.05798" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-abrahamic-covenant" label="The Abrahamic Covenant">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="0.0022625697660259877"/>
+          <attvalue for="eigencentrality" value="0.008446924223763046"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="-245.81415" y="-590.29114" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-atonement" label="The Atonement">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="0.00796089362120255"/>
+          <attvalue for="eigencentrality" value="0.042234621118815235"/>
+        </attvalues>
+        <viz:size value="6.0"/>
+        <viz:position x="-827.22546" y="247.39597" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/mans-fallen-nature-as-a-result-of-the-fall" label="Man's fallen nature as a result of the Fall">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="682.2579" y="110.62288" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/curriculum-planning-guide" label="The Curriculum Planning Guide">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="0.6811347565540928"/>
+          <attvalue for="eigencentrality" value="1.0"/>
+        </attvalues>
+        <viz:size value="7.5"/>
+        <viz:position x="-80.53988" y="-48.848854" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/offering-appointment-and-mission-of-the-savior" label="Offering, appointment, and mission of the Savior">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="221.69067" y="-592.25073" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/new-and-everlasting-covenant-of-marriage-and-the-sealing-of-families" label="New and everlasting covenant of marriage and the sealing of families">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-182.26515" y="-550.4472" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-fall-of-adam-and-eve" label="The Fall of Adam and Eve">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="0.0036871507298201285"/>
+          <attvalue for="eigencentrality" value="0.016893848447526092"/>
+        </attvalues>
+        <viz:size value="3.0"/>
+        <viz:position x="621.805" y="52.96955" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/establishing-zion" label="Establishing Zion">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-777.9468" y="-392.79675" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/empowering-us-to-change-our-fallen-nature-and-to-become-children-of-christ" label="Empowering us to change our fallen nature and to become children of Christ">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1018.0204" y="349.9359" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/prophetic-signs-and-events-leading-to-the-second-coming" label="Prophetic signs and events leading to the Second Coming">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="53.4893" y="-73.186165" z="0.0"/>
+        <viz:color r="45" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/personal-and-family-history" label="Personal and family history">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="116.7901" y="71.54442" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/attributes-of-successful-families" label="Attributes of successful families">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="0.00582402217551134"/>
+          <attvalue for="eigencentrality" value="0.029564234783170662"/>
+        </attvalues>
+        <viz:size value="4.5"/>
+        <viz:position x="-170.77614" y="564.7845" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/honoring-fathers-and-mothers" label="Honoring fathers and mothers">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-230.07967" y="596.72906" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/miracles" label="Miracles">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="645.57227" y="276.93246" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-book-of-mormon" label="The Book of Mormon: origin, history, purpose, content">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="543.6309" y="355.52307" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/sacrament" label="Sacrament">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-89.62389" y="-489.9035" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/creating-and-maintaining-a-successful-relationship-between-husband-and-wife" label="Creating and maintaining a successful relationship between husband and wife">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-85.463165" y="510.59177" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/resurrection-of-christ" label="Resurrection of Christ">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-819.00665" y="149.54529" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/hope" label="Hope">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1042.5686" y="-51.410202" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/education-and-self-improvement" label="Education and self-improvement">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-398.07025" y="-63.027885" z="0.0"/>
+        <viz:color r="229" g="112" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/family-history-and-temple-work" label="Family history and temple work">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="0.00511173169361427"/>
+          <attvalue for="eigencentrality" value="0.02534077267128914"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-77.81882" y="50.60936" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-grand-council-in-heaven" label="The Grand Council in Heaven">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="10"/>
+          <attvalue for="pageranks" value="0.004399441211717199"/>
+          <attvalue for="eigencentrality" value="0.021117310559407618"/>
+        </attvalues>
+        <viz:size value="3.5"/>
+        <viz:position x="91.624435" y="-473.35513" z="0.0"/>
+        <viz:color r="229" g="11" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/courage" label="Courage">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="914.9054" y="-76.60612" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/gifts-of-the-spirit" label="Gifts of the Spirit">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="955.0727" y="234.34085" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/baptism" label="Baptism">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-175.01057" y="-434.89145" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/offering-a-broken-heart-and-a-contrite-spirit" label="Offering a broken heart and a contrite spirit">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="1062.6874" y="48.991764" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/marriage-ordained-of-god" label="Marriage, ordained of God">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="pageranks" value="0.0022625697660259877"/>
+          <attvalue for="eigencentrality" value="0.008446924223763046"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="-123.59202" y="442.61227" z="0.0"/>
+        <viz:color r="229" g="212" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/adoption-into-the-house-of-israel" label="Adoption into the House of Israel">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="6"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-186.4878" y="-667.7224" z="0.0"/>
+        <viz:color r="145" g="229" b="11"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/preparing-to-receive-temple-ordinances" label="Preparing to receive temple ordinances">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="11"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="246.44586" y="92.414055" z="0.0"/>
+        <viz:color r="229" g="11" b="112"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/aaronic-and-melchizedek-priesthoods" label="Aaronic and Melchizedek Priesthoods">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="0.0022625697660259877"/>
+          <attvalue for="eigencentrality" value="0.008446924223763046"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="-816.6744" y="-432.88605" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/receiving-saving-ordinances-and-covenants" label="Receiving saving ordinances and covenants (general principle; for specific ordinances             see Section 11)">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="728.2243" y="-199.89478" z="0.0"/>
+        <viz:color r="229" g="11" b="212"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/mediator-advocate-and-judge" label="Mediator, Advocate, and Judge">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="9"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-680.24084" y="329.04034" z="0.0"/>
+        <viz:color r="11" g="178" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/communication-between-god-and-man" label="Communication between God and man">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="0.0115223460306879"/>
+          <attvalue for="eigencentrality" value="0.06335193167822285"/>
+        </attvalues>
+        <viz:size value="8.5"/>
+        <viz:position x="639.62366" y="235.28117" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/church-meetings-and-conferences" label="Church meetings and conferences">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="677.8754" y="-63.10558" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/sacrifice" label="Sacrifice">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="8"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="931.70026" y="-124.42263" z="0.0"/>
+        <viz:color r="145" g="11" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/missionary-work" label="Missionary work">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-376.86215" y="-434.63943" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/spiritual-death" label="Spiritual death">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="707.9166" y="34.560726" z="0.0"/>
+        <viz:color r="11" g="78" b="229"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/patriarchal-blessings" label="Patriarchal blessings">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-1042.0559" y="-450.90756" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-mission-of-the-church" label="The mission of the Church: Inviting all to come unto Christ">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="5"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-971.52106" y="-261.1437" z="0.0"/>
+        <viz:color r="11" g="229" b="178"/>
+      </node>
+      <node id="http://lds.org/concept/cpg/the-pearl-of-great-price" label="The Pearl of Great Price: origin, history, purpose, content">
+        <attvalues>
+          <attvalue for="0" value="CPG"/>
+          <attvalue for="modularity_class" value="12"/>
+          <attvalue for="pageranks" value="8.379888022318469E-4"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="875.222" y="296.1555" z="0.0"/>
+        <viz:color r="45" g="11" b="229"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="http://lds.org/concept/cpg/self-reliance" target="http://lds.org/concept/cpg/welfare-principles">
+        <attvalues/>
+      </edge>
+      <edge id="2" source="http://lds.org/concept/cpg/nature-and-purposes-of-mortality" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="3" source="http://lds.org/concept/cpg/in-quorums-wards-and-stakes" target="http://lds.org/concept/cpg/understanding-organization-and-functioning-of-the-priesthood">
+        <attvalues/>
+      </edge>
+      <edge id="4" source="http://lds.org/concept/cpg/extending-forgiveness-to-us" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="5" source="http://lds.org/concept/cpg/understanding-organization-and-functioning-of-the-priesthood" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="6" source="http://lds.org/concept/cpg/mans-fallen-nature-as-a-result-of-personal-sin" target="http://lds.org/concept/cpg/the-fall-of-adam-and-eve">
+        <attvalues/>
+      </edge>
+      <edge id="7" source="http://lds.org/concept/cpg/home-and-family" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="8" source="http://lds.org/concept/cpg/citizenship-obedience-to-civil-law-and-participation-in-the-civil-process" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="9" source="http://lds.org/concept/cpg/jesus-christ" target="http://lds.org/concept/cpg/the-godhead">
+        <attvalues/>
+      </edge>
+      <edge id="10" source="http://lds.org/concept/cpg/gratitude" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="11" source="http://lds.org/concept/cpg/grace" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="12" source="http://lds.org/concept/cpg/gaining-knowledge-and-experience" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="13" source="http://lds.org/concept/cpg/mission-of-prophets-seers-and-revelators" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="14" source="http://lds.org/concept/cpg/premortal-choices-and-the-war-in-heaven" target="http://lds.org/concept/cpg/the-grand-council-in-heaven">
+        <attvalues/>
+      </edge>
+      <edge id="15" source="http://lds.org/concept/cpg/teaching-the-gospel" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="16" source="http://lds.org/concept/cpg/significant-restoration-events" target="http://lds.org/concept/cpg/the-restoration">
+        <attvalues/>
+      </edge>
+      <edge id="17" source="http://lds.org/concept/cpg/honoring-the-priesthood-and-sustaining-church-leaders" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="18" source="http://lds.org/concept/cpg/resurrections" target="http://lds.org/concept/cpg/the-postmortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="19" source="http://lds.org/concept/cpg/the-millennium" target="http://lds.org/concept/cpg/the-second-coming-of-jesus-christ-and-the-millennium">
+        <attvalues/>
+      </edge>
+      <edge id="20" source="http://lds.org/concept/cpg/church-councils" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="21" source="http://lds.org/concept/cpg/probationary-state" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="22" source="http://lds.org/concept/cpg/the-organization-of-the-church" target="http://lds.org/concept/cpg/significant-restoration-events">
+        <attvalues/>
+      </edge>
+      <edge id="23" source="http://lds.org/concept/cpg/the-earth" target="http://lds.org/concept/cpg/the-premortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="24" source="http://lds.org/concept/cpg/hymns-and-other-sacred-music" target="http://lds.org/concept/cpg/worship">
+        <attvalues/>
+      </edge>
+      <edge id="25" source="http://lds.org/concept/cpg/succoring-us-according-to-our-infirmities" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="26" source="http://lds.org/concept/cpg/physical-death" target="http://lds.org/concept/cpg/the-fall-of-adam-and-eve">
+        <attvalues/>
+      </edge>
+      <edge id="27" source="http://lds.org/concept/cpg/accepting-and-magnifying-church-callings" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="28" source="http://lds.org/concept/cpg/gethsemane-and-the-crucifixion" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="29" source="http://lds.org/concept/cpg/satan-seeks-to-destroy-the-souls-of-men" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="30" source="http://lds.org/concept/cpg/financial-management-according-to-gospel-principles" target="http://lds.org/concept/cpg/welfare-principles">
+        <attvalues/>
+      </edge>
+      <edge id="31" source="http://lds.org/concept/cpg/plan-of-salvation" target="http://lds.org/concept/cpg/the-grand-council-in-heaven">
+        <attvalues/>
+      </edge>
+      <edge id="32" source="http://lds.org/concept/cpg/exaltation" target="http://lds.org/concept/cpg/the-postmortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="33" source="http://lds.org/concept/cpg/happiness-and-joy" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="34" source="http://lds.org/concept/cpg/fullness-of-the-gospel-revealed-in-the-dispensation-of-the-fullness-of-times" target="http://lds.org/concept/cpg/the-restoration">
+        <attvalues/>
+      </edge>
+      <edge id="35" source="http://lds.org/concept/cpg/the-first-vision" target="http://lds.org/concept/cpg/significant-restoration-events">
+        <attvalues/>
+      </edge>
+      <edge id="36" source="http://lds.org/concept/cpg/prayer" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="37" source="http://lds.org/concept/cpg/studying-scriptures-and-other-appropriate-materials" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="38" source="http://lds.org/concept/cpg/reaching-out-to-respecting-and-including-others-in-and-out-of-the-church" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="39" source="http://lds.org/concept/cpg/how-women-share-in-blessings-and-opportunities-of-priesthood" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="40" source="http://lds.org/concept/cpg/central-role-in-gods-plan" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="41" source="http://lds.org/concept/cpg/opposition" target="http://lds.org/concept/cpg/agency">
+        <attvalues/>
+      </edge>
+      <edge id="42" source="http://lds.org/concept/cpg/welfare-principles" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="43" source="http://lds.org/concept/cpg/chastity-modesty-and-purity-in-thought-language-and-action" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="44" source="http://lds.org/concept/cpg/vicarious-work-for-the-dead" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="45" source="http://lds.org/concept/cpg/at-the-general-church-level-including-succession-in-the-presidency" target="http://lds.org/concept/cpg/understanding-organization-and-functioning-of-the-priesthood">
+        <attvalues/>
+      </edge>
+      <edge id="46" source="http://lds.org/concept/cpg/obedience" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="47" source="http://lds.org/concept/cpg/post-mortal-continuing-ministry" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="48" source="http://lds.org/concept/cpg/enduring-to-the-end" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="49" source="http://lds.org/concept/cpg/meekness-and-self-control" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="50" source="http://lds.org/concept/cpg/meeting-adversity" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="51" source="http://lds.org/concept/cpg/oath-and-covenant-of-the-priesthood" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="52" source="http://lds.org/concept/cpg/fasting" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="53" source="http://lds.org/concept/cpg/consequences-of-sin" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="54" source="http://lds.org/concept/cpg/agency" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="55" source="http://lds.org/concept/cpg/our-birth-as-spirit-children-of-heavenly-father" target="http://lds.org/concept/cpg/the-premortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="56" source="http://lds.org/concept/cpg/rebellion-of-lucifer" target="http://lds.org/concept/cpg/the-grand-council-in-heaven">
+        <attvalues/>
+      </edge>
+      <edge id="57" source="http://lds.org/concept/cpg/dating-and-courtship" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="58" source="http://lds.org/concept/cpg/home-production-and-storage" target="http://lds.org/concept/cpg/welfare-principles">
+        <attvalues/>
+      </edge>
+      <edge id="59" source="http://lds.org/concept/cpg/consecration" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="60" source="http://lds.org/concept/cpg/the-godhead" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="61" source="http://lds.org/concept/cpg/final-judgment" target="http://lds.org/concept/cpg/the-postmortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="62" source="http://lds.org/concept/cpg/the-second-coming-of-jesus-christ-and-the-millennium" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="63" source="http://lds.org/concept/cpg/multiplying-and-replenishing-the-earth" target="http://lds.org/concept/cpg/marriage-ordained-of-god">
+        <attvalues/>
+      </edge>
+      <edge id="64" source="http://lds.org/concept/cpg/reverence" target="http://lds.org/concept/cpg/worship">
+        <attvalues/>
+      </edge>
+      <edge id="65" source="http://lds.org/concept/cpg/priesthood-and-church-government" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="66" source="http://lds.org/concept/cpg/the-doctrine-and-covenants" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="67" source="http://lds.org/concept/cpg/sanctity-of-life" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="68" source="http://lds.org/concept/cpg/receiving-and-reverencing-a-physical-body" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="69" source="http://lds.org/concept/cpg/blessing-the-sick-fathers-blessings-and-other-blessings" target="http://lds.org/concept/cpg/priesthood-blessings">
+        <attvalues/>
+      </edge>
+      <edge id="70" source="http://lds.org/concept/cpg/the-light-of-christ" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="71" source="http://lds.org/concept/cpg/humility-and-overcoming-pride" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="72" source="http://lds.org/concept/cpg/the-bible-and-the-jst" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="73" source="http://lds.org/concept/cpg/record-keeping" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="74" source="http://lds.org/concept/cpg/obligations-and-blessings-of-temple-covenants" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="75" source="http://lds.org/concept/cpg/participating-in-wholesome-work-recreational-activities-and-family-traditions" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="76" source="http://lds.org/concept/cpg/exemplar-and-teacher" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="77" source="http://lds.org/concept/cpg/only-one-able-to-atone" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="78" source="http://lds.org/concept/cpg/the-holy-ghost" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="79" source="http://lds.org/concept/cpg/faith-in-the-lord-jesus-christ" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="80" source="http://lds.org/concept/cpg/personal-revelation" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="81" source="http://lds.org/concept/cpg/priesthood-ordination" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="82" source="http://lds.org/concept/cpg/caring-for-the-poor-and-needy" target="http://lds.org/concept/cpg/welfare-principles">
+        <attvalues/>
+      </edge>
+      <edge id="83" source="http://lds.org/concept/cpg/righteous-leadership-and-presiding-in-the-lords-way" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="84" source="http://lds.org/concept/cpg/worship" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="85" source="http://lds.org/concept/cpg/state-of-the-soul-between-death-and-resurrection" target="http://lds.org/concept/cpg/the-postmortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="86" source="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="87" source="http://lds.org/concept/cpg/the-restoration-of-priesthood-authority-and-keys" target="http://lds.org/concept/cpg/significant-restoration-events">
+        <attvalues/>
+      </edge>
+      <edge id="88" source="http://lds.org/concept/cpg/degrees-of-glory" target="http://lds.org/concept/cpg/the-postmortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="89" source="http://lds.org/concept/cpg/the-coming-forth-of-the-book-of-mormon" target="http://lds.org/concept/cpg/significant-restoration-events">
+        <attvalues/>
+      </edge>
+      <edge id="90" source="http://lds.org/concept/cpg/repentance" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="91" source="http://lds.org/concept/cpg/parental-responsibility-to-rear-children-in-love-and-righteousness" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="92" source="http://lds.org/concept/cpg/justice-and-mercy" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="93" source="http://lds.org/concept/cpg/parental-responsibility-to-provide-for-physical-and-spiritual-needs" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="94" source="http://lds.org/concept/cpg/single-adults-and-single-parent-families" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="95" source="http://lds.org/concept/cpg/in-the-family" target="http://lds.org/concept/cpg/understanding-organization-and-functioning-of-the-priesthood">
+        <attvalues/>
+      </edge>
+      <edge id="96" source="http://lds.org/concept/cpg/retention-and-reactivation" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="97" source="http://lds.org/concept/cpg/need-for-a-redeemer-to-overcome-spiritual-death" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="98" source="http://lds.org/concept/cpg/significant-events-in-church-history-and-the-heritage-of-the-latter-day-saints" target="http://lds.org/concept/cpg/the-restoration">
+        <attvalues/>
+      </edge>
+      <edge id="99" source="http://lds.org/concept/cpg/maintaining-temple-worthiness-and-having-a-current-temple-recommend" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="100" source="http://lds.org/concept/cpg/serving-others" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="101" source="http://lds.org/concept/cpg/sabbath-day" target="http://lds.org/concept/cpg/worship">
+        <attvalues/>
+      </edge>
+      <edge id="102" source="http://lds.org/concept/cpg/ministry-in-the-spirit-world" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="103" source="http://lds.org/concept/cpg/confirmation-and-the-gift-of-the-holy-ghost" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="104" source="http://lds.org/concept/cpg/charity" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="105" source="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="106" source="http://lds.org/concept/cpg/family-prayer-family-scripture-study-and-family-home-evening" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="107" source="http://lds.org/concept/cpg/choice-and-accountability" target="http://lds.org/concept/cpg/agency">
+        <attvalues/>
+      </edge>
+      <edge id="108" source="http://lds.org/concept/cpg/holy-ghost" target="http://lds.org/concept/cpg/the-godhead">
+        <attvalues/>
+      </edge>
+      <edge id="109" source="http://lds.org/concept/cpg/sacredness-of-family-relationships" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="110" source="http://lds.org/concept/cpg/need-for-a-savior-to-overcome-physical-death-through-resurrection" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="111" source="http://lds.org/concept/cpg/the-premortal-existence-of-man" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="112" source="http://lds.org/concept/cpg/the-prophet-joseph-smith" target="http://lds.org/concept/cpg/the-restoration">
+        <attvalues/>
+      </edge>
+      <edge id="113" source="http://lds.org/concept/cpg/god-the-father" target="http://lds.org/concept/cpg/the-godhead">
+        <attvalues/>
+      </edge>
+      <edge id="114" source="http://lds.org/concept/cpg/jesus-only-begotten-son-of-god-the-father" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="115" source="http://lds.org/concept/cpg/ministry-to-the-prophets-as-jehovah" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="116" source="http://lds.org/concept/cpg/mortal-life-and-ministry" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="117" source="http://lds.org/concept/cpg/forgiving-others" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="118" source="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="119" source="http://lds.org/concept/cpg/tithes-and-offerings" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="120" source="http://lds.org/concept/cpg/fostering-love-service-and-mutual-respect-within-the-family-and-extended-family" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="121" source="http://lds.org/concept/cpg/priesthood-keys-who-holds-them-their-purpose-and-how-they-are-used" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="122" source="http://lds.org/concept/cpg/what-gospel-principles-ordinances-and-covenants-are-and-why-the-lord-reveals-them" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="123" source="http://lds.org/concept/cpg/priesthood-blessings" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="124" source="http://lds.org/concept/cpg/pondering-gospel-truths" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="125" source="http://lds.org/concept/cpg/origin-and-history" target="http://lds.org/concept/cpg/aaronic-and-melchizedek-priesthoods">
+        <attvalues/>
+      </edge>
+      <edge id="126" source="http://lds.org/concept/cpg/offices-and-duties" target="http://lds.org/concept/cpg/aaronic-and-melchizedek-priesthoods">
+        <attvalues/>
+      </edge>
+      <edge id="127" source="http://lds.org/concept/cpg/endowment-including-washing-and-anointing" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="128" source="http://lds.org/concept/cpg/the-great-apostasy" target="http://lds.org/concept/cpg/the-restoration">
+        <attvalues/>
+      </edge>
+      <edge id="129" source="http://lds.org/concept/cpg/testimony" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="130" source="http://lds.org/concept/cpg/the-second-coming" target="http://lds.org/concept/cpg/the-second-coming-of-jesus-christ-and-the-millennium">
+        <attvalues/>
+      </edge>
+      <edge id="131" source="http://lds.org/concept/cpg/church-auxiliaries" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="132" source="http://lds.org/concept/cpg/value-of-regular-temple-attendance" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="133" source="http://lds.org/concept/cpg/divine-roles-of-men-and-women" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="134" source="http://lds.org/concept/cpg/the-restoration" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="135" source="http://lds.org/concept/cpg/the-scattering-and-gathering-of-the-house-of-israel" target="http://lds.org/concept/cpg/the-abrahamic-covenant">
+        <attvalues/>
+      </edge>
+      <edge id="136" source="http://lds.org/concept/cpg/honesty-and-integrity" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="137" source="http://lds.org/concept/cpg/callings-assignments-and-foreordinations-for-mortality" target="http://lds.org/concept/cpg/the-grand-council-in-heaven">
+        <attvalues/>
+      </edge>
+      <edge id="138" source="http://lds.org/concept/cpg/developing-a-christ-like-character" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="139" source="http://lds.org/concept/cpg/the-postmortal-existence-of-man" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="140" source="http://lds.org/concept/cpg/the-abrahamic-covenant" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="141" source="http://lds.org/concept/cpg/the-atonement" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="142" source="http://lds.org/concept/cpg/mans-fallen-nature-as-a-result-of-the-fall" target="http://lds.org/concept/cpg/the-fall-of-adam-and-eve">
+        <attvalues/>
+      </edge>
+      <edge id="143" source="http://lds.org/concept/cpg/curriculum-planning-guide" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="144" source="http://lds.org/concept/cpg/offering-appointment-and-mission-of-the-savior" target="http://lds.org/concept/cpg/the-grand-council-in-heaven">
+        <attvalues/>
+      </edge>
+      <edge id="145" source="http://lds.org/concept/cpg/new-and-everlasting-covenant-of-marriage-and-the-sealing-of-families" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="146" source="http://lds.org/concept/cpg/the-fall-of-adam-and-eve" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="147" source="http://lds.org/concept/cpg/establishing-zion" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="148" source="http://lds.org/concept/cpg/empowering-us-to-change-our-fallen-nature-and-to-become-children-of-christ" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="149" source="http://lds.org/concept/cpg/prophetic-signs-and-events-leading-to-the-second-coming" target="http://lds.org/concept/cpg/the-second-coming-of-jesus-christ-and-the-millennium">
+        <attvalues/>
+      </edge>
+      <edge id="150" source="http://lds.org/concept/cpg/personal-and-family-history" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="151" source="http://lds.org/concept/cpg/attributes-of-successful-families" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="152" source="http://lds.org/concept/cpg/honoring-fathers-and-mothers" target="http://lds.org/concept/cpg/attributes-of-successful-families">
+        <attvalues/>
+      </edge>
+      <edge id="153" source="http://lds.org/concept/cpg/miracles" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="154" source="http://lds.org/concept/cpg/the-book-of-mormon" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="155" source="http://lds.org/concept/cpg/sacrament" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="156" source="http://lds.org/concept/cpg/creating-and-maintaining-a-successful-relationship-between-husband-and-wife" target="http://lds.org/concept/cpg/marriage-ordained-of-god">
+        <attvalues/>
+      </edge>
+      <edge id="157" source="http://lds.org/concept/cpg/resurrection-of-christ" target="http://lds.org/concept/cpg/jesus-christ-his-life-mission-and-ministry">
+        <attvalues/>
+      </edge>
+      <edge id="158" source="http://lds.org/concept/cpg/hope" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="159" source="http://lds.org/concept/cpg/education-and-self-improvement" target="http://lds.org/concept/cpg/welfare-principles">
+        <attvalues/>
+      </edge>
+      <edge id="160" source="http://lds.org/concept/cpg/family-history-and-temple-work" target="http://lds.org/concept/cpg/curriculum-planning-guide">
+        <attvalues/>
+      </edge>
+      <edge id="161" source="http://lds.org/concept/cpg/the-grand-council-in-heaven" target="http://lds.org/concept/cpg/the-premortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="162" source="http://lds.org/concept/cpg/courage" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="163" source="http://lds.org/concept/cpg/gifts-of-the-spirit" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+      <edge id="164" source="http://lds.org/concept/cpg/baptism" target="http://lds.org/concept/cpg/principles-ordinances-and-covenants-of-the-gospel">
+        <attvalues/>
+      </edge>
+      <edge id="165" source="http://lds.org/concept/cpg/offering-a-broken-heart-and-a-contrite-spirit" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="166" source="http://lds.org/concept/cpg/marriage-ordained-of-god" target="http://lds.org/concept/cpg/home-and-family">
+        <attvalues/>
+      </edge>
+      <edge id="167" source="http://lds.org/concept/cpg/adoption-into-the-house-of-israel" target="http://lds.org/concept/cpg/the-abrahamic-covenant">
+        <attvalues/>
+      </edge>
+      <edge id="168" source="http://lds.org/concept/cpg/preparing-to-receive-temple-ordinances" target="http://lds.org/concept/cpg/family-history-and-temple-work">
+        <attvalues/>
+      </edge>
+      <edge id="169" source="http://lds.org/concept/cpg/aaronic-and-melchizedek-priesthoods" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="170" source="http://lds.org/concept/cpg/receiving-saving-ordinances-and-covenants" target="http://lds.org/concept/cpg/nature-and-purposes-of-mortality">
+        <attvalues/>
+      </edge>
+      <edge id="171" source="http://lds.org/concept/cpg/mediator-advocate-and-judge" target="http://lds.org/concept/cpg/the-atonement">
+        <attvalues/>
+      </edge>
+      <edge id="172" source="http://lds.org/concept/cpg/communication-between-god-and-man" target="http://lds.org/concept/cpg/the-fall-and-the-mortal-existence-of-man">
+        <attvalues/>
+      </edge>
+      <edge id="173" source="http://lds.org/concept/cpg/church-meetings-and-conferences" target="http://lds.org/concept/cpg/worship">
+        <attvalues/>
+      </edge>
+      <edge id="174" source="http://lds.org/concept/cpg/sacrifice" target="http://lds.org/concept/cpg/developing-a-christ-like-character">
+        <attvalues/>
+      </edge>
+      <edge id="175" source="http://lds.org/concept/cpg/missionary-work" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="176" source="http://lds.org/concept/cpg/spiritual-death" target="http://lds.org/concept/cpg/the-fall-of-adam-and-eve">
+        <attvalues/>
+      </edge>
+      <edge id="177" source="http://lds.org/concept/cpg/patriarchal-blessings" target="http://lds.org/concept/cpg/priesthood-blessings">
+        <attvalues/>
+      </edge>
+      <edge id="178" source="http://lds.org/concept/cpg/the-mission-of-the-church" target="http://lds.org/concept/cpg/priesthood-and-church-government">
+        <attvalues/>
+      </edge>
+      <edge id="179" source="http://lds.org/concept/cpg/the-pearl-of-great-price" target="http://lds.org/concept/cpg/communication-between-god-and-man">
+        <attvalues/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

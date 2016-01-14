@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application appDesc="The Gospel Topical Explorer 2.0: Semantic data on the Scriptures and other gospel ads" appName="gospel-topical-explorer-v2" appVersion="1.0">
+	<roles>
+		<role desc="Default application role" name="app">
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/xdmp-get-session-field"/>
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/xdmp-set-session-field"/>
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/sem-sparql"/>
+		</role>
+		<role desc="Amps need for xray" name="amp-xray">
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/xdmp-filesystem-directory"/>
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/xslt-invoke"/>
+			<executePrivilege action="*http://marklogic.com/xdmp/privileges/xdmp-eval"/>
+		</role>
+		<role desc="this role can edit" name="edittor">
+		</role>
+	</roles>
+	<users>
+		<user description="Application default user" name="app" password="dr5xUwrubaBA" roles="app"/>
+		<user description="Application authorized user" name="auth" password="t5ePhaGastud" roles="app, amp-xray, edittor"/>
+	</users>
+	<dbs>
+		<db dbName="*Modules">
+			<dir name="/code/gospel-topical-explorer-v2/" permissionsMode="set">
+				<permissions access="rx" applyToChildren="false" roles="app"/>
+				<load merge="true" root="/">
+					<excludes>
+						<exclude>db/</exclude>
+					</excludes>
+				</load>
+				<server db="!gospel-topical-explorer-v2" name="http" port="9679" type="http">
+					<authentication>application-level</authentication>
+					<defaultUser>app</defaultUser>
+					<computeContentLength>true</computeContentLength>
+					<debugAllow>false</debugAllow>
+					<profileAllow>true</profileAllow>
+					<urlRewriter>rewriter.xqy</urlRewriter>
+				</server>
+				<dir name="/xray/src/">
+					<amp file="modules-filesystem.xqy" functions="filesystem-directory-exists" namespace="http://github.com/robwhitby/xray/modules-fs" roles="amp-xray"/>
+					<amp file="xray.xqy" functions="xray:transform,run-module" namespace="http://github.com/robwhitby/xray" roles="amp-xray"/>
+				</dir>
+			</dir>
+		</db>
+		<db dbName="!gospel-topical-explorer-v2">
+			<inMemoryTripleIndexSize>99</inMemoryTripleIndexSize>
+			<wordSearches>true</wordSearches>
+			<tripleIndex>true</tripleIndex>
+			
+			<dir name="/gospel-topical-explorer-v2/" permissionsMode="set">
+				<server name="content" type="webdav" port="9674">
+					<computeContentLength>false</computeContentLength>
+				</server>
+				<uriPrivilege roles="edittor"/>
+				<permissions access="r" applyToChildren="true" roles="app" batchMode="spawn"/>
+				<permissions access="riu" applyToChildren="true" roles="edittor" batchMode="spawn"/>
+			</dir>
+		</db>
+	</dbs>
+</application>
