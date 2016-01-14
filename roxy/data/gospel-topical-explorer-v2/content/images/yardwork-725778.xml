@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#yardwork-725778" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">yardwork-725778</uri-title>
+      <source>yardwork-725778</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Lawn Mowers</subject>
+          <subject>Mowing Lawns</subject>
+          <subject>Sheds</subject>
+          <subject>Smith</subject>
+          <subject>Christina</subject>
+          <subject>Summer</subject>
+          <subject>Teenagers</subject>
+          <subject>Working</subject>
+          <subject>Yardwork</subject>
+          <subject>Young men</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>106 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>147 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>294 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>462 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/yardwork-725778-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#siren-fire-truck-952867" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">siren-fire-truck-952867</uri-title>
+      <source>siren-fire-truck-952867</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>fire truck</subject>
+          <subject>fire engine</subject>
+          <subject>siren</subject>
+          <subject>horn</subject>
+          <subject>emergency</subject>
+          <subject>emergency vehicle</subject>
+          <subject>silver</subject>
+          <subject>yellow</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>327 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>367 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>748 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/siren-fire-truck-952867-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

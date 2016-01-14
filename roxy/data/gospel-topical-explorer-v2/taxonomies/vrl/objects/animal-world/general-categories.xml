@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/objects/animal-world/general-categories" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">GENERAL CATEGORIES</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/Topic</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/amphibians</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/baby-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/blowholes</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/cobwebs</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/cubs</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/domesticated-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/extinct-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/farm-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/flocks</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/fossils</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/hoofprints</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/horns</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/insects</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/livestock</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/mammals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/mares</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/marine-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/pests</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/pets</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/predators</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/primates</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/pygmy-animals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/sea-life</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/sea-mammals</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/talons</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/wildebeests</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/wildlife-refuges</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/objects/animal-world/general-categories</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/objects/animal-world/general-categories/work-animals</sem:object>
+  </sem:triple>
+</sem:triples>

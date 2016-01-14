@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#dad-child-on-atv-769692" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">dad-child-on-atv-769692</uri-title>
+      <source>dad-child-on-atv-769692</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bartholomew</subject>
+          <subject>Christina</subject>
+          <subject>Daughters</subject>
+          <subject>Fatherhood</subject>
+          <subject>Fathers</subject>
+          <subject>Outdoor recreation</subject>
+          <subject>All Terrain Vehicles (ATVs)</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>324 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>666 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/dad-child-on-atv-769692-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

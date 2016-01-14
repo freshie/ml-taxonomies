@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#trek-west-82836" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">trek-west-82836</uri-title>
+      <source>trek-west-82836</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Mary Fielding Smith and Joseph F. Smith Crossing the Plains</title>
+      <description>Mary Fielding Smith and Joseph F. Smith Crossing the Plains (<i>Gospel Art Book</i> [2009], no. 101) - <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=da135f74db46c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=dd16f48fa2d20110VgnVCM100000176f620a____&amp;hideNav=1&amp;contentLocale=0">Teachings of Presidents of the Church: Joseph F. Smith (1998),</a> <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=da135f74db46c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=5a3720596a845110VgnVCM100000176f620a____&amp;hideNav=1&amp;contentLocale=0">xiv,</a> <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=da135f74db46c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=724720596a845110VgnVCM100000176f620a____&amp;hideNav=1&amp;contentLocale=0">21–22</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>pioneers</subject>
+          <subject>covered wagons</subject>
+          <subject>oxen</subject>
+          <subject>pioneer life</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>682 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>770 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/trek-west-82836-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

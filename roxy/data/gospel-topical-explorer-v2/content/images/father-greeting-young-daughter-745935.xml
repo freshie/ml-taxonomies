@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/fatherhood#father-greeting-young-daughter-745935" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">father-greeting-young-daughter-745935</uri-title>
+      <source>father-greeting-young-daughter-745935</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV100830cah0276.eps</subject>
+          <subject>AV100830cah0276.jpg</subject>
+          <subject>Church employees</subject>
+          <subject>Daughters</subject>
+          <subject>Fatherhood</subject>
+          <subject>Fathers</subject>
+          <subject>Girls</subject>
+          <subject>Greetings</subject>
+          <subject>Smith</subject>
+          <subject>Christina</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>186 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>207 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>432 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>836 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-greeting-young-daughter-745935-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="father-greeting-young-daughter-745935" locale="eng" uri="/media-library/images/fatherhood#father-greeting-young-daughter-745935" status="publish" site="ldsorg" source="chq" words="136" tgp="0.4755"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#joseph-f-smith-mormon-prophet-154665" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">joseph-f-smith-mormon-prophet-154665</uri-title>
+      <source>joseph-f-smith-mormon-prophet-154665</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Joseph F. Smith</title>
+      <description>Joseph F. Smith - <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=d7561b08f338c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=98a2c106dac20110VgnVCM100000176f620a____">Our Heritage, 105-7</a></description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>joseph f. smith</subject>
+          <subject>prophets</subject>
+          <subject>presidents of the church</subject>
+          <subject>portraits</subject>
+          <subject>photographs</subject>
+          <subject>photos</subject>
+          <subject>church leaders</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>228 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>324 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>713 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-mormon-prophet-154665-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="joseph-f-smith-mormon-prophet-154665" locale="eng" uri="/media-library/images/gospel-art/latter-day-prophets#joseph-f-smith-mormon-prophet-154665" status="publish" site="ldsorg" source="chq" words="169" tgp="0.5909"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

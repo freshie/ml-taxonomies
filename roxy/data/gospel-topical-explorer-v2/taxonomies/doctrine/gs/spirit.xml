@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Spirit</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#weight</sem:predicate>
+    <sem:object datatype="xsd:integer">2</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/Topic</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/spirit</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">That part of a living being which exists before mortal birth, which dwells in the physical body during mortality, and which exists after death as a separate being until the resurrection. All living things—mankind, animals, and plants—were spirits before any form of life existed upon the earth (; ). The spirit body looks like the physical body (; ; ; ). Spirit is matter, but it is more fine or pure than mortal element or matter ().</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/tg/spirit?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/study/topics/spirit?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/bd/spirit?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://eom.byu.edu/index.php/Spirit</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/triple-index/spirit?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/manual/true-to-the-faith/spirit</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/death-physical</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/man</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/resurrection</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/soul</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/conscience</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/contrite-heart</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/holy-ghost</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/spirit-creation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/plan-of-salvation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/council-in-heaven</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/foreordination</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/hell</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/spirit-prison</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/mind</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/spirit-holy</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/spirit-world</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/spirit</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">16</sem:object>
+  </sem:triple>
+</sem:triples>

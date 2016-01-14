@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/gospel-topics/plan-of-salvation" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">Plan of Salvation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/creation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/premortal-life</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/mortal-life</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/fall</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/spiritual-world</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/millennium</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/final-judgement</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/exaltation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/agency</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/atonement</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/death</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/heaven</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/hell</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/kingdoms-of-glory</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/paradise</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/resurrection</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/gospel</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/council-in-heaven</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/eternal-life</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/spiritual-prison</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/telestial-kingdom</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/terrestrial-kingdom</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/celestial-kingdom</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/heavenly-parents</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/war-in-heaven</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/life-after-death</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/earthly-life</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/expulsion-of-satan</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/plan-of-salvation</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/plan-of-salvation/sin</sem:object>
+  </sem:triple>
+</sem:triples>

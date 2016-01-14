@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/fatherhood#father-caring-for-sick-girl-504307" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">father-caring-for-sick-girl-504307</uri-title>
+      <source>father-caring-for-sick-girl-504307</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>VRL_11902_8124366.eps</subject>
+          <subject>VRL_11902_8124366.jpg</subject>
+          <subject>Children</subject>
+          <subject>Family Life</subject>
+          <subject>Fathers</subject>
+          <subject>Girls</subject>
+          <subject>Helping</subject>
+          <subject>Illness</subject>
+          <subject>Lockwood</subject>
+          <subject>Jon T.</subject>
+          <subject>Parents</subject>
+          <subject>Sickness</subject>
+          <subject>Visiting the Sick</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>404 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>473 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>894 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-caring-for-sick-girl-504307-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="father-caring-for-sick-girl-504307" locale="eng" uri="/media-library/images/fatherhood#father-caring-for-sick-girl-504307" status="publish" site="ldsorg" source="chq" words="155" tgp="0.542"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

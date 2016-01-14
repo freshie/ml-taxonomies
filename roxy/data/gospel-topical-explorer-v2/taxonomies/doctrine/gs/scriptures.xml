@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#weight</sem:predicate>
+    <sem:object datatype="xsd:integer">2</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/Asset</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Words, both written and spoken, by holy men of God when moved upon by the Holy Ghost. The official canonized scriptures of the Church today consist of the Bible, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price. Jesus and the writers of the New Testament regarded the books of the Old Testament as scripture (; ; ; ).There are many sacred writings mentioned in the scriptures that we do not have today, among which are these books and writers: the covenant (), the wars of the Lord (), Jasher (; ), the acts of Solomon (), Samuel the seer (), Nathan the prophet (), Shemaiah the prophet (), Iddo the prophet (), Jehu (), the sayings of the seers (), Enoch (), and the words of Zenock, Neum, and Zenos (), Zenos (), Zenock and Ezias (), and a book of remembrance (); and epistles to the Corinthians (), to the Ephesians (), and from Laodicea ().</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/music/csb</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/triple-index/scriptures?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/music/hymns</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/study/topics/scriptures?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/manual/true-to-the-faith/scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://eom.byu.edu/index.php/Scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/bible</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/book-of-mormon</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/canon</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/chronology</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/doctrine-and-covenants</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/pearl-of-great-price</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/word-of-god</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/book-of-commandments</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/commandments-of-god</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/knowledge</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/new-testament</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/old-testament</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/plates</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/prophecy</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/revelation</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/truth</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/scriptures-lost</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/restoration-of-the-gospel</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/authority</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/scriptures</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">20</sem:object>
+  </sem:triple>
+</sem:triples>

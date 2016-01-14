@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Eve</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Person</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#gender</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">female</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">proper noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/eve</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">The first woman to live on this earth (; ). She was Adam’s wife. In Hebrew the name means “life” and implies that Eve was the first mother on earth (). She and Adam, the first man, will share eternal glory for their role in making possible the eternal progress of all mankind.</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://eom.byu.edu/index.php/Eve</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/bd/eve?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/triple-index/eve?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/adam</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/eden</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/fall-of-adam-and-eve</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/woman</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#pronunciation</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">ēv</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/eve</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">4</sem:object>
+  </sem:triple>
+</sem:triples>

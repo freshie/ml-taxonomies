@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Assyria</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/assyria</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">An ancient empire which, with its rival Babylon, ruled much of the old states of Syria and Palestine throughout most of Old Testament times. Even though the Assyrians were a major power from the mid-12th century  until the close of the 7th century , they were never able to build a stable political structure. They ruled by terror, crushing their enemies by fire and sword or weakening them by deporting large portions of a population to other parts of their empire. Their subjects never ceased to be their foes, and the whole course of the empire was marked by incessant revolts. (See ; ; ; .)</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/triple-index/assyria?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#pronunciation</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">a-sĭr´ē-a</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/assyria</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">0</sem:object>
+  </sem:triple>
+</sem:triples>

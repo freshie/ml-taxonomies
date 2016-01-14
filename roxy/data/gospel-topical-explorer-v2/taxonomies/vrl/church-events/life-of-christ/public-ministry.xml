@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-events/life-of-christ/public-ministry" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">PUBLIC MINISTRY</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Event</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/baptism-of-jesus</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/john-the-baptist-testifies-of-christ</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/imprisonment-of-john-the-baptist</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/john-the-baptist-beheaded</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/herod-antipas-supposes-jesus-to-be-john-the-baptist</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-fasting-forty-days</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/devil-tempts-jesus-in-the-wilderness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-tempted-to-make-bread-out-of-stones</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/devil-offers-jesus-all-the-kingdoms-of-the-world</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-tempted-at-the-pinnacle-of-the-temple</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-commands-devil-to-depart</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-calls-the-apostles</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/nicodemus-taught-by-christ</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-asks-the-woman-at-the-well-for-water</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-feast-with-publicans-and-sinners</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-rejected-in-nazareth</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/disciples-eat-corn-on-the-sabbath</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/ordination-of-the-apostles</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-gives-sermon-on-the-mount</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-anointed-in-the-pharisees-house</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/peter-proclaims-jesus-as-the-son-of-god</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-death-and-resurrection-foretold</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/transfiguration-of-jesus</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/seventy-sent-forth</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-forgives-a-woman-taken-in-adultery</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-in-the-home-of-mary-and-martha</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/jesus-talks-to-the-rich-young-ruler</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/james-and-john-aspire-to-greatness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/zacchaeus-the-publican-called-by-jesus</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/life-of-christ/public-ministry</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/life-of-christ/public-ministry/mary-of-bethany-anoints-jesus</sem:object>
+  </sem:triple>
+</sem:triples>

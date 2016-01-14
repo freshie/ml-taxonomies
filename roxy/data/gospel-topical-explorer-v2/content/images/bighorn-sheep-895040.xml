@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#bighorn-sheep-895040" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">bighorn-sheep-895040</uri-title>
+      <source>bighorn-sheep-895040</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>animals</subject>
+          <subject>sheep</subject>
+          <subject>bighorns</subject>
+          <subject>rams</subject>
+          <subject>wildlife</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/bighorn-sheep-895040-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/bighorn-sheep-895040-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>154 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bighorn-sheep-895040-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>181 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bighorn-sheep-895040-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>373 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bighorn-sheep-895040-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

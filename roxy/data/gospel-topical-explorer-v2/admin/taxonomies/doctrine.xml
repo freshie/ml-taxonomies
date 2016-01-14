@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy key="doctrine">
+    <title>Doctrine T-Core</title>
+    <description>The Doctrine Taxonomy Core (T-Core) combines the comprehensive and detailed Gospel-based 'Guide to the Scriptures' concept list with the relevant and hierarchically constructed 'Curriculum Planning Guide.' Together, they provide a focused, semantically related taxonomy capable of enriching any content for search and retrieval systems.</description>
+    <owner>mark.ward</owner>
+    <path>http://lds.org/sem/taxonomies/doctrine/</path>
+</taxonomy>

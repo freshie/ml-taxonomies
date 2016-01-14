@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Pride</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#weight</sem:predicate>
+    <sem:object datatype="xsd:integer">3</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/Topic</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/triple-index/pride?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://eom.byu.edu/index.php/Pride</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/tg/pride?lang=eng</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/pride</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">A lack or absence of humility or teachableness. Pride sets people in opposition to each other and to God. A proud person sets himself above those around him and follows his own will rather than God’s will. Conceit, envy, hardheartedness, and haughtiness are also typical of a proud person.</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/envy</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/humble</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/money</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/riches</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/vain</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/worldliness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/pride</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">6</sem:object>
+  </sem:triple>
+</sem:triples>

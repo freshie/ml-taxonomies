@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/fall#river-kirtland-935302" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">river-kirtland-935302</uri-title>
+      <source>river-kirtland-935302</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Autumn</subject>
+          <subject>Fall</subject>
+          <subject>Fences</subject>
+          <subject>Kirtland</subject>
+          <subject>RiversTrees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>282 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>394 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>862 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/river-kirtland-935302-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/gospel-topics/service" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">Service</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/service/community-service</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/service/missionary-service</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/service/serving-at-home</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/gospel-topics/service</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/gospel-topics/service/serving-in-the-church</sem:object>
+  </sem:triple>
+</sem:triples>

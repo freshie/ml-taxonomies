@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-events/old-testament/joshua" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">JOSHUA</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Event</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/israelites-circumcised</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/manna-ceases</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/joshuas-vision</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/israel-passes-through-the-river-jordan-on-dry-ground</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/setting-up-twelve-memorial-stones</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/israel-defeats-jericho</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/israelites-destroy-ai</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/gibeonites-become-servants-to-the-israelites</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/kings-hung</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/joshuas-final-address-to-the-israelites</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/joshua</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/joshua/josephs-bones-buried-in-shechem</sem:object>
+  </sem:triple>
+</sem:triples>

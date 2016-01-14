@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/structures#cathedral-in-antigua-guatemala-506599" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">cathedral-in-antigua-guatemala-506599</uri-title>
+      <source>cathedral-in-antigua-guatemala-506599</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-27">2012-09-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>structures</subject>
+          <subject>guatemala</subject>
+          <subject>cathedral</subject>
+          <subject>architecture</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>268 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>303 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>653 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/cathedral-in-antigua-guatemala-506599-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

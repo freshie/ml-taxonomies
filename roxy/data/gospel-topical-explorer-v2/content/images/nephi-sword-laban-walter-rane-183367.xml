@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#nephi-sword-laban-walter-rane-183367" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">nephi-sword-laban-walter-rane-183367</uri-title>
+      <source>nephi-sword-laban-walter-rane-183367</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Nephi and Laben</title>
+      <description>Nephi and Laben</description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>laban</subject>
+          <subject>nephi</subject>
+          <subject>obedience</subject>
+          <subject>courage</subject>
+          <subject>faith</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>65 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>89 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>181 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>286 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-sword-laban-walter-rane-183367-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="nephi-sword-laban-walter-rane-183367" locale="eng" uri="/media-library/images/gospel-art/book-of-mormon#nephi-sword-laban-walter-rane-183367" status="publish" site="ldsorg" source="chq" words="160" tgp="0.5594"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

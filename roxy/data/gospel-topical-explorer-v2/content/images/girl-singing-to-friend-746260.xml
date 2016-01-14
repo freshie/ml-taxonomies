@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/illustrations#girl-singing-to-friend-746260" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">girl-singing-to-friend-746260</uri-title>
+      <source>girl-singing-to-friend-746260</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>girls</subject>
+          <subject>schools</subject>
+          <subject>singing</subject>
+          <subject>tables</subject>
+          <subject>drawing</subject>
+          <subject>coloring</subject>
+          <subject>friends</subject>
+          <subject>classroom</subject>
+          <subject>helping</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>638 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>753 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/girl-singing-to-friend-746260-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="girl-singing-to-friend-746260" locale="eng" uri="/media-library/images/primary/illustrations#girl-singing-to-friend-746260" status="publish" site="ldsorg" source="chq" words="140" tgp="0.4895"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

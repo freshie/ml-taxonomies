@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-leadership/other-general-authorities#elder-gary-e-stevenson-lds-496853" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">elder-gary-e-stevenson-lds-496853</uri-title>
+      <source>elder-gary-e-stevenson-lds-496853</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-01">2012-11-01</publication-date>
+      <title>Gary E. Stevenson</title>
+      <description>Gary E. Stevenson - Presiding Bishop | <a href="http://www.lds.org/church/leader/gary-e-stevenson?lang=eng" target="_blank">Read his official biography</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>gary e. stevenson</subject>
+          <subject>presiding bishopric</subject>
+          <subject>bishops</subject>
+          <subject>official portraits</subject>
+          <subject>church leaders</subject>
+          <subject>general authorities</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>57 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>80 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>192 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>337 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-gary-e-stevenson-lds-496853-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

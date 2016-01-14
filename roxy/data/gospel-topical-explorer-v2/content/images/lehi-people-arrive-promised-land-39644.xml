@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#lehi-people-arrive-promised-land-39644" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">lehi-people-arrive-promised-land-39644</uri-title>
+      <source>lehi-people-arrive-promised-land-39644</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Lehi and His People Arrive in the Promised Land</title>
+      <description>Lehi and His People Arrive in the Promised Land (<i>Gospel Art Book</i> [2009], no. 71) - <a href="http://scriptures.lds.org/en/1_ne/18/1-24#1">1 Ne. 18:1–24</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>book of mormon</subject>
+          <subject>art</subject>
+          <subject>paintings</subject>
+          <subject>lehi</subject>
+          <subject>nephi</subject>
+          <subject>sariah</subject>
+          <subject>promised land</subject>
+          <subject>boat</subject>
+          <subject>ship</subject>
+          <subject>ocean</subject>
+          <subject>sailing</subject>
+          <subject>family</subject>
+          <subject>arrive</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>368 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>507 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/lehi-people-arrive-promised-land-39644-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

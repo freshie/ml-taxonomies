@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#huastec-veracruzana-765685" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">huastec-veracruzana-765685</uri-title>
+      <source>huastec-veracruzana-765685</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Veracruz</subject>
+          <subject>Mexico</subject>
+          <subject>Huastec</subject>
+          <subject>Mountains</subject>
+          <subject>Forests</subject>
+          <subject>Clouds</subject>
+          <subject>trees</subject>
+          <subject>woods</subject>
+          <subject>cliffs</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/huastec-veracruzana-765685-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/mountains/huastec-veracruzana-765685-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>210 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/huastec-veracruzana-765685-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>272 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/huastec-veracruzana-765685-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="huastec-veracruzana-765685" locale="eng" uri="/media-library/images/mountains#huastec-veracruzana-765685" status="publish" site="ldsorg" source="chq" words="84" tgp="0.2937"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

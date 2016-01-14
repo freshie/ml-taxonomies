@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/historical#pitcher-candlestick-845853" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">pitcher-candlestick-845853</uri-title>
+      <source>pitcher-candlestick-845853</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>pitchers</subject>
+          <subject>jars</subject>
+          <subject>candlesticks</subject>
+          <subject>containers</subject>
+          <subject>holders</subject>
+          <subject>antiques</subject>
+          <subject>kitchens</subject>
+          <subject>tools</subject>
+          <subject>shelves</subject>
+          <subject>mugs</subject>
+          <subject>cups</subject>
+          <subject>old</subject>
+          <subject>pewter</subject>
+          <subject>shelf</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/historical/pitcher-candlestick-845853-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/historical/pitcher-candlestick-845853-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>133 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/pitcher-candlestick-845853-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>146 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/pitcher-candlestick-845853-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>286 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/pitcher-candlestick-845853-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

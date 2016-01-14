@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#family-fishing-776167" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">family-fishing-776167</uri-title>
+      <source>family-fishing-776167</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>sunsets</subject>
+          <subject>sunrises</subject>
+          <subject>family outings</subject>
+          <subject>families</subject>
+          <subject>summertime</subject>
+          <subject>lakes</subject>
+          <subject>water</subject>
+          <subject>docks</subject>
+          <subject>fishing</subject>
+          <subject>outdoor recreation</subject>
+          <subject>silhouettes</subject>
+          <subject>trees</subject>
+          <subject>relfections</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/family-fishing-776167-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/family-fishing-776167-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>122 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-fishing-776167-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>135 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-fishing-776167-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>271 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-fishing-776167-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

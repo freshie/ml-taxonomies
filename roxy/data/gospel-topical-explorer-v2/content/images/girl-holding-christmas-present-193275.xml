@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#girl-holding-christmas-present-193275" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">girl-holding-christmas-present-193275</uri-title>
+      <source>girl-holding-christmas-present-193275</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>girls</subject>
+          <subject>children</subject>
+          <subject>gifts</subject>
+          <subject>presents</subject>
+          <subject>christmas</subject>
+          <subject>bows</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>63 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>84 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>184 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>316 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/girl-holding-christmas-present-193275-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="girl-holding-christmas-present-193275" locale="eng" uri="/media-library/images/christmas#girl-holding-christmas-present-193275" status="publish" site="ldsorg" source="chq" words="129" tgp="0.451"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/palmyra-new-york#palmyra-temple-766540" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">palmyra-temple-766540</uri-title>
+      <source>palmyra-temple-766540</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>temples</subject>
+          <subject>palmyra temple</subject>
+          <subject>palmyra</subject>
+          <subject>new york</subject>
+          <subject>spires</subject>
+          <subject>trees</subject>
+          <subject>angel moroni statue</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>102 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>142 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>321 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>531 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/palmyra-new-york/palmyra-temple-766540-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="palmyra-temple-766540" locale="eng" uri="/media-library/images/temples/palmyra-new-york#palmyra-temple-766540" status="publish" site="ldsorg" source="chq" words="136" tgp="0.4755"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

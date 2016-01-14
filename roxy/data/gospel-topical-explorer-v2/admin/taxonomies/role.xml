@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy key="role">
+    <title>Role T-Core</title>
+    <description>The Role Taxonomy Core (T-Core) represents all the ecclesiastical roles within the Church.</description>
+    <owner>mark.ward</owner>
+    <path>http://lds.org/sem/taxonomies/role/</path>
+</taxonomy>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#the-mormon-battalion-45575" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-mormon-battalion-45575</uri-title>
+      <source>the-mormon-battalion-45575</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Mormon Battalion</title>
+      <description>A Mormon Battalion member - Joseph William Richards</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>church history</subject>
+          <subject>mormon battalion</subject>
+          <subject>joseph william richards</subject>
+          <subject>uniform</subject>
+          <subject>military</subject>
+          <subject>militia</subject>
+          <subject>soldiers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-mormon-battalion-45575-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-mormon-battalion-45575-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>87 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-mormon-battalion-45575-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>116 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-mormon-battalion-45575-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

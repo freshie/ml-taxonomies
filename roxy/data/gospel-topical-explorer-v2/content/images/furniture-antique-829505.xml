@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/historical#furniture-antique-829505" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">furniture-antique-829505</uri-title>
+      <source>furniture-antique-829505</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>antiques</subject>
+          <subject>desks</subject>
+          <subject>tables</subject>
+          <subject>offices</subject>
+          <subject>books</subject>
+          <subject>writing</subject>
+          <subject>furniture</subject>
+          <subject>old</subject>
+          <subject>reading</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/historical/furniture-antique-829505-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/historical/furniture-antique-829505-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>125 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/furniture-antique-829505-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>163 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/furniture-antique-829505-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>318 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/furniture-antique-829505-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

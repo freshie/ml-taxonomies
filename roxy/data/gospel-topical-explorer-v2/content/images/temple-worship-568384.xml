@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples-related/temples-with-people#temple-worship-568384" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">temple-worship-568384</uri-title>
+      <source>temple-worship-568384</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-03-20">2012-03-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>50 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>65 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>130 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>212 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/temple-worship-568384-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="temple-worship-568384" locale="eng" uri="/media-library/images/temples-related/temples-with-people#temple-worship-568384" status="publish" site="ldsorg" source="chq" words="131" tgp="0.458"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

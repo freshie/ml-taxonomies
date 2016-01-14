@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">20TH CENTURY</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/reed-smoot</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/hyrum-m-smith</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/george-albert-smith</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/charles-w-penrose</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/david-o-mckay</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/george-f-richards</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/orson-f-whitney</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/anthony-w-ivins</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/joseph-fielding-smith</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/james-e-talmage</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/stephen-l-richards</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/richard-r-lyman</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/melvin-j-ballard</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/john-a-widtsoe</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/joseph-f-merrill</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/charles-a-callis</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/j-reuben-clark</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/alonzo-a-hinckley</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/albert-e-bowen</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/sylvester-q-cannon</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/harold-b-lee</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/spencer-w-kimball</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/ezra-taft-benson</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/mark-e-petersen</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/matthew-cowley</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/henry-d-moyle</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/delbert-l-stapley</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/marion-g-romney</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/legrand-richards</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/adam-s-bennion</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/richard-l-evans</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/george-q-morris</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/hugh-b-brown</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/howard-w-hunter</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/gordon-b-hinckley</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/nathan-eldon-tanner</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/thomas-spencer-monson</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/marvin-j-ashton</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/boyd-k-packer</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/bruce-r-mcconkie</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/david-b-haight</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/l-tom-perry</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/james-e-faust</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/neal-a-maxwell</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/russell-m-nelson</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/dallin-h-oaks</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/joseph-b-wirthlin</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/richard-g-scott</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/robert-d-hales</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/jeffrey-r-holland</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/quorums-of-the-twelve-apostles/20th-century/henry-b-eyering</sem:object>
+  </sem:triple>
+</sem:triples>

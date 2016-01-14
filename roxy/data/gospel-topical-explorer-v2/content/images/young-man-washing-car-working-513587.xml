@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/youth/activities#young-man-washing-car-working-513587" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">young-man-washing-car-working-513587</uri-title>
+      <source>young-man-washing-car-working-513587</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>young man</subject>
+          <subject>young men</subject>
+          <subject>boy</subject>
+          <subject>teen</subject>
+          <subject>wash car</subject>
+          <subject>service</subject>
+          <subject>fundraiser</subject>
+          <subject>suds</subject>
+          <subject>car wash</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>373 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>481 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>983 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/young-man-washing-car-working-513587-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="young-man-washing-car-working-513587" locale="eng" uri="/media-library/images/youth/activities#young-man-washing-car-working-513587" status="publish" site="ldsorg" source="chq" words="151" tgp="0.528"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

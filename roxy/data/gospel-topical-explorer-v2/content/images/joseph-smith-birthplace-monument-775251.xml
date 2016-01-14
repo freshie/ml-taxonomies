@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#joseph-smith-birthplace-monument-775251" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">joseph-smith-birthplace-monument-775251</uri-title>
+      <source>joseph-smith-birthplace-monument-775251</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>101550.tif</subject>
+          <subject>CU050203-022.eps</subject>
+          <subject>CU050203-022alt.eps</subject>
+          <subject>101550/UNKNOWN</subject>
+          <subject>Birth</subject>
+          <subject>Church History</subject>
+          <subject>General Authorities</subject>
+          <subject>Joseph Smith Monument</subject>
+          <subject>Sharon (VT)</subject>
+          <subject>Monuments</subject>
+          <subject>Smith</subject>
+          <subject>Joseph Jr.</subject>
+          <subject>Vermont</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>57 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>77 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>281 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/joseph-smith-birthplace-monument-775251-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="joseph-smith-birthplace-monument-775251" locale="eng" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#joseph-smith-birthplace-monument-775251" status="publish" site="ldsorg" source="chq" words="196" tgp="0.6853"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

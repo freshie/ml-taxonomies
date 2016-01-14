@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/dating-marriage#young-man-woman-movie-theater-683869" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">young-man-woman-movie-theater-683869</uri-title>
+      <source>young-man-woman-movie-theater-683869</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV100111cah008.eps</subject>
+          <subject>AV100111cah008.jpg</subject>
+          <subject>Chairs</subject>
+          <subject>Courtship</subject>
+          <subject>Dating</subject>
+          <subject>Luke</subject>
+          <subject>John</subject>
+          <subject>Theaters</subject>
+          <subject>Theaters (movie)</subject>
+          <subject>Young men</subject>
+          <subject>Young women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>67 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>75 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>164 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>352 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-man-woman-movie-theater-683869-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="young-man-woman-movie-theater-683869" locale="eng" uri="/media-library/images/dating-marriage#young-man-woman-movie-theater-683869" status="publish" site="ldsorg" source="chq" words="153" tgp="0.535"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

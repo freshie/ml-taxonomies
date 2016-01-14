@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parenthood#couple-new-baby-296966" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">couple-new-baby-296966</uri-title>
+      <source>couple-new-baby-296966</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>parenthood</subject>
+          <subject>parents</subject>
+          <subject>children</subject>
+          <subject>infants</subject>
+          <subject>mothers</subject>
+          <subject>fathers</subject>
+          <subject>babies</subject>
+          <subject>family</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>92 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>123 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>269 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>455 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-new-baby-296966-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="couple-new-baby-296966" locale="eng" uri="/media-library/images/parenthood#couple-new-baby-296966" status="publish" site="ldsorg" source="chq" words="123" tgp="0.4301"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

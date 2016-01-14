@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#grand-teton-mountains-829654" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">grand-teton-mountains-829654</uri-title>
+      <source>grand-teton-mountains-829654</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-23">2012-08-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mountains</subject>
+          <subject>peaks</subject>
+          <subject>lakes</subject>
+          <subject>snow</subject>
+          <subject>capped</subject>
+          <subject>grand tetons</subject>
+          <subject>wyoming</subject>
+          <subject>nature</subject>
+          <subject>landscapes</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/grand-teton-mountains-829654-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/mountains/grand-teton-mountains-829654-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>155 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/grand-teton-mountains-829654-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>213 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/grand-teton-mountains-829654-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>444 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/grand-teton-mountains-829654-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

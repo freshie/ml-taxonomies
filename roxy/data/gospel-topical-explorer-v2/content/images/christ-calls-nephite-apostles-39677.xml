@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#christ-calls-nephite-apostles-39677" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">christ-calls-nephite-apostles-39677</uri-title>
+      <source>christ-calls-nephite-apostles-39677</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Christ with Three Nephite Disciples</title>
+      <description>Christ with Three Nephite Disciples - <a href="http://scriptures.lds.org/john/21/21-23#21">John 21:21–23;</a> <a href="http://scriptures.lds.org/3_ne/28">3 Nephi 28</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Book of Mormon</subject>
+          <subject>Art</subject>
+          <subject>Jesus</subject>
+          <subject>Christ</subject>
+          <subject>America</subject>
+          <subject>Teaching</subject>
+          <subject>Nephites</subject>
+          <subject>Resurrection</subject>
+          <subject>Resurrected</subject>
+          <subject>Disciples</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>591 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>834 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-calls-nephite-apostles-39677-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

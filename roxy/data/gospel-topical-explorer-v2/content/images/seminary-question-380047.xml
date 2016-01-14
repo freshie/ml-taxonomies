@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/education/spiritual#seminary-question-380047" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">seminary-question-380047</uri-title>
+      <source>seminary-question-380047</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Seminary</subject>
+          <subject>Students</subject>
+          <subject>Classes</subject>
+          <subject>Young Women</subject>
+          <subject>Youth</subject>
+          <subject>Books</subject>
+          <subject>Scriptures</subject>
+          <subject>Reading</subject>
+          <subject>Raising Hands</subject>
+          <subject>Classrooms</subject>
+          <subject>Teenagers</subject>
+          <subject>Learning</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>103 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>139 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>292 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>474 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/seminary-question-380047-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="seminary-question-380047" locale="eng" uri="/media-library/images/education/spiritual#seminary-question-380047" status="publish" site="ldsorg" source="chq" words="127" tgp="0.4441"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

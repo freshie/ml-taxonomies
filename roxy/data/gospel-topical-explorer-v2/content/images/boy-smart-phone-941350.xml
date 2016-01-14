@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#boy-smart-phone-941350" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boy-smart-phone-941350</uri-title>
+      <source>boy-smart-phone-941350</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>boys</subject>
+          <subject>teenagers</subject>
+          <subject>youth</subject>
+          <subject>young men</subject>
+          <subject>technology</subject>
+          <subject>cell phones</subject>
+          <subject>smartphones</subject>
+          <subject>handheld devices</subject>
+          <subject>digital</subject>
+          <subject>watching</subject>
+          <subject>media</subject>
+          <subject>viewing</subject>
+          <subject>lds</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>170 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>194 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>441 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>904 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/boy-smart-phone-941350-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

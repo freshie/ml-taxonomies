@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/structures#brooklyn-bridge-in-rain-761035" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">brooklyn-bridge-in-rain-761035</uri-title>
+      <source>brooklyn-bridge-in-rain-761035</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>New York City</subject>
+          <subject>Brooklyn Bridge</subject>
+          <subject>Bridges</subject>
+          <subject>Architecture</subject>
+          <subject>Flags</subject>
+          <subject>Cities</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/structures/brooklyn-bridge-in-rain-761035-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/structures/brooklyn-bridge-in-rain-761035-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>183 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/brooklyn-bridge-in-rain-761035-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>216 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/brooklyn-bridge-in-rain-761035-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>516 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/brooklyn-bridge-in-rain-761035-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="brooklyn-bridge-in-rain-761035" locale="eng" uri="/media-library/images/structures#brooklyn-bridge-in-rain-761035" status="publish" site="ldsorg" source="chq" words="114" tgp="0.3986"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

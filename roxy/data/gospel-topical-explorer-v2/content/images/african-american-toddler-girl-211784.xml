@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/infants-toddlers#african-american-toddler-girl-211784" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">african-american-toddler-girl-211784</uri-title>
+      <source>african-american-toddler-girl-211784</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>africans</subject>
+          <subject>children</subject>
+          <subject>toddlers</subject>
+          <subject>childhood</subject>
+          <subject>tears</subject>
+          <subject>crying</subject>
+          <subject>welfare program</subject>
+          <subject>orphanage</subject>
+          <subject>girls</subject>
+          <subject>ghana</subject>
+          <subject>west africa</subject>
+          <subject>charity</subject>
+          <subject>sadness</subject>
+          <subject>baby</subject>
+          <subject>babies</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>101 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>113 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>243 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>519 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/infants-toddlers/african-american-toddler-girl-211784-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="african-american-toddler-girl-211784" locale="eng" uri="/media-library/images/infants-toddlers#african-american-toddler-girl-211784" status="publish" site="ldsorg" source="chq" words="146" tgp="0.5105"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

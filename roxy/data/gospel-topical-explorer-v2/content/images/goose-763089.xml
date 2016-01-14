@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#goose-763089" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">goose-763089</uri-title>
+      <source>goose-763089</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>birds</subject>
+          <subject>animals</subject>
+          <subject>canadian geese</subject>
+          <subject>goose</subject>
+          <subject>water</subject>
+          <subject>ripples</subject>
+          <subject>fowl</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/goose-763089-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/goose-763089-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>98 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/goose-763089-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>136 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/goose-763089-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>314 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/goose-763089-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>544 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/goose-763089-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

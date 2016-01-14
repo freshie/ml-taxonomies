@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/statues-plaques#joseph-and-hyrum-carthage-769940" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">joseph-and-hyrum-carthage-769940</uri-title>
+      <source>joseph-and-hyrum-carthage-769940</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>carthage jail</subject>
+          <subject>carthage</subject>
+          <subject>memorial</subject>
+          <subject>statues</subject>
+          <subject>illinois</subject>
+          <subject>prisons</subject>
+          <subject>joseph smith</subject>
+          <subject>hyrum smith</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>142 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>198 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>433 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>697 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/statues-plaques/joseph-and-hyrum-carthage-769940-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="joseph-and-hyrum-carthage-769940" locale="eng" uri="/media-library/images/church-history/statues-plaques#joseph-and-hyrum-carthage-769940" status="publish" site="ldsorg" source="chq" words="152" tgp="0.5315"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

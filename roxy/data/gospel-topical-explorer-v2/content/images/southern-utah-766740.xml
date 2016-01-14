@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#southern-utah-766740" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">southern-utah-766740</uri-title>
+      <source>southern-utah-766740</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-04">2012-09-04</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mountains</subject>
+          <subject>deserts</subject>
+          <subject>rock formations</subject>
+          <subject>valleys</subject>
+          <subject>cliffs</subject>
+          <subject>shrubs</subject>
+          <subject>southern utah</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>216 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>247 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>573 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/southern-utah-766740-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

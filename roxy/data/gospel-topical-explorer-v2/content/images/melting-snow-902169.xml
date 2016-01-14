@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/spring#melting-snow-902169" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">melting-snow-902169</uri-title>
+      <source>melting-snow-902169</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bushes</subject>
+          <subject>Plants</subject>
+          <subject>Snow</subject>
+          <subject>Spring (Season)</subject>
+          <subject>Winter</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>237 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>324 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>687 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/melting-snow-902169-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

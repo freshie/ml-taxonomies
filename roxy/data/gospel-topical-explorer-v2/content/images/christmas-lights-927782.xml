@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#christmas-lights-927782" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">christmas-lights-927782</uri-title>
+      <source>christmas-lights-927782</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>cats</subject>
+          <subject>animals</subject>
+          <subject>pets</subject>
+          <subject>felines</subject>
+          <subject>sitting</subject>
+          <subject>christmas lights</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>69 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>96 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>218 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>370 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/christmas-lights-927782-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

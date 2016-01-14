@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#baking-implements-829458" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">baking-implements-829458</uri-title>
+      <source>baking-implements-829458</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Baking</subject>
+          <subject>Bowls</subject>
+          <subject>Cooking</subject>
+          <subject>Cooking utensils</subject>
+          <subject>Measuring Cups</subject>
+          <subject>Measuring Spoons</subject>
+          <subject>Towels</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>130 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>176 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>382 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>627 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/baking-implements-829458-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

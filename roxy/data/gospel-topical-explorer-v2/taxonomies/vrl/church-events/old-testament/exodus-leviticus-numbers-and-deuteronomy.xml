@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">EXODUS, LEVITICUS, NUMBERS AND DEUTERONOMY</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Event</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-placed-in-bondage</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/pharaoh-decrees-infant-males-to-be-slain</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/birth-of-moses</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/pharaohs-daughter-finds-moses</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-flees-to-midian</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-dwells-in-midian</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/god-appears-to-moses-in-the-burning-bush</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-overcomes-satan</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-before-the-pharaoh</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-rod-becomes-a-serpent</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-river-turned-to-blood</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-frogs-in-the-land</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-lice</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-flies</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-cattle-slain</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-boils-and-blains</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-hail-and-fire</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-locusts</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-darkness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/plagues-in-egypt-firstborn-of-egypt-die</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-freed-from-bondage</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-parts-the-red-sea</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-praise-the-lord</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-receives-ten-commandments</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/aaron-makes-golden-calf</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-covenant-with-the-lord</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-and-the-elders-of-israel-see-the-lord</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelite-rebellion-in-the-wilderness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/building-of-the-tabernacle-in-the-wilderness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/forty-years-of-wanderings-in-the-wilderness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/waters-of-marah-healed</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/manna-from-heaven</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/water-from-the-rock-in-horeb</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/aaron-and-hur-uphold-moses-hands</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/judges-appointed-over-israel</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/nadab-and-abihu-perform-unauthorized-sacrifices</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/census-of-the-israelites</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/manifestations-of-cloud-and-fire-in-the-wilderness</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/fire-consumes-the-rebellious</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/seventy-called</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/quail-and-plaques</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/miriam-and-aaron-complain-against-moses</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-sends-spies-to-canaan</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/korahs-rebellion</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/aarons-rod-blossoms</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/the-brazen-serpent-in-the-desert</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-at-the-waters-of-meribah</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/eleazar-becomes-high-priest</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/balaam-and-the-donkey</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/balaam-blesses-israel</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-slay-their-enemies</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-final-address</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/joshua-succeeds-moses</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/moses-translated</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-events/old-testament/exodus-leviticus-numbers-and-deuteronomy/israelites-inherit-the-land-of-canaan</sem:object>
+  </sem:triple>
+</sem:triples>

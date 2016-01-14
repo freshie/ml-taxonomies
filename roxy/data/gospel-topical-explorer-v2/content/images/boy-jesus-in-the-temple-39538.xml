@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#boy-jesus-in-the-temple-39538" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boy-jesus-in-the-temple-39538</uri-title>
+      <source>boy-jesus-in-the-temple-39538</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Boy Jesus in the Temple</title>
+      <description>Boy Jesus in the Temple - <a href="http://scriptures.lds.org/luke/2/46#46">Luke 2:46</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Gospel Art</subject>
+          <subject>Teaching of Christ</subject>
+          <subject>Christ as a Child</subject>
+          <subject>Temple</subject>
+          <subject>New Testament</subject>
+          <subject>Life of Christ</subject>
+          <subject>Teachings</subject>
+          <subject>Education</subject>
+          <subject>Heavenly Father</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>481 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>538 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

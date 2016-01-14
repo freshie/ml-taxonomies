@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/boise-idaho#boise-temple-759365" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">boise-temple-759365</uri-title>
+      <source>boise-temple-759365</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Boise</subject>
+          <subject>Idaho</subject>
+          <subject>Temples</subject>
+          <subject>Exterior</subject>
+          <subject>Angel Moroni</subject>
+          <subject>Moon</subject>
+          <subject>Sky</subject>
+          <subject>moroni statues</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>57 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>79 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>186 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>318 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/boise-idaho/boise-temple-759365-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="boise-temple-759365" locale="eng" uri="/media-library/images/temples/boise-idaho#boise-temple-759365" status="publish" site="ldsorg" source="chq" words="129" tgp="0.451"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/education/spiritual#institute-girls-272344" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">institute-girls-272344</uri-title>
+      <source>institute-girls-272344</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>church educational system</subject>
+          <subject>knowledge</subject>
+          <subject>teaching</subject>
+          <subject>learning</subject>
+          <subject>scriptures</subject>
+          <subject>institute</subject>
+          <subject>seminary</subject>
+          <subject>studying</subject>
+          <subject>students</subject>
+          <subject>classroom</subject>
+          <subject>young women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>139 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>186 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>388 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>638 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/spiritual/institute-girls-272344-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="institute-girls-272344" locale="eng" uri="/media-library/images/education/spiritual#institute-girls-272344" status="publish" site="ldsorg" source="chq" words="127" tgp="0.4441"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

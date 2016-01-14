@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#noah-and-animals-39461" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">noah-and-animals-39461</uri-title>
+      <source>noah-and-animals-39461</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Noah and the Ark with Animals</title>
+      <description>Noah and the Ark with Animals (<i>Gospel Art Book</i> [2009], no. 8) - <a href="http://scriptures.lds.org/en/gen/6/12-22#12">Genesis 6:12–22;</a> <a href="http://scriptures.lds.org/en/gen/7/2-23#2">7:2–23;</a> <a href="http://scriptures.lds.org/en/gen/8">8</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Noah</subject>
+          <subject>Ark</subject>
+          <subject>Animals</subject>
+          <subject>Storms</subject>
+          <subject>Floods</subject>
+          <subject>Rain</subject>
+          <subject>Old Testament</subject>
+          <subject>Art</subject>
+          <subject>Prophets</subject>
+          <subject>Boats</subject>
+          <subject>Wood</subject>
+          <subject>Sheep</subject>
+          <subject>Cheetahs</subject>
+          <subject>Elk</subject>
+          <subject>Lions</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>748 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>969 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#lds-institute-of-religion-games-385638" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">lds-institute-of-religion-games-385638</uri-title>
+      <source>lds-institute-of-religion-games-385638</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>youth</subject>
+          <subject>young single adults</subject>
+          <subject>girls</subject>
+          <subject>boys</subject>
+          <subject>guys</subject>
+          <subject>teenagers</subject>
+          <subject>games</subject>
+          <subject>pool</subject>
+          <subject>billiards</subject>
+          <subject>playing</subject>
+          <subject>dating</subject>
+          <subject>dates</subject>
+          <subject>recreation</subject>
+          <subject>institute</subject>
+          <subject>leisure</subject>
+          <subject>parties</subject>
+          <subject>party</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>152 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>401 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>971 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-institute-of-religion-games-385638-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

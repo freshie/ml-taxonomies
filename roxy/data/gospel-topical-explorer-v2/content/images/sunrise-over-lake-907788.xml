@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/sunrises-sunsets#sunrise-over-lake-907788" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">sunrise-over-lake-907788</uri-title>
+      <source>sunrise-over-lake-907788</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>sunrises</subject>
+          <subject>sunsets</subject>
+          <subject>lakes</subject>
+          <subject>water</subject>
+          <subject>reflections</subject>
+          <subject>trees</subject>
+          <subject>silhouettes</subject>
+          <subject>sky</subject>
+          <subject>skies</subject>
+          <subject>yellow</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>100 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>261 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>573 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunrise-over-lake-907788-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#angel-moroni-gives-plates-to-joseph-82829" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">angel-moroni-gives-plates-to-joseph-82829</uri-title>
+      <source>angel-moroni-gives-plates-to-joseph-82829</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Joseph Smith Receives the Gold Plates</title>
+      <description>Joseph Smith Receives the Gold Plates - <a href="http://scriptures.lds.org/js_h/1/47-59#47">JS-H 1:47–59</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Church History</subject>
+          <subject>Joseph Smith</subject>
+          <subject>Visions</subject>
+          <subject>Angel Moroni</subject>
+          <subject>Hill Cumorah</subject>
+          <subject>Prophets</subject>
+          <subject>Gold Plates</subject>
+          <subject>Revelations</subject>
+          <subject>Church Leaders</subject>
+          <subject>New York</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>443 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>617 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/angel-moroni-gives-plates-to-joseph-82829-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

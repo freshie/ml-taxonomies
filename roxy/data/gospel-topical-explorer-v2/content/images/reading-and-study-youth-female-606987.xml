@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/youth/activities#reading-and-study-youth-female-606987" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">reading-and-study-youth-female-606987</uri-title>
+      <source>reading-and-study-youth-female-606987</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>young woman</subject>
+          <subject>young women</subject>
+          <subject>teen</subject>
+          <subject>girl</subject>
+          <subject>study</subject>
+          <subject>homework</subject>
+          <subject>school</subject>
+          <subject>write</subject>
+          <subject>filipinos</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>342 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>385 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>802 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/reading-and-study-youth-female-606987-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="reading-and-study-youth-female-606987" locale="eng" uri="/media-library/images/youth/activities#reading-and-study-youth-female-606987" status="publish" site="ldsorg" source="chq" words="149" tgp="0.521"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

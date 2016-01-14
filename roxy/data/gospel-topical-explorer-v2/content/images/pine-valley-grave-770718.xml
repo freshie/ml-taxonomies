@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#pine-valley-grave-770718" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">pine-valley-grave-770718</uri-title>
+      <source>pine-valley-grave-770718</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>cemeteries</subject>
+          <subject>cemetery</subject>
+          <subject>geneology</subject>
+          <subject>family history</subject>
+          <subject>headstone</subject>
+          <subject>gravestone</subject>
+          <subject>marker</subject>
+          <subject>graveyard</subject>
+          <subject>pine valley</subject>
+          <subject>utah</subject>
+          <subject>pioneers</subject>
+          <subject>ancestry</subject>
+          <subject>ancestors</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>260 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>365 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>840 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/pine-valley-grave-770718-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="pine-valley-grave-770718" locale="eng" uri="/media-library/images/family-history#pine-valley-grave-770718" status="publish" site="ldsorg" source="chq" words="137" tgp="0.479"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

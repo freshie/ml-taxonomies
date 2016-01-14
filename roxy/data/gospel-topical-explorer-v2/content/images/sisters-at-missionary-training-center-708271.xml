@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#sisters-at-missionary-training-center-708271" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">sisters-at-missionary-training-center-708271</uri-title>
+      <source>sisters-at-missionary-training-center-708271</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Flint</subject>
+          <subject>Brandon</subject>
+          <subject>Missionary Training Center</subject>
+          <subject>Sister missionaries</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>146 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>162 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>337 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>669 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/sisters-at-missionary-training-center-708271-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#rebekah-at-the-well-39477" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">rebekah-at-the-well-39477</uri-title>
+      <source>rebekah-at-the-well-39477</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Rebekah at the Well</title>
+      <description>Rebekah at the Well (<i>Gospel Art Book</i> [2009], no. 10) - <a href="http://scriptures.lds.org/gen/24/17-18#17">Genesis 24:17–18</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>old testament</subject>
+          <subject>rebekah at the well</subject>
+          <subject>rebekah</subject>
+          <subject>gospel art</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>307 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>421 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>972 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/rebekah-at-the-well-39477-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

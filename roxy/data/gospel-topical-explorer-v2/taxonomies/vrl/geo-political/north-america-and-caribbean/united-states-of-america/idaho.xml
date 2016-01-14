@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">Idaho</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/bennington-bear-lake-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/blackfoot-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/boise-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/burley-cassia-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/burley-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/driggs-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/fort-lemhi-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/franklin-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/grace-caribou-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/idaho-falls-bonneville-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/iona-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/island-park-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/lemhi-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/lemhi-valley-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/marsing-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/montpelier-bear-lake-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/moscow-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/oakley-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/paris-bear-lake-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/pocatello-bannock-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/preston-franklin-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/rexburg-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/robin-bannock-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/rupert-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/st-charles-idaho-usa</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/geo-political/north-america-and-caribbean/united-states-of-america/idaho/twin-falls-idaho-usa</sem:object>
+  </sem:triple>
+</sem:triples>

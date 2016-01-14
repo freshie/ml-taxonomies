@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/dating-marriage#couple-rose-473043" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">couple-rose-473043</uri-title>
+      <source>couple-rose-473043</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>marriage</subject>
+          <subject>matrimony</subject>
+          <subject>husbands</subject>
+          <subject>wives</subject>
+          <subject>courtship</subject>
+          <subject>flowers</subject>
+          <subject>love</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>97 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>130 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>272 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>452 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/couple-rose-473043-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="couple-rose-473043" locale="eng" uri="/media-library/images/dating-marriage#couple-rose-473043" status="publish" site="ldsorg" source="chq" words="120" tgp="0.4196"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

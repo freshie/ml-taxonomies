@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#peacock-829144" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">peacock-829144</uri-title>
+      <source>peacock-829144</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>birds</subject>
+          <subject>animals</subject>
+          <subject>peacocks</subject>
+          <subject>plumage</subject>
+          <subject>feathers</subject>
+          <subject>hawaiian</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/peacock-829144-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/peacock-829144-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>103 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/peacock-829144-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>131 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/peacock-829144-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>293 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/peacock-829144-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>542 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/peacock-829144-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

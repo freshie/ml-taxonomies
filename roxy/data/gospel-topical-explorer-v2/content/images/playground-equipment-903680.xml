@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#playground-equipment-903680" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">playground-equipment-903680</uri-title>
+      <source>playground-equipment-903680</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>merry go round</subject>
+          <subject>playground</subject>
+          <subject>toy</subject>
+          <subject>spin</subject>
+          <subject>park</subject>
+          <subject>parks</subject>
+          <subject>children</subject>
+          <subject>fun</subject>
+          <subject>kid</subject>
+          <subject>boy</subject>
+          <subject>girl</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>556 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>770 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/playground-equipment-903680-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

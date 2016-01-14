@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language>
+        <code>eng</code>
+        <label>English</label>
+    </language>
+    <language>
+        <code>spa</code>
+        <label>Spanish</label>
+    </language>
+    <language>
+        <code>por</code>
+        <label>Portuguese</label>
+    </language>
+    <language>
+        <code>rus</code>
+        <label>Russian</label>
+    </language>
+    <language>
+        <code>jpn</code>
+        <label>Japanese</label>
+    </language>
+    <language>
+        <code>kor</code>
+        <label>Korean</label>
+    </language>
+    <language>
+        <code>ita</code>
+        <label>Italian</label>
+    </language>
+    <language>
+        <code>deu</code>
+        <label>German</label>
+    </language>
+    <language>
+        <code>fra</code>
+        <label>French</label>
+    </language>
+    <language>
+        <code>cmn</code>
+        <label>Chinese (Simplified)</label>
+    </language>
+    <language>
+        <code>zho</code>
+        <label>Chinese (Traditional)</label>
+    </language>
+</languages>

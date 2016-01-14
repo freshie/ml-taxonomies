@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#the-8-witnesses-404871" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-8-witnesses-404871</uri-title>
+      <source>the-8-witnesses-404871</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Eight Witnesses</title>
+      <description>The Eight Witnesses</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>eight witnesses</subject>
+          <subject>book of mormon</subject>
+          <subject>golden plates</subject>
+          <subject>angels</subject>
+          <subject>joseph smith</subject>
+          <subject>church history</subject>
+          <subject>restoration</subject>
+          <subject>scriptures</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-8-witnesses-404871-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-8-witnesses-404871-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>812 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-8-witnesses-404871-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>898 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-8-witnesses-404871-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-8-witnesses-404871-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

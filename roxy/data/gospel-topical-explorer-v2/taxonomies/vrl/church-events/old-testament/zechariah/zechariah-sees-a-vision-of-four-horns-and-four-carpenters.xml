@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-events/old-testament/zechariah/zechariah-sees-a-vision-of-four-horns-and-four-carpenters" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/zechariah/zechariah-sees-a-vision-of-four-horns-and-four-carpenters</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">Zechariah Sees a Vision of Four Horns and Four Carpenters</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/zechariah/zechariah-sees-a-vision-of-four-horns-and-four-carpenters</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-events/old-testament/zechariah/zechariah-sees-a-vision-of-four-horns-and-four-carpenters</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Event</sem:object>
+  </sem:triple>
+</sem:triples>

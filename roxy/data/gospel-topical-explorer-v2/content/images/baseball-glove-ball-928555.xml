@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#baseball-glove-ball-928555" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">baseball-glove-ball-928555</uri-title>
+      <source>baseball-glove-ball-928555</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>baseball</subject>
+          <subject>glove</subject>
+          <subject>mitt</subject>
+          <subject>mitts</subject>
+          <subject>sports</subject>
+          <subject>equipment</subject>
+          <subject>recreation</subject>
+          <subject>leisure</subject>
+          <subject>white background</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>244 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>334 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>727 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/baseball-glove-ball-928555-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

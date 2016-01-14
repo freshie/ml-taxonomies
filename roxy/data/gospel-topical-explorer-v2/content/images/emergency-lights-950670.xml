@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#emergency-lights-950670" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">emergency-lights-950670</uri-title>
+      <source>emergency-lights-950670</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>light</subject>
+          <subject>emergency</subject>
+          <subject>police</subject>
+          <subject>ambulance</subject>
+          <subject>fire truck</subject>
+          <subject>lights</subject>
+          <subject>car</subject>
+          <subject>flashing</subject>
+          <subject>siren</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>180 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>199 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>370 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>772 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/emergency-lights-950670-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

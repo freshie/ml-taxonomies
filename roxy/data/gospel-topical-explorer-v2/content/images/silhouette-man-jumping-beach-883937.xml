@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#silhouette-man-jumping-beach-883937" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">silhouette-man-jumping-beach-883937</uri-title>
+      <source>silhouette-man-jumping-beach-883937</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Beaches</subject>
+          <subject>Jumping</subject>
+          <subject>Men</subject>
+          <subject>Oceans</subject>
+          <subject>Silhouettes</subject>
+          <subject>Sunsets</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>85 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>94 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>205 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>423 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/silhouette-man-jumping-beach-883937-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

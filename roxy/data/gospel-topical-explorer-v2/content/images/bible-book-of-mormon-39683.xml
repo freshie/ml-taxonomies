@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/jesus-christ#bible-book-of-mormon-39683" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">bible-book-of-mormon-39683</uri-title>
+      <source>bible-book-of-mormon-39683</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-04">2013-03-04</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>jesus christ</subject>
+          <subject>lord</subject>
+          <subject>savior</subject>
+          <subject>book of mormon</subject>
+          <subject>testify</subject>
+          <subject>crucifixion</subject>
+          <subject>jerusalem</subject>
+          <subject>nephites</subject>
+          <subject>americas</subject>
+          <subject>resurrection</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>348 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>482 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/jesus-christ/bible-book-of-mormon-39683-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

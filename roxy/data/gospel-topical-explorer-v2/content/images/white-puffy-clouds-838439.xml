@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/clouds#white-puffy-clouds-838439" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">white-puffy-clouds-838439</uri-title>
+      <source>white-puffy-clouds-838439</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Clouds</subject>
+          <subject>Heaven</subject>
+          <subject>Nature</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>64 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>72 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>148 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>297 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/white-puffy-clouds-838439-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

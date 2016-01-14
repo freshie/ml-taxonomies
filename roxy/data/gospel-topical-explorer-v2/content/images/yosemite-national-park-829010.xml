@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#yosemite-national-park-829010" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">yosemite-national-park-829010</uri-title>
+      <source>yosemite-national-park-829010</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-23">2012-08-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mountains</subject>
+          <subject>canyons</subject>
+          <subject>valleys</subject>
+          <subject>yosemite national park</subject>
+          <subject>cliffs</subject>
+          <subject>waterfalls</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>211 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>240 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>563 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/yosemite-national-park-829010-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

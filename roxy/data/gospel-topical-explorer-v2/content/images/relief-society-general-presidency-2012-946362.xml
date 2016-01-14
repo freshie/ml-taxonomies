@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-leadership/general-auxiliaries#relief-society-general-presidency-2012-946362" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">relief-society-general-presidency-2012-946362</uri-title>
+      <source>relief-society-general-presidency-2012-946362</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-01">2012-11-01</publication-date>
+	  <title>Relief Society General Presidency</title>
+      <description>Relief Society General Presidency - Carole M. Stephens, Linda K. Burton, and Linda S. Reeves</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>linda k. burton</subject>
+          <subject>carole m. stephens</subject>
+          <subject>linda s. reeves</subject>
+          <subject>general relief society presidency</subject>
+          <subject>women</subject>
+          <subject>organization</subject>
+          <subject>church leaders</subject>
+          <subject>auxiliary presidencies</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/relief-society-general-presidency-2012-946362-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/relief-society-general-presidency-2012-946362-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>155 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/relief-society-general-presidency-2012-946362-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>176 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/relief-society-general-presidency-2012-946362-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>433 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/relief-society-general-presidency-2012-946362-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#macaws-parrots-845231" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">macaws-parrots-845231</uri-title>
+      <source>macaws-parrots-845231</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>birds</subject>
+          <subject>animals</subject>
+          <subject>macaws</subject>
+          <subject>parrots</subject>
+          <subject>colors</subject>
+          <subject>yellow</subject>
+          <subject>bright</subject>
+          <subject>wildlife</subject>
+          <subject>branches</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>99 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>136 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>291 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>475 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/macaws-parrots-845231-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

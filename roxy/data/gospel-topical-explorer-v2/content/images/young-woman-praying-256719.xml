@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/prayer#young-woman-praying-256719" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-woman-praying-256719</uri-title>
+      <source>young-woman-praying-256719</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-27">2012-07-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>women</subject>
+          <subject>woman</subject>
+          <subject>praying</subject>
+          <subject>prayers</subject>
+          <subject>bedside</subject>
+          <subject>bedroom</subject>
+          <subject>scriptures</subject>
+          <subject>kneeling</subject>
+          <subject>faith</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>242 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>486 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>685 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/young-woman-praying-256719-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/easter#triumphal-entry-jesus-1078565" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">triumphal-entry-jesus-1078565</uri-title>
+      <source>triumphal-entry-jesus-1078565</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-02-27">2013-02-27</publication-date>
+      <title>Triumphal Entry</title>
+      <description>Triumphal Entry - <a href="http://scriptures.lds.org/en/zech/9/9#9">Zech. 9:9;</a> <a href="http://scriptures.lds.org/en/matt/21/1-11#1">Matt. 21:1–11;</a> <a href="http://scriptures.lds.org/en/mark/11/1-11#1">Mark 11:1–11;</a> <a href="http://scriptures.lds.org/en/luke/19/29-38#29">Luke 19:29–38</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Triumphal Entry</subject>
+          <subject>jesus christ</subject>
+          <subject>easter</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/easter/triumphal-entry-jesus-1078565-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

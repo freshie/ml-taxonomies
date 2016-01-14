@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parenthood#family-dinner-419210" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">family-dinner-419210</uri-title>
+      <source>family-dinner-419210</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV0707010_cah024.eps</subject>
+          <subject>AV0707010_cah024.jpg</subject>
+          <subject>FAMILY PICNIC WATERMELON</subject>
+          <subject>Family</subject>
+          <subject>Family Dinner</subject>
+          <subject>Healthy Food</subject>
+          <subject>Outdoors</subject>
+          <subject>Relaxing</subject>
+          <subject>Togetherness</subject>
+          <subject>Watermelon</subject>
+          <subject>picnic</subject>
+          <subject>Eating</subject>
+          <subject>Families</subject>
+          <subject>Family life</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Watermelons</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>580 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>644 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-dinner-419210-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="family-dinner-419210" locale="eng" uri="/media-library/images/parenthood#family-dinner-419210" status="publish" site="ldsorg" source="chq" words="135" tgp="0.472"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

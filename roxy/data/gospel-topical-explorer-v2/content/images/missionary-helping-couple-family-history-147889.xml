@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#missionary-helping-couple-family-history-147889" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">missionary-helping-couple-family-history-147889</uri-title>
+      <source>missionary-helping-couple-family-history-147889</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Blacks</subject>
+          <subject>Couples</subject>
+          <subject>Family History</subject>
+          <subject>Family Search Center (JSMB)</subject>
+          <subject>Genealogy</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Research</subject>
+          <subject>Sister Missionaries</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>105 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>303 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>513 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-helping-couple-family-history-147889-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

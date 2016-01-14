@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/structures#autumn-country-bridge-887758" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">autumn-country-bridge-887758</uri-title>
+      <source>autumn-country-bridge-887758</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-27">2012-09-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>structures</subject>
+          <subject>autumn</subject>
+          <subject>country</subject>
+          <subject>bridge</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>189 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>265 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>588 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>948 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/autumn-country-bridge-887758-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

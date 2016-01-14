@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#jesus-walking-on-water-129516" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">jesus-walking-on-water-129516</uri-title>
+      <source>jesus-walking-on-water-129516</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Jesus Walking on the Water</title>
+      <description>Jesus Walking on the Water (<i>Gospel Art Book</i> [2009], no. 43) - <a href="http://scriptures.lds.org/en/matt/14/22-33#22">Matt. 14:22–33;</a> <a href="http://scriptures.lds.org/en/mark/6/45-51#45">Mark 6:45–51</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Gospel Art</subject>
+          <subject>Jesus Christ Walks on Water</subject>
+          <subject>New testament</subject>
+          <subject>Miracles</subject>
+          <subject>Peter</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>514 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>710 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

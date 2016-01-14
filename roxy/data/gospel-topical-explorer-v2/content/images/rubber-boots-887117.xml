@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#rubber-boots-887117" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">rubber-boots-887117</uri-title>
+      <source>rubber-boots-887117</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>boots</subject>
+          <subject>rubber boots</subject>
+          <subject>sidewalk</subject>
+          <subject>work</subject>
+          <subject>work boots</subject>
+          <subject>shadow</subject>
+          <subject>shadows</subject>
+          <subject>isolated</subject>
+          <subject>mud</subject>
+          <subject>mud boots</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>579 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>660 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/rubber-boots-887117-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

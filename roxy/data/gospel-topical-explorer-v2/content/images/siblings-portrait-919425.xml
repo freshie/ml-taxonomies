@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/fall#siblings-portrait-919425" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">siblings-portrait-919425</uri-title>
+      <source>siblings-portrait-919425</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Autumn</subject>
+          <subject>Babies</subject>
+          <subject>Children</subject>
+          <subject>Fall</subject>
+          <subject>Families</subject>
+          <subject>Family</subject>
+          <subject>Happiness</subject>
+          <subject>Infants</subject>
+          <subject>Kids</subject>
+          <subject>Leaves</subject>
+          <subject>Portraits</subject>
+          <subject>Siblings</subject>
+          <subject>Smiling</subject>
+          <subject>Teenagers</subject>
+          <subject>Youth</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>188 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>403 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>678 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/siblings-portrait-919425-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

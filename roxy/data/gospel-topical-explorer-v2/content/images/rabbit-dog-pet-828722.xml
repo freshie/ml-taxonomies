@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/puppies#rabbit-dog-pet-828722" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">rabbit-dog-pet-828722</uri-title>
+      <source>rabbit-dog-pet-828722</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Baby animals</subject>
+          <subject>Baby bunny</subject>
+          <subject>Baby rabbit</subject>
+          <subject>Bunny ears</subject>
+          <subject>CWD_ee00e474-b601-4ed0-804b-c6a17b448f32.jpg</subject>
+          <subject>Caring</subject>
+          <subject>Coexist</subject>
+          <subject>Cute</subject>
+          <subject>Dog</subject>
+          <subject>Friendly animals</subject>
+          <subject>Grass</subject>
+          <subject>Kit</subject>
+          <subject>Puppy</subject>
+          <subject>Puppy dog</subject>
+          <subject>Rabbit</subject>
+          <subject>Rabbit</subject>
+          <subject>dog</subject>
+          <subject>Shih tsu</subject>
+          <subject>White Rabbit</subject>
+          <subject>White bunny</subject>
+          <subject>White rabbits</subject>
+          <subject>Animals</subject>
+          <subject>Dogs</subject>
+          <subject>Pets</subject>
+          <subject>Rabbits</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/puppies/rabbit-dog-pet-828722-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/puppies/rabbit-dog-pet-828722-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>132 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/rabbit-dog-pet-828722-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>176 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/rabbit-dog-pet-828722-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>353 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/rabbit-dog-pet-828722-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="rabbit-dog-pet-828722" locale="eng" uri="/media-library/images/puppies#rabbit-dog-pet-828722" status="publish" site="ldsorg" source="chq" words="139" tgp="0.486"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

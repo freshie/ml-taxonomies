@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#mountain-majesty-760443" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">mountain-majesty-760443</uri-title>
+      <source>mountain-majesty-760443</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-04">2012-09-04</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mountains</subject>
+          <subject>snow</subject>
+          <subject>peaks</subject>
+          <subject>mountaintops</subject>
+          <subject>clouds</subject>
+          <subject>black and white</subject>
+          <subject>b&amp;w</subject>
+          <subject>capped</subject>
+          <subject>caps</subject>
+          <subject>storms</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>183 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>208 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>487 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>991 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/mountain-majesty-760443-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

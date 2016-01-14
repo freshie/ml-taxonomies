@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#bubble-922228" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">bubble-922228</uri-title>
+      <source>bubble-922228</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>bubble</subject>
+          <subject>bubbles</subject>
+          <subject>reflection</subject>
+          <subject>black background</subject>
+          <subject>plain background</subject>
+          <subject>reflection</subject>
+          <subject>rainbow</subject>
+          <subject>colors</subject>
+          <subject>soap</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/bubble-922228-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/bubble-922228-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>279 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bubble-922228-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>352 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bubble-922228-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>767 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bubble-922228-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bubble-922228-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

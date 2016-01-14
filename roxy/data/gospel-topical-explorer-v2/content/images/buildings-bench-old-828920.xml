@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/abstract-patterns#buildings-bench-old-828920" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">buildings-bench-old-828920</uri-title>
+      <source>buildings-bench-old-828920</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>bench</subject>
+          <subject>brick wall</subject>
+          <subject>corrosion</subject>
+          <subject>fort</subject>
+          <subject>tile</subject>
+          <subject>red</subject>
+          <subject>window</subject>
+          <subject>bars</subject>
+          <subject>corner</subject>
+          <subject>cement wall</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>229 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>311 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>665 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/buildings-bench-old-828920-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="buildings-bench-old-828920" locale="eng" uri="/media-library/images/abstract-patterns#buildings-bench-old-828920" status="publish" site="ldsorg" source="chq" words="134" tgp="0.4685"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

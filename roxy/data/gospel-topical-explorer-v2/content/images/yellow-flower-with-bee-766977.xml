@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/plants/flowers#yellow-flower-with-bee-766977" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">yellow-flower-with-bee-766977</uri-title>
+      <source>yellow-flower-with-bee-766977</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Flowers</subject>
+          <subject>Bees</subject>
+          <subject>Insects</subject>
+          <subject>Yellow</subject>
+          <subject>Bugs</subject>
+          <subject>Plants</subject>
+          <subject>Nature</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>54 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>72 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>159 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>284 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/plants/flowers/yellow-flower-with-bee-766977-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="yellow-flower-with-bee-766977" locale="eng" uri="/media-library/images/plants/flowers#yellow-flower-with-bee-766977" status="publish" site="ldsorg" source="chq" words="136" tgp="0.4755"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

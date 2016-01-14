@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Nephi</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#altLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Son of Nephi and Grandson of Helaman</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Person</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.lds.org/core#gender</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">male</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">proper noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/nephi-son-of-nephi-son-of-helaman</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">One of the twelve Nephite disciples chosen by the resurrected Jesus Christ in the Book of Mormon (; ). This prophet prayed mightily to the Lord in behalf of his people. Nephi heard the voice of the Lord (). Nephi was also visited by angels, cast out devils, raised his brother from the dead, and bore a testimony that could not be disbelieved (; ). Nephi kept the scriptural record ().A book written by Nephi, son of Nephi, in the Book of Mormon.  show the fulfillment of the prophecies about the coming of the Lord. The sign of Christ’s birth was given; the people repented; but then they returned to wickedness. Finally tempests, earthquakes, violent storms, and great destruction signaled the death of Christ.  record Christ’s coming to the Americas. This is the central part of the book of 3 Nephi. Many of Christ’s words are similar to his sermons recorded in the Bible (for example,  and ).  are Mormon’s words to the latter-day nations.This book has only forty-nine verses, all in one chapter, yet it covers nearly three hundred years of Nephite history (34–321 ). Several generations of writers, including Nephi, contributed to the record.  tell that after the resurrected Christ’s visit all the Nephites and Lamanites were converted to the gospel. Peace, love, and harmony reigned. The three Nephite disciples, whom Christ had allowed to remain on earth until his second coming (), ministered to the people. Nephi left the record to his son Amos.  are the record of Amos’s ministry (84 years) and that of his son Amos (112 years). In 201 , pride began to cause problems among the people, who divided themselves into classes and began false churches to get gain ().</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/disciple</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/nephi-2</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/nephi-son-of-nephi-son-of-helaman</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">2</sem:object>
+  </sem:triple>
+</sem:triples>

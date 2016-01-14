@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/portland-oregon#temple-spires-772768" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">temple-spires-772768</uri-title>
+      <source>temple-spires-772768</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>portland oregon temple</subject>
+          <subject>night</subject>
+          <subject>evening</subject>
+          <subject>lights</subject>
+          <subject>trees</subject>
+          <subject>spires</subject>
+          <subject>angel moroni</subject>
+          <subject>lit up</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>182 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>204 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>468 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>989 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/portland-oregon/temple-spires-772768-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="temple-spires-772768" locale="eng" uri="/media-library/images/temples/portland-oregon#temple-spires-772768" status="publish" site="ldsorg" source="chq" words="131" tgp="0.458"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

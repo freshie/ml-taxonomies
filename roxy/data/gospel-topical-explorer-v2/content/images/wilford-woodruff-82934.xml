@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#wilford-woodruff-82934" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">wilford-woodruff-82934</uri-title>
+      <source>wilford-woodruff-82934</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Wilford Woodruff</title>
+      <description>Wilford Woodruff (<i>Gospel Art Book</i> [2009], no. 125) - <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=d7561b08f338c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=98a2c106dac20110VgnVCM100000176f620a____">Our Heritage, 98-102</a></description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>PPHIGH O001501-2000</subject>
+          <subject>0001509</subject>
+          <subject>0001525</subject>
+          <subject>0001525.eps</subject>
+          <subject>31382 PRESIDENTS OF THE CHURCH</subject>
+          <subject>34730 GAPP GOSPEL ART PACKET</subject>
+          <subject>35936</subject>
+          <subject>A VOICE OF GLADNESS</subject>
+          <subject>ART</subject>
+          <subject>CHURCH</subject>
+          <subject>GAPP</subject>
+          <subject>GOSPEL</subject>
+          <subject>HIGHRES</subject>
+          <subject>LDPCT4N.J</subject>
+          <subject>O001501-2000</subject>
+          <subject>PACKET</subject>
+          <subject>PPHIGH</subject>
+          <subject>PRESIDENTS</subject>
+          <subject>PROPHETS</subject>
+          <subject>TEACHINGS</subject>
+          <subject>WILFORD</subject>
+          <subject>WILFORD WOODRUF</subject>
+          <subject>WOODRUF</subject>
+          <subject>LDS Church Leaders</subject>
+          <subject>LDS Church Presidents</subject>
+          <subject>Woodruff</subject>
+          <subject>Wilford</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>320 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>748 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>964 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>627 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82934-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="wilford-woodruff-82934" locale="eng" uri="/media-library/images/gospel-art/latter-day-prophets#wilford-woodruff-82934" status="publish" site="ldsorg" source="chq" words="179" tgp="0.6259"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

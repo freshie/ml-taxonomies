@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/miscellaneous#inner-workings-760416" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">inner-workings-760416</uri-title>
+      <source>inner-workings-760416</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Gears</subject>
+          <subject>Machinery</subject>
+          <subject>Machines</subject>
+          <subject>Equipment</subject>
+          <subject>Belts</subject>
+          <subject>Wheels</subject>
+          <subject>Metal</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>164 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>221 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>463 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>742 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/inner-workings-760416-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="inner-workings-760416" locale="eng" uri="/media-library/images/miscellaneous#inner-workings-760416" status="publish" site="ldsorg" source="chq" words="114" tgp="0.3986"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

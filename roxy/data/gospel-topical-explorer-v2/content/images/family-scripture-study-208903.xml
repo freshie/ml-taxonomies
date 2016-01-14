@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/scripture-study#family-scripture-study-208903" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">family-scripture-study-208903</uri-title>
+      <source>family-scripture-study-208903</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Africa</subject>
+          <subject>West Africa</subject>
+          <subject>Ghana</subject>
+          <subject>Families</subject>
+          <subject>Children</subject>
+          <subject>Scriptures</subject>
+          <subject>Scripture Study</subject>
+          <subject>Reading</subject>
+          <subject>Family</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>149 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>167 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>366 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>796 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scripture-study/family-scripture-study-208903-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="family-scripture-study-208903" locale="eng" uri="/media-library/images/scripture-study#family-scripture-study-208903" status="publish" site="ldsorg" source="chq" words="132" tgp="0.4615"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

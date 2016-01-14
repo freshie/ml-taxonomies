@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/kirtland-ohio#kirtland-temple-766537" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">kirtland-temple-766537</uri-title>
+      <source>kirtland-temple-766537</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Kirtland temple</subject>
+          <subject>temples</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>110 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>152 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>348 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>589 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/kirtland-ohio/kirtland-temple-766537-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="kirtland-temple-766537" locale="eng" uri="/media-library/images/temples/kirtland-ohio#kirtland-temple-766537" status="publish" site="ldsorg" source="chq" words="122" tgp="0.4266"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

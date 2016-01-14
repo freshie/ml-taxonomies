@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#bird-alligator-846449" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">bird-alligator-846449</uri-title>
+      <source>bird-alligator-846449</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>animals</subject>
+          <subject>reptiles</subject>
+          <subject>alligators</subject>
+          <subject>crocodiles</subject>
+          <subject>birds</subject>
+          <subject>egrets</subject>
+          <subject>water</subject>
+          <subject>swamps</subject>
+          <subject>wildlife</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>117 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>162 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>372 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>628 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/bird-alligator-846449-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

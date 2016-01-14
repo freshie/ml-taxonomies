@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#triumphant-entry-39581" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">triumphant-entry-39581</uri-title>
+      <source>triumphant-entry-39581</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Triumphal Entry</title>
+      <description>Triumphal Entry (<i>Gospel Art Book</i> [2009], no. 50) - <a href="http://scriptures.lds.org/en/zech/9/9#9">Zech. 9:9;</a> <a href="http://scriptures.lds.org/en/matt/21/1-11#1">Matt. 21:1–11;</a> <a href="http://scriptures.lds.org/en/mark/11/1-11#1">Mark 11:1–11;</a> <a href="http://scriptures.lds.org/en/luke/19/29-38#29">Luke 19:29–38</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Entry</subject>
+          <subject>Jesus Christ</subject>
+          <subject>New Testament</subject>
+          <subject>palm leaves</subject>
+          <subject>white donkey</subject>
+          <subject>brick arch</subject>
+          <subject>Jerusalem</subject>
+          <subject>pentecost</subject>
+          <subject>Messiah</subject>
+          <subject>painting</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>595 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>850 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

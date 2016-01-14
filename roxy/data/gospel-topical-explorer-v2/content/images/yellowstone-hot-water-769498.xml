@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parks-national-state#yellowstone-hot-water-769498" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">yellowstone-hot-water-769498</uri-title>
+      <source>yellowstone-hot-water-769498</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Yellowstone National Park</subject>
+          <subject>Wyoming</subject>
+          <subject>Rocks</subject>
+          <subject>Water</subject>
+          <subject>Steam</subject>
+          <subject>Nature</subject>
+          <subject>Stream</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>224 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>253 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>562 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/yellowstone-hot-water-769498-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="yellowstone-hot-water-769498" locale="eng" uri="/media-library/images/parks-national-state#yellowstone-hot-water-769498" status="publish" site="ldsorg" source="chq" words="137" tgp="0.479"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

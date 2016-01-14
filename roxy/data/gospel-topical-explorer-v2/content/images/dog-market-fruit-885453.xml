@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#dog-market-fruit-885453" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">dog-market-fruit-885453</uri-title>
+      <source>dog-market-fruit-885453</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>animals</subject>
+          <subject>dogs</subject>
+          <subject>pets</subject>
+          <subject>markets</subject>
+          <subject>bananas</subject>
+          <subject>mutts</subject>
+          <subject>canines</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>188 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>209 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>442 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>905 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/dog-market-fruit-885453-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

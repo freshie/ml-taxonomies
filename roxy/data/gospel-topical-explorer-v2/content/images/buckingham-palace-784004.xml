@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#buckingham-palace-784004" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">buckingham-palace-784004</uri-title>
+      <source>buckingham-palace-784004</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>london</subject>
+          <subject>england</subject>
+          <subject>buckingham palace</subject>
+          <subject>historic buildings</subject>
+          <subject>tourist sites</subject>
+          <subject>attractions</subject>
+          <subject>british</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>217 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>245 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>552 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/buckingham-palace-784004-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

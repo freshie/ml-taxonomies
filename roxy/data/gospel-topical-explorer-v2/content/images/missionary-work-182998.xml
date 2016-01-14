@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/gospel-in-action#missionary-work-182998" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">missionary-work-182998</uri-title>
+      <source>missionary-work-182998</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-06">2013-03-06</publication-date>
+      <title>Missionaries: Sisters</title>
+      <description>Missionaries: Sisters (<i>Gospel Art Book</i> [2009], no. 110) - <a href="http://scriptures.lds.org/en/matt/28/19#19">Matt. 28:19;</a> <a href="http://scriptures.lds.org/en/alma/26/1-16#1">Alma 26:1–16;</a> <a href="http://scriptures.lds.org/en/dc/4">D&amp;C 4;</a> <a href="http://scriptures.lds.org/en/dc/18/15-16#15">18:15–16;</a> <a href="http://scriptures.lds.org/en/dc/42/6-7#6">42:6–7;</a> <a href="http://scriptures.lds.org/en/dc/50/13-14#13">50:13–14;</a> <a href="http://scriptures.lds.org/en/dc/84/88#88">84:88</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>sisters</subject>
+          <subject>missionaries</subject>
+          <subject>missionary work</subject>
+          <subject>investigators</subject>
+          <subject>lessons</subject>
+          <subject>teachings</subject>
+          <subject>sharing the gospel</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>569 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>641 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/missionary-work-182998-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/prayer#fiji-man-standing-and-praying-268640" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">fiji-man-standing-and-praying-268640</uri-title>
+      <source>fiji-man-standing-and-praying-268640</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-27">2012-07-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>fijian</subject>
+          <subject>man</subject>
+          <subject>men</subject>
+          <subject>prayers</subject>
+          <subject>praying</subject>
+          <subject>arms folded</subject>
+          <subject>faith</subject>
+          <subject>obedience</subject>
+          <subject>fathers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>65 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>86 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>182 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>315 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/fiji-man-standing-and-praying-268640-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

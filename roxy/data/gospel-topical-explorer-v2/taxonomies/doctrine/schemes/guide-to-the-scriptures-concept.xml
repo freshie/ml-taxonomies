@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/guide-to-the-scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#ConceptScheme</sem:predicate>
+    <sem:object>Guide to the Scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/guide-to-the-scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object>http://lds.org/concept-scheme/curriculum-planning-guide</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/guide-to-the-scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Guide to the Scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/guide-to-the-scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#note</sem:predicate>
+    <sem:object>This is the top-most concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/guide-to-the-scriptures</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#topConceptOf</sem:predicate>
+    <sem:object>http://lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+</sem:triples>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/pioneer#price-handcart-blizzard-lds-mormon-168977" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">price-handcart-blizzard-lds-mormon-168977</uri-title>
+      <source>price-handcart-blizzard-lds-mormon-168977</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>handcart</subject>
+          <subject>pioneer</subject>
+          <subject>snow storm</subject>
+          <subject>women</subject>
+          <subject>wind</subject>
+          <subject>wagon wheel</subject>
+          <subject>snow</subject>
+          <subject>giving up</subject>
+          <subject>comfort</subject>
+          <subject>blizzard</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>533 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>728 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1,014 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/price-handcart-blizzard-lds-mormon-168977-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

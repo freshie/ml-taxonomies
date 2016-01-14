@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#george-albert-smith-mormon-prophet-775262" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">george-albert-smith-mormon-prophet-775262</uri-title>
+      <source>george-albert-smith-mormon-prophet-775262</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>CU101021_001bw.eps</subject>
+          <subject>CU101021_001bwalt.eps</subject>
+          <subject>American Photo News</subject>
+          <subject>New York City</subject>
+          <subject>New York</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>2.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>2.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>3.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/george-albert-smith-mormon-prophet-775262-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="george-albert-smith-mormon-prophet-775262" locale="eng" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#george-albert-smith-mormon-prophet-775262" status="publish" site="ldsorg" source="chq" words="197" tgp="0.6888"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#joseph-translating-gold-plates-329346" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">joseph-translating-gold-plates-329346</uri-title>
+      <source>joseph-translating-gold-plates-329346</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Joseph Smith Translating the Book of Mormon</title>
+      <description>Joseph Smith Translating the Book of Mormon - <a href="http://scriptures.lds.org/en/js_h/1/34-35,71#34">JS—H 1:34–35, 71 footnote;</a> <a href="http://scriptures.lds.org/en/dc/20/8-11#8">D&amp;C 20:8–11</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV Dept. Films</subject>
+          <subject>Still Photos</subject>
+          <subject>Book of Mormon</subject>
+          <subject>Church History</subject>
+          <subject>Gold Plates</subject>
+          <subject>Church Leaders</subject>
+          <subject>Prophets</subject>
+          <subject>Remembering Nauvoo</subject>
+          <subject>Translation</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>69 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>96 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>243 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>454 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/joseph-translating-gold-plates-329346-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

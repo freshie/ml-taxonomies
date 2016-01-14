@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/spring#boy-holding-kernels-of-corn-678452" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boy-holding-kernels-of-corn-678452</uri-title>
+      <source>boy-holding-kernels-of-corn-678452</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Boys</subject>
+          <subject>Grains</subject>
+          <subject>Hands</subject>
+          <subject>Seeds</subject>
+          <subject>Smith</subject>
+          <subject>Christina</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>62 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>80 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>160 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>254 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/boy-holding-kernels-of-corn-678452-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

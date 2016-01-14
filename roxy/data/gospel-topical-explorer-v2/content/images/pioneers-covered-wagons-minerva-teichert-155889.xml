@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/pioneer#pioneers-covered-wagons-minerva-teichert-155889" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">pioneers-covered-wagons-minerva-teichert-155889</uri-title>
+      <source>pioneers-covered-wagons-minerva-teichert-155889</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-06">2012-07-06</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Covered wagons</subject>
+          <subject>mountain</subject>
+          <subject>river</subject>
+          <subject>stream</subject>
+          <subject>painting</subject>
+          <subject>oxen</subject>
+          <subject>horse</subject>
+          <subject>trail</subject>
+          <subject>mountainous terrain</subject>
+          <subject>west</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>526 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>720 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-covered-wagons-minerva-teichert-155889-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/historical#whitney-store-shelves-kirtland-829634" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">whitney-store-shelves-kirtland-829634</uri-title>
+      <source>whitney-store-shelves-kirtland-829634</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>antiques</subject>
+          <subject>stores</subject>
+          <subject>shelves</subject>
+          <subject>shelf</subject>
+          <subject>bottles</subject>
+          <subject>goods</subject>
+          <subject>products</subject>
+          <subject>fabric</subject>
+          <subject>thread</subject>
+          <subject>spools</subject>
+          <subject>shoes</subject>
+          <subject>general</subject>
+          <subject>displays</subject>
+          <subject>old</subject>
+          <subject>shops</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/historical/whitney-store-shelves-kirtland-829634-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/historical/whitney-store-shelves-kirtland-829634-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>166 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/whitney-store-shelves-kirtland-829634-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>221 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/whitney-store-shelves-kirtland-829634-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>494 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/whitney-store-shelves-kirtland-829634-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

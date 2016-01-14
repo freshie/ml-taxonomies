@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#glass-milk-410586" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">glass-milk-410586</uri-title>
+      <source>glass-milk-410586</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Glasses (Drinking)</subject>
+          <subject>Healthcare</subject>
+          <subject>Luke</subject>
+          <subject>John</subject>
+          <subject>Milk</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>39 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>56 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>145 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>276 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/glass-milk-410586-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

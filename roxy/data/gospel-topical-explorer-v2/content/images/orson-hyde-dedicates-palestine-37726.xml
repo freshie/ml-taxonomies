@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#orson-hyde-dedicates-palestine-37726" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">orson-hyde-dedicates-palestine-37726</uri-title>
+      <source>orson-hyde-dedicates-palestine-37726</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Apostle Orson Hyde Dedicates the Holy Land</title>
+      <description>Apostle Orson Hyde Dedicates the Holy Land - <a href="http://scriptures.lds.org/3_ne/5/24#24">3 Nephi 5:24;</a> <a href="http://scriptures.lds.org/dc/110/11#11">D&amp;C 110:11</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>orson hyde</subject>
+          <subject>dedicates</subject>
+          <subject>palestine</subject>
+          <subject>israel</subject>
+          <subject>gathering</subject>
+          <subject>return</subject>
+          <subject>jews</subject>
+          <subject>apostles</subject>
+          <subject>mount of olives</subject>
+          <subject>jerusalem</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>3.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/orson-hyde-dedicates-palestine-37726-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

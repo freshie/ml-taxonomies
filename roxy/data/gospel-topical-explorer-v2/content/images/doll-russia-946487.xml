@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#doll-russia-946487" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">doll-russia-946487</uri-title>
+      <source>doll-russia-946487</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-01">2012-06-01</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>doll</subject>
+          <subject>european doll</subject>
+          <subject>russian</subject>
+          <subject>wooden</subject>
+          <subject>wooden doll</subject>
+          <subject>wooden dolls</subject>
+          <subject>ornament</subject>
+          <subject>hang</subject>
+          <subject>blue</subject>
+          <subject>green</subject>
+          <subject>red</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/doll-russia-946487-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/doll-russia-946487-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>90 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/doll-russia-946487-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>123 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/doll-russia-946487-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>265 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/doll-russia-946487-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

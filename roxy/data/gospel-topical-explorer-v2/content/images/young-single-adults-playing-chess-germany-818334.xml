@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#young-single-adults-playing-chess-germany-818334" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-single-adults-playing-chess-germany-818334</uri-title>
+      <source>young-single-adults-playing-chess-germany-818334</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>youth</subject>
+          <subject>young single adults</subject>
+          <subject>girls</subject>
+          <subject>boys</subject>
+          <subject>guys</subject>
+          <subject>teenagers</subject>
+          <subject>games</subject>
+          <subject>chess</subject>
+          <subject>playing</subject>
+          <subject>fun</subject>
+          <subject>dating</subject>
+          <subject>dates</subject>
+          <subject>activities</subject>
+          <subject>church</subject>
+          <subject>activity</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>158 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>387 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>823 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-single-adults-playing-chess-germany-818334-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

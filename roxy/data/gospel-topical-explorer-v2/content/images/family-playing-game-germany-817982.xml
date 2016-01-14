@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#family-playing-game-germany-817982" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">family-playing-game-germany-817982</uri-title>
+      <source>family-playing-game-germany-817982</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>families</subject>
+          <subject>family home evening</subject>
+          <subject>living room</subject>
+          <subject>home</subject>
+          <subject>board games</subject>
+          <subject>playing</subject>
+          <subject>parents</subject>
+          <subject>children</subject>
+          <subject>kids</subject>
+          <subject>fun</subject>
+          <subject>activities</subject>
+          <subject>activity</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>160 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>198 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>418 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>760 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-game-germany-817982-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

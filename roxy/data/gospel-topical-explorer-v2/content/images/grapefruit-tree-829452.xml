@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#grapefruit-tree-829452" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">grapefruit-tree-829452</uri-title>
+      <source>grapefruit-tree-829452</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Citrus</subject>
+          <subject>Food</subject>
+          <subject>Fruit trees</subject>
+          <subject>Fruits</subject>
+          <subject>GrapefruitTrees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>152 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>168 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>349 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>752 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/grapefruit-tree-829452-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

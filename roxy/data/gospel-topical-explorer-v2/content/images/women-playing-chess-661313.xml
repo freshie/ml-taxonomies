@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#women-playing-chess-661313" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">women-playing-chess-661313</uri-title>
+      <source>women-playing-chess-661313</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>family</subject>
+          <subject>christmas</subject>
+          <subject>chess</subject>
+          <subject>games</subject>
+          <subject>playing</subject>
+          <subject>grandmother</subject>
+          <subject>granddaughter</subject>
+          <subject>recreation</subject>
+          <subject>holidays</subject>
+          <subject>trees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>149 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>166 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>337 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>659 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/women-playing-chess-661313-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="women-playing-chess-661313" locale="eng" uri="/media-library/images/christmas#women-playing-chess-661313" status="publish" site="ldsorg" source="chq" words="125" tgp="0.4371"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

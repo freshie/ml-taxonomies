@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#prescription-medications-948503" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">prescription-medications-948503</uri-title>
+      <source>prescription-medications-948503</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>pills</subject>
+          <subject>prescription</subject>
+          <subject>abuse</subject>
+          <subject>drugs</subject>
+          <subject>addiction</subject>
+          <subject>medicine</subject>
+          <subject>word of wisdom</subject>
+          <subject>pill organizer</subject>
+          <subject>counter</subject>
+          <subject>spill</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>366 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>407 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>865 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/prescription-medications-948503-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

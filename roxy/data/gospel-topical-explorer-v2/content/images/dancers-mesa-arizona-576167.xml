@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#dancers-mesa-arizona-576167" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">dancers-mesa-arizona-576167</uri-title>
+      <source>dancers-mesa-arizona-576167</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>mesa</subject>
+          <subject>arizona</subject>
+          <subject>dance group</subject>
+          <subject>dancing</subject>
+          <subject>christmas</subject>
+          <subject>program</subject>
+          <subject>concerts</subject>
+          <subject>dresses</subject>
+          <subject>girls</subject>
+          <subject>women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>70 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>93 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>199 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>340 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/dancers-mesa-arizona-576167-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="dancers-mesa-arizona-576167" locale="eng" uri="/media-library/images/christmas#dancers-mesa-arizona-576167" status="publish" site="ldsorg" source="chq" words="126" tgp="0.4406"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

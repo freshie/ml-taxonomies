@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#young-adults-playing-foosball-germany-818335" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-adults-playing-foosball-germany-818335</uri-title>
+      <source>young-adults-playing-foosball-germany-818335</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>young single adults</subject>
+          <subject>youth</subject>
+          <subject>germany</subject>
+          <subject>foosball</subject>
+          <subject>games</subject>
+          <subject>recreation</subject>
+          <subject>fun</subject>
+          <subject>activity</subject>
+          <subject>activities</subject>
+          <subject>playing</subject>
+          <subject>europe</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>146 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>162 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>347 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>723 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/young-adults-playing-foosball-germany-818335-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

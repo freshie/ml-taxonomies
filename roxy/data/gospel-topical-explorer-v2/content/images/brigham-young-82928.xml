@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#brigham-young-82928" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">brigham-young-82928</uri-title>
+      <source>brigham-young-82928</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Brigham Young</title>
+      <description>Brigham Young - <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=d7561b08f338c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=98a2c106dac20110VgnVCM100000176f620a____">Our Heritage, 11, 66–91</a></description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>PPHIGH O001501-2000</subject>
+          <subject>0001523</subject>
+          <subject>0001523.eps</subject>
+          <subject>31382 PRESIDENTS OF THE CHURCH</subject>
+          <subject>BRIGHAM</subject>
+          <subject>BRIGHAM YOUNG</subject>
+          <subject>CHURCH</subject>
+          <subject>HIGHRES</subject>
+          <subject>LDPCT2N.J</subject>
+          <subject>O001501-2000</subject>
+          <subject>PPHIGH</subject>
+          <subject>PRESIDENTS</subject>
+          <subject>PROPHETS</subject>
+          <subject>TEACHINGS</subject>
+          <subject>YOUNG</subject>
+          <subject>LDS Church Leaders</subject>
+          <subject>LDS Church Presidents</subject>
+          <subject>Ottinger</subject>
+          <subject>George M.</subject>
+          <subject>Portraits</subject>
+          <subject>Young</subject>
+          <subject>Brigham</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>296 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>667 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>887 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/brigham-young-82928-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="brigham-young-82928" locale="eng" uri="/media-library/images/gospel-art/latter-day-prophets#brigham-young-82928" status="publish" site="ldsorg" source="chq" words="169" tgp="0.5909"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

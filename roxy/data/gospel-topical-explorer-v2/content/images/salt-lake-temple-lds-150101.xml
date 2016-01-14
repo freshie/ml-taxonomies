@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#salt-lake-temple-lds-150101" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">salt-lake-temple-lds-150101</uri-title>
+      <source>salt-lake-temple-lds-150101</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>christmas lights</subject>
+          <subject>temple square</subject>
+          <subject>salt lake temple</subject>
+          <subject>traffic lights</subject>
+          <subject>signals</subject>
+          <subject>grounds</subject>
+          <subject>trees</subject>
+          <subject>decorated</subject>
+          <subject>holidays</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>132 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>350 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>540 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/salt-lake-temple-lds-150101-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="salt-lake-temple-lds-150101" locale="eng" uri="/media-library/images/christmas#salt-lake-temple-lds-150101" status="publish" site="ldsorg" source="chq" words="137" tgp="0.479"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

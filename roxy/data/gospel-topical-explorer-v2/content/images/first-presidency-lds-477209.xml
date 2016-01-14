@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles#first-presidency-lds-477209" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">first-presidency-lds-477209</uri-title>
+      <source>first-presidency-lds-477209</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-01">2012-11-01</publication-date>
+      <title>First Presidency</title>
+      <description>First Presidency</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>thomas s. monson</subject>
+          <subject>henry b. eyring</subject>
+          <subject>dieter f. uchtdorf</subject>
+          <subject>lds church leaders</subject>
+          <subject>official portraits</subject>
+          <subject>apostles</subject>
+          <subject>first presidency</subject>
+          <subject>counselor</subject>
+          <subject>general authorities</subject>
+          <subject>prophets</subject>
+          <subject>presidents</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>61 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>82 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>178 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>305 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/first-presidency-lds-477209-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

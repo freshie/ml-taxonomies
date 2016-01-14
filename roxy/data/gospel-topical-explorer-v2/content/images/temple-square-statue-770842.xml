@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples-related/temple-square#temple-square-statue-770842" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">temple-square-statue-770842</uri-title>
+      <source>temple-square-statue-770842</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>church office building plaza</subject>
+          <subject>temple square</subject>
+          <subject>statues</subject>
+          <subject>mother and children</subject>
+          <subject>playing</subject>
+          <subject>flowers</subject>
+          <subject>temple</subject>
+          <subject>family</subject>
+          <subject>sculptures</subject>
+          <subject>statues</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>106 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>117 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>220 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>402 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples-related/temple-square/temple-square-statue-770842-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="temple-square-statue-770842" locale="eng" uri="/media-library/images/temples-related/temple-square#temple-square-statue-770842" status="publish" site="ldsorg" source="chq" words="149" tgp="0.521"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

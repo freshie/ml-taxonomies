@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/music#boy-piano-840935" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boy-piano-840935</uri-title>
+      <source>boy-piano-840935</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>pianos</subject>
+          <subject>musical instruments</subject>
+          <subject>boys</subject>
+          <subject>kids</subject>
+          <subject>children</subject>
+          <subject>playing</subject>
+          <subject>performing</subject>
+          <subject>practice</subject>
+          <subject>practicing</subject>
+          <subject>musicians</subject>
+          <subject>pianists</subject>
+          <subject>young</subject>
+          <subject>youth</subject>
+          <subject>learning</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/music/boy-piano-840935-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/music/boy-piano-840935-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>66 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/boy-piano-840935-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>87 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/boy-piano-840935-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>184 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/boy-piano-840935-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>311 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/boy-piano-840935-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

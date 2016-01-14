@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/new-york#inside-smith-home-762737" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">inside-smith-home-762737</uri-title>
+      <source>inside-smith-home-762737</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Joseph Smith Cabin</subject>
+          <subject>Joseph Smith</subject>
+          <subject>New York</subject>
+          <subject>Moroni</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>134 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>151 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>360 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>812 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/inside-smith-home-762737-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="inside-smith-home-762737" locale="eng" uri="/media-library/images/church-history/new-york#inside-smith-home-762737" status="publish" site="ldsorg" source="chq" words="141" tgp="0.493"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

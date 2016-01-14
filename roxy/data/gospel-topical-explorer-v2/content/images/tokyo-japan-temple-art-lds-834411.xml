@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/illustrations#tokyo-japan-temple-art-lds-834411" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">tokyo-japan-temple-art-lds-834411</uri-title>
+      <source>tokyo-japan-temple-art-lds-834411</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>tokyo</subject>
+          <subject>japan</subject>
+          <subject>families</subject>
+          <subject>family</subject>
+          <subject>temples</subject>
+          <subject>bridges</subject>
+          <subject>rivers</subject>
+          <subject>streams</subject>
+          <subject>trees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>370 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>541 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/tokyo-japan-temple-art-lds-834411-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="tokyo-japan-temple-art-lds-834411" locale="eng" uri="/media-library/images/primary/illustrations#tokyo-japan-temple-art-lds-834411" status="publish" site="ldsorg" source="chq" words="148" tgp="0.5175"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

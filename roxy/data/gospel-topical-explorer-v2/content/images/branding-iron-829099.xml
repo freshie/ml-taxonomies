@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#branding-iron-829099" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">branding-iron-829099</uri-title>
+      <source>branding-iron-829099</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>antique tools</subject>
+          <subject>brand</subject>
+          <subject>branding</subject>
+          <subject>cattle</subject>
+          <subject>branding tools</subject>
+          <subject>farm</subject>
+          <subject>iron</subject>
+          <subject>sledgehammer</subject>
+          <subject>livestock brand</subject>
+          <subject>brush</subject>
+          <subject>workbench</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>400 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>451 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>946 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/branding-iron-829099-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

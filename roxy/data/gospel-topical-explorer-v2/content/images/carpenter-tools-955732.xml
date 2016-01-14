@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#carpenter-tools-955732" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">carpenter-tools-955732</uri-title>
+      <source>carpenter-tools-955732</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>carpentry</subject>
+          <subject>planers</subject>
+          <subject>squares</subject>
+          <subject>tools</subject>
+          <subject>wood</subject>
+          <subject>wood working</subject>
+          <subject>ruler</subject>
+          <subject>sander</subject>
+          <subject>wood shaver</subject>
+          <subject>clamp</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>168 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>231 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>517 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>851 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/carpenter-tools-955732-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/fatherhood#father-teenage-daughter-talking-419476" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">father-teenage-daughter-talking-419476</uri-title>
+      <source>father-teenage-daughter-talking-419476</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV070710_cah106.dng</subject>
+          <subject>AV070710_cah106.eps</subject>
+          <subject>AV070710_cah106.jpg</subject>
+          <subject>AV070710_cah106_1.dng</subject>
+          <subject>Daughters</subject>
+          <subject>Fatherhood</subject>
+          <subject>Fathers</subject>
+          <subject>Kitchens</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Talking</subject>
+          <subject>Teenagers</subject>
+          <subject>Young women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>190 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>393 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>767 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-teenage-daughter-talking-419476-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="father-teenage-daughter-talking-419476" locale="eng" uri="/media-library/images/fatherhood#father-teenage-daughter-talking-419476" status="publish" site="ldsorg" source="chq" words="146" tgp="0.5105"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

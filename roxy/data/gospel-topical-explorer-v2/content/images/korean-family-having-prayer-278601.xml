@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/gospel-in-action#korean-family-having-prayer-278601" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">korean-family-having-prayer-278601</uri-title>
+      <source>korean-family-having-prayer-278601</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-08">2013-03-08</publication-date>
+      <title>Family Prayer</title>
+      <description>Family Prayer (<i>Gospel Art Book</i> [2009], no. 112) - <a href="http://scriptures.lds.org/en/3_ne/18/21#21">3 Ne. 18:21;</a> <a href="http://scriptures.lds.org/en/dc/68/25,28#25">D&amp;C 68:25, 28</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>families</subject>
+          <subject>family prayer</subject>
+          <subject>kneeling</subject>
+          <subject>children</subject>
+          <subject>parents</subject>
+          <subject>blessings</subject>
+          <subject>koreans</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>2.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>2.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>3.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/korean-family-having-prayer-278601-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

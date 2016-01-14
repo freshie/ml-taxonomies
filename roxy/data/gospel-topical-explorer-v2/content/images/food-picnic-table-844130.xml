@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#food-picnic-table-844130" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">food-picnic-table-844130</uri-title>
+      <source>food-picnic-table-844130</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Food</subject>
+          <subject>Lunches</subject>
+          <subject>Parks</subject>
+          <subject>Parties</subject>
+          <subject>Parties (Socializing)</subject>
+          <subject>Picnicking</subject>
+          <subject>Picnics</subject>
+          <subject>Pitchers (Containers)</subject>
+          <subject>Plates</subject>
+          <subject>Plates (Dishes)</subject>
+          <subject>Strawberries</subject>
+          <subject>Summer</subject>
+          <subject>Tablecloths</subject>
+          <subject>Tables</subject>
+          <subject>Utensils</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>93 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>125 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>266 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>436 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/food-picnic-table-844130-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

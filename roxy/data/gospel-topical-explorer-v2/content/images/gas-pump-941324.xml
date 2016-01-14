@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#gas-pump-941324" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">gas-pump-941324</uri-title>
+      <source>gas-pump-941324</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>gas pump</subject>
+          <subject>antique</subject>
+          <subject>farm</subject>
+          <subject>old</subject>
+          <subject>field</subject>
+          <subject>weeds</subject>
+          <subject>red</subject>
+          <subject>run down</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/gas-pump-941324-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/gas-pump-941324-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>316 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/gas-pump-941324-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>430 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/gas-pump-941324-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

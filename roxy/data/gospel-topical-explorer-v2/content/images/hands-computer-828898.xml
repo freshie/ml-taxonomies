@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#hands-computer-828898" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">hands-computer-828898</uri-title>
+      <source>hands-computer-828898</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>laptops</subject>
+          <subject>fingers</subject>
+          <subject>hands</subject>
+          <subject>desks</subject>
+          <subject>keyboards</subject>
+          <subject>equipment</subject>
+          <subject>electronics</subject>
+          <subject>technology</subject>
+          <subject>curtains</subject>
+          <subject>data entry</subject>
+          <subject>indexing</subject>
+          <subject>typing</subject>
+          <subject>type</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>72 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>94 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>182 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>288 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/hands-computer-828898-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

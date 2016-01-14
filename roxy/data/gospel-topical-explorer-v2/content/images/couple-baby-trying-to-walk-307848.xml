@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parenthood#couple-baby-trying-to-walk-307848" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">couple-baby-trying-to-walk-307848</uri-title>
+      <source>couple-baby-trying-to-walk-307848</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Denmark</subject>
+          <subject>Danes</subject>
+          <subject>Family</subject>
+          <subject>Mothers</subject>
+          <subject>Fathers</subject>
+          <subject>Children</subject>
+          <subject>Toddlers</subject>
+          <subject>Outdoors</subject>
+          <subject>Baby</subject>
+          <subject>Walk</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>152 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>325 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>531 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/couple-baby-trying-to-walk-307848-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="couple-baby-trying-to-walk-307848" locale="eng" uri="/media-library/images/parenthood#couple-baby-trying-to-walk-307848" status="publish" site="ldsorg" source="chq" words="141" tgp="0.493"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

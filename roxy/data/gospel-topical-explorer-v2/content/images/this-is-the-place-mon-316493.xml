@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/trek#this-is-the-place-mon-316493" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">this-is-the-place-mon-316493</uri-title>
+      <source>this-is-the-place-mon-316493</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>costumes</subject>
+          <subject>couple</subject>
+          <subject>this is the place monument</subject>
+          <subject>pioneers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>84 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>232 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>379 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/this-is-the-place-mon-316493-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="this-is-the-place-mon-316493" locale="eng" uri="/media-library/images/conference-events/trek#this-is-the-place-mon-316493" status="publish" site="ldsorg" source="chq" words="151" tgp="0.528"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

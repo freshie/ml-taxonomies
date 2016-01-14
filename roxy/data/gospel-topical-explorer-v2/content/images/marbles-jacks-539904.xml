@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#marbles-jacks-539904" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">marbles-jacks-539904</uri-title>
+      <source>marbles-jacks-539904</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>marbles</subject>
+          <subject>jacks</subject>
+          <subject>toys</subject>
+          <subject>game</subject>
+          <subject>childhood</subject>
+          <subject>activity</subject>
+          <subject>blue</subject>
+          <subject>green</subject>
+          <subject>orange</subject>
+          <subject>floor</subject>
+          <subject>Christina Smith</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>122 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>166 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>374 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>597 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/marbles-jacks-539904-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

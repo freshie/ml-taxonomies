@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#interior-granite-mountain-records-vault-256640" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">interior-granite-mountain-records-vault-256640</uri-title>
+      <source>interior-granite-mountain-records-vault-256640</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>granite mountain records vault</subject>
+          <subject>genealogy</subject>
+          <subject>interior</subject>
+          <subject>family history</subject>
+          <subject>cabinets</subject>
+          <subject>storage</subject>
+          <subject>drawer</subject>
+          <subject>open</subject>
+          <subject>hallway</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>480 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>550 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/interior-granite-mountain-records-vault-256640-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="interior-granite-mountain-records-vault-256640" locale="eng" uri="/media-library/images/family-history#interior-granite-mountain-records-vault-256640" status="publish" site="ldsorg" source="chq" words="152" tgp="0.5315"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

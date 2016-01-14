@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#go-ye-therefore-and-teach-all-nations-39610" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">go-ye-therefore-and-teach-all-nations-39610</uri-title>
+      <source>go-ye-therefore-and-teach-all-nations-39610</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Go Ye Therefore and Teach All Nations</title>
+      <description>Go Ye Therefore and Teach All Nations (<i>Gospel Art Book</i> [2009], no. 61) - <a href="http://scriptures.lds.org/en/matt/28/16-20#16">Matt. 28:16–20;</a> <a href="http://scriptures.lds.org/en/mark/16/14-20#14">Mark 16:14–20;</a> <a href="http://scriptures.lds.org/en/dc/31/3-5#3">D&amp;C 31:3–5</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Gospel Art</subject>
+          <subject>Go ye Therefore</subject>
+          <subject>Jesus Christ</subject>
+          <subject>Teachings of Christ</subject>
+          <subject>Apostles</subject>
+          <subject>Disciples</subject>
+          <subject>Jerusalem</subject>
+          <subject>life of christ</subject>
+          <subject>new testament</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>193 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>434 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>992 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/go-ye-therefore-and-teach-all-nations-39610-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

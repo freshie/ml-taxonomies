@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#christ-blessing-nephite-children-451708" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">christ-blessing-nephite-children-451708</uri-title>
+      <source>christ-blessing-nephite-children-451708</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Jesus Christ blessing the Nephite children</title>
+      <description>Jesus Christ blessing the Nephite children</description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>jesus</subject>
+          <subject>christ</subject>
+          <subject>christ in america</subject>
+          <subject>nephites</subject>
+          <subject>children</subject>
+          <subject>boys</subject>
+          <subject>girls</subject>
+          <subject>blesses</subject>
+          <subject>primary manual</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>152 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>169 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>353 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>653 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-blessing-nephite-children-451708-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="christ-blessing-nephite-children-451708" locale="eng" uri="/media-library/images/gospel-art/book-of-mormon#christ-blessing-nephite-children-451708" status="publish" site="ldsorg" source="chq" words="156" tgp="0.5455"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

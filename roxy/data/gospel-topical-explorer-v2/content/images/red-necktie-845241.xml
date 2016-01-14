@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#red-necktie-845241" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">red-necktie-845241</uri-title>
+      <source>red-necktie-845241</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>man</subject>
+          <subject>cloths</subject>
+          <subject>necktie</subject>
+          <subject>knotted</subject>
+          <subject>white shirt</subject>
+          <subject>red</subject>
+          <subject>red squares</subject>
+          <subject>attire</subject>
+          <subject>sunday dress</subject>
+          <subject>collar</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>235 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>315 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>660 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1,024 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/red-necktie-845241-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

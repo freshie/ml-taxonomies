@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#sparkler-929622" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">sparkler-929622</uri-title>
+      <source>sparkler-929622</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Fireworks</subject>
+          <subject>Luke</subject>
+          <subject>John</subject>
+          <subject>Sparklers (Fireworks)</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>36 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>46 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>95 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/sparkler-929622-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">John Son of Zebedee</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#altLabel</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">Son of Zebedee</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Person</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.lds.org/core#gender</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">male</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.lds.org/core#partOfSpeech</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">proper noun</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object datatype="xsd:anyURI">http://www.lds.org/scriptures/gs/john-son-of-zebedee</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#definition</sem:predicate>
+    <sem:object xml:lang="eng" datatype="xsd:string">One of the Twelve Apostles in the New Testament, a son of Zebedee, and a brother of James. In his early life he was a fisherman (). He is probably the unnamed disciple of John the Baptist mentioned in . Later he received a call to be a disciple of Jesus Christ (; ). He wrote the Gospel of John, three epistles, and the book of Revelation. He was one of three who were with the Lord at the raising of Jairus’s daughter (), at the Mount of Transfiguration (), and in Gethsemane (). In his own writings he refers to himself as the disciple whom Jesus loved (; ) and as the “other disciple” (). Jesus also called him and his brother Boanerges, “sons of thunder” (). There are frequent references to him in the accounts of the crucifixion and resurrection (; ; ; ; ). John was later banished to Patmos, where he wrote the book of Revelation ().Although the writer of these three epistles does not mention himself by name, the language so strongly resembles that of John the Apostle that he is assumed to have written all three.In this New Testament book, John the Apostle testified that (1) Jesus is the Christ or Messiah, and (2) Jesus is the Son of God (). The scenes from Jesus’ life that he describes are carefully selected and arranged with this object in view. The book begins with a statement of Christ’s status in the premortal existence: he was with God, he was God, and he was the creator of all things. He was born in the flesh as the Only Begotten Son of the Father. John traces the course of Jesus’ ministry, greatly emphasizing his divinity and his resurrection from the dead. He clearly affirms that Jesus is the Son of God, attested to by miracles, by witnesses, by the prophets, and by Christ’s own voice. John teaches by contrasting light and darkness, truth and error, good and evil, God and the devil. Perhaps in no other record is the holiness of Jesus and the faithlessness of the Jewish rulers so plainly declared.</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/apostle</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/gospels</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/melchizedek-priesthood</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/revelation-of-john</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept/gs/translated-beings</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/guide-to-the-scriptures</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/concept/gs/john-son-of-zebedee</sem:subject>
+    <sem:predicate>http://www.lds.org/core#relCount</sem:predicate>
+    <sem:object datatype="xsd:integer">5</sem:object>
+  </sem:triple>
+</sem:triples>

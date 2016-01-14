@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#cookies-hot-dogs-829333" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">cookies-hot-dogs-829333</uri-title>
+      <source>cookies-hot-dogs-829333</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Appetizers</subject>
+          <subject>Cookies</subject>
+          <subject>Homemaking</subject>
+          <subject>Hors d'oeuvres</subject>
+          <subject>Hot Dogs</subject>
+          <subject>Snacks</subject>
+          <subject>Food</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>136 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>184 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>411 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>702 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/cookies-hot-dogs-829333-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/illustrations#car-leaving-temple-grounds-746198" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">car-leaving-temple-grounds-746198</uri-title>
+      <source>car-leaving-temple-grounds-746198</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>driving</subject>
+          <subject>temples</subject>
+          <subject>angel moroni</subject>
+          <subject>mountains</subject>
+          <subject>the friend</subject>
+          <subject>magazine</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>358 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>479 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>794 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/illustrations/car-leaving-temple-grounds-746198-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="car-leaving-temple-grounds-746198" locale="eng" uri="/media-library/images/primary/illustrations#car-leaving-temple-grounds-746198" status="publish" site="ldsorg" source="chq" words="138" tgp="0.4825"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

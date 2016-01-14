@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/miscellaneous#faith-hope-charity-765158" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">faith-hope-charity-765158</uri-title>
+      <source>faith-hope-charity-765158</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>faith</subject>
+          <subject>hope</subject>
+          <subject>charity</subject>
+          <subject>flowers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>90 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>189 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>308 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/miscellaneous/faith-hope-charity-765158-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="faith-hope-charity-765158" locale="eng" uri="/media-library/images/miscellaneous#faith-hope-charity-765158" status="publish" site="ldsorg" source="chq" words="119" tgp="0.4161"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

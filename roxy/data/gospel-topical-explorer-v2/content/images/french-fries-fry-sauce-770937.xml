@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#french-fries-fry-sauce-770937" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">french-fries-fry-sauce-770937</uri-title>
+      <source>french-fries-fry-sauce-770937</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>French Fries</subject>
+          <subject>Fry sauce</subject>
+          <subject>Food</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>88 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>117 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>236 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>372 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/french-fries-fry-sauce-770937-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

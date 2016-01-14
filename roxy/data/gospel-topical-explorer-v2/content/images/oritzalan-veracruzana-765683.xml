@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#oritzalan-veracruzana-765683" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">oritzalan-veracruzana-765683</uri-title>
+      <source>oritzalan-veracruzana-765683</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Mexico</subject>
+          <subject>Veracruz</subject>
+          <subject>San Felipe</subject>
+          <subject>Orizatlan</subject>
+          <subject>mist</subject>
+          <subject>mountains</subject>
+          <subject>landscape</subject>
+          <subject>nature</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/oritzalan-veracruzana-765683-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/mountains/oritzalan-veracruzana-765683-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>127 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/oritzalan-veracruzana-765683-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/oritzalan-veracruzana-765683-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="oritzalan-veracruzana-765683" locale="eng" uri="/media-library/images/mountains#oritzalan-veracruzana-765683" status="publish" site="ldsorg" source="chq" words="84" tgp="0.2937"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/beliefs-practices#church-magazines-219908" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">church-magazines-219908</uri-title>
+      <source>church-magazines-219908</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Church Magazines</subject>
+          <subject>Ensign</subject>
+          <subject>New Era</subject>
+          <subject>Friend</subject>
+          <subject>Liahona</subject>
+          <subject>Reading</subject>
+          <subject>Magazines</subject>
+          <subject>Women</subject>
+          <subject>Hispanics</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>92 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>193 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>325 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/church-magazines-219908-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="church-magazines-219908" locale="eng" uri="/media-library/images/beliefs-practices#church-magazines-219908" status="publish" site="ldsorg" source="chq" words="124" tgp="0.4336"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

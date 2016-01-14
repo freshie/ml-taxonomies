@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#embroidery-floss-942165" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">embroidery-floss-942165</uri-title>
+      <source>embroidery-floss-942165</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>embroidery floss</subject>
+          <subject>skeins</subject>
+          <subject>blue</subject>
+          <subject>green</subject>
+          <subject>thread</subject>
+          <subject>backgrounds</subject>
+          <subject>string</subject>
+          <subject>pile</subject>
+          <subject>stack</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>448 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>501 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>994 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/embroidery-floss-942165-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

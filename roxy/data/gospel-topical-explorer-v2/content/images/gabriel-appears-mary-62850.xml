@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#gabriel-appears-mary-62850" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">gabriel-appears-mary-62850</uri-title>
+      <source>gabriel-appears-mary-62850</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>angels</subject>
+          <subject>gabriel</subject>
+          <subject>annunciation</subject>
+          <subject>mary</subject>
+          <subject>virgin</subject>
+          <subject>mother</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/gabriel-appears-mary-62850-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/gabriel-appears-mary-62850-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>455 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/gabriel-appears-mary-62850-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>514 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/gabriel-appears-mary-62850-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/gabriel-appears-mary-62850-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="gabriel-appears-mary-62850" locale="eng" uri="/media-library/images/christmas#gabriel-appears-mary-62850" status="publish" site="ldsorg" source="chq" words="105" tgp="0.3671"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

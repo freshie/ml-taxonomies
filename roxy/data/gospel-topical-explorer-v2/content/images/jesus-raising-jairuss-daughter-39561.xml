@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#jesus-raising-jairuss-daughter-39561" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">jesus-raising-jairuss-daughter-39561</uri-title>
+      <source>jesus-raising-jairuss-daughter-39561</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Jesus Raising Jairus's Daughter</title>
+      <description>Jesus Raising Jairus's Daughter (<i>Gospel Art Book</i> [2009], no. 41) - <a href="http://scriptures.lds.org/en/matt/9/18-19,23-25#18">Matt. 9:18–19, 23–25;</a> <a href="http://scriptures.lds.org/en/mark/5/22-24,35-43#22">Mark 5:22–24, 35–43;</a> <a href="http://scriptures.lds.org/en/luke/8/41-42,49-56#4">Luke 8:41–42, 49–56</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Jairus' Daughter</subject>
+          <subject>Dead Raised</subject>
+          <subject>Jesus</subject>
+          <subject>Christ</subject>
+          <subject>New Testament</subject>
+          <subject>Art</subject>
+          <subject>Miracles</subject>
+          <subject>Life of Christ</subject>
+          <subject>Bed</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>251 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>352 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>855 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-raising-jairuss-daughter-39561-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

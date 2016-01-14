@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#adam-eve-altar-39689" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">adam-eve-altar-39689</uri-title>
+      <source>adam-eve-altar-39689</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Adam and Eve Kneeling at an Altar </title>
+      <description>Adam and Eve Kneeling at an Altar (<i>Gospel Art Book</i> [2009], no. 4) - <a href="http://scriptures.lds.org/en/2_ne/2/17-25#17">2 Ne. 2:17–25;</a> <a href="http://scriptures.lds.org/en/moses/5/4-11#4">Moses 5:4–11</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>adam</subject>
+          <subject>eve</subject>
+          <subject>altar</subject>
+          <subject>prayer</subject>
+          <subject>offering</subject>
+          <subject>praying</subject>
+          <subject>kneeling</subject>
+          <subject>stones</subject>
+          <subject>animal sacrifice</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>290 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>459 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>998 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-altar-39689-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

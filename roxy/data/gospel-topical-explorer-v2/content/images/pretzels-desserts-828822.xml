@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#pretzels-desserts-828822" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">pretzels-desserts-828822</uri-title>
+      <source>pretzels-desserts-828822</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Baking</subject>
+          <subject>Cooking</subject>
+          <subject>Desserts</subject>
+          <subject>Food</subject>
+          <subject>Frosting</subject>
+          <subject>Pretzel</subject>
+          <subject>Snacks</subject>
+          <subject>Sweets</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>128 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>142 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>308 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>676 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/pretzels-desserts-828822-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

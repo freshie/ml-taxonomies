@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/structures#croatia-zagreb-historic-buildings-811346" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">croatia-zagreb-historic-buildings-811346</uri-title>
+      <source>croatia-zagreb-historic-buildings-811346</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-27">2012-09-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>structures</subject>
+          <subject>historic</subject>
+          <subject>buildings</subject>
+          <subject>croatia</subject>
+          <subject>zagreb</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>153 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>362 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>709 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/croatia-zagreb-historic-buildings-811346-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

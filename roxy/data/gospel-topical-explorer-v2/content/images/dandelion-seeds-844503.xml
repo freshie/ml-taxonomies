@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/spring#dandelion-seeds-844503" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">dandelion-seeds-844503</uri-title>
+      <source>dandelion-seeds-844503</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Dandelions</subject>
+          <subject>Nature</subject>
+          <subject>Plants</subject>
+          <subject>Seeds</subject>
+          <subject>Weeds</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>206 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>258 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>527 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>869 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/dandelion-seeds-844503-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

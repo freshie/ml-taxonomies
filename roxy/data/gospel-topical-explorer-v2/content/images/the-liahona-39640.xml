@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#the-liahona-39640" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-liahona-39640</uri-title>
+      <source>the-liahona-39640</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Liahona</title>
+      <description>The Liahona (<i>Gospel Art Book</i> [2009], no. 68) - <a href="http://scriptures.lds.org/en/1_ne/16/10,26-29#10">1 Ne. 16:10, 26–29;</a> <a href="http://scriptures.lds.org/en/alma/37/38-46#38">Alma 37:38–46</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>lehis family</subject>
+          <subject>liahona</subject>
+          <subject>book of mormon</subject>
+          <subject>nephi</subject>
+          <subject>obedience</subject>
+          <subject>gospel art book</subject>
+          <subject>artwork</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>721 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>910 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>2.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

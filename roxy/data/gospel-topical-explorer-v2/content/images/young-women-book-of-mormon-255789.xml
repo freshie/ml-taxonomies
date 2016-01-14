@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/member-missionary#young-women-book-of-mormon-255789" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-women-book-of-mormon-255789</uri-title>
+      <source>young-women-book-of-mormon-255789</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-09-27">2012-09-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>member missionary</subject>
+          <subject>women</subject>
+          <subject>book of mormon</subject>
+          <subject>reading</subject>
+          <subject>discussing</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>167 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>191 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>488 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/member-missionary/young-women-book-of-mormon-255789-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

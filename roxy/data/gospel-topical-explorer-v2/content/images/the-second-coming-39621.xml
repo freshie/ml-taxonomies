@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#the-second-coming-39621" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-second-coming-39621</uri-title>
+      <source>the-second-coming-39621</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Second Coming</title>
+      <description>The Second Coming - <a href="http://scriptures.lds.org/en/matt/16/27#27">Matt. 16:27;</a> <a href="http://scriptures.lds.org/en/matt/24/30-31#30">24:30–31;</a> <a href="http://scriptures.lds.org/en/matt/25/31#31">25:31;</a> <a href="http://scriptures.lds.org/en/dc/45/44-45#44">D&amp;C 45:44–45;</a> <a href="http://scriptures.lds.org/en/dc/133/19,44-52#19">133:19, 44–52;</a> <a href="http://scriptures.lds.org/en/js_m/1/1,36-40#1">JS—M 1:1, 36–40</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Jesus Christ</subject>
+          <subject>life of Christ</subject>
+          <subject>second coming</subject>
+          <subject>clouds</subject>
+          <subject>artwork</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>182 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>264 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>685 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>292 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-second-coming-39621-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

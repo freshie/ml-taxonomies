@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/abstract-patterns#walls-rocks-829881" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">walls-rocks-829881</uri-title>
+      <source>walls-rocks-829881</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>rock</subject>
+          <subject>wall</subject>
+          <subject>stone</subject>
+          <subject>wall</subject>
+          <subject>road</subject>
+          <subject>path</subject>
+          <subject>street</subject>
+          <subject>texture</subject>
+          <subject>lava rock</subject>
+          <subject>foundation</subject>
+          <subject>street</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>674 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>953 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/walls-rocks-829881-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="walls-rocks-829881" locale="eng" uri="/media-library/images/abstract-patterns#walls-rocks-829881" status="publish" site="ldsorg" source="chq" words="127" tgp="0.4441"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

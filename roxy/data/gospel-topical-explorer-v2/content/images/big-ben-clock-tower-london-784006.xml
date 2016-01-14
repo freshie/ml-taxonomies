@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#big-ben-clock-tower-london-784006" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">big-ben-clock-tower-london-784006</uri-title>
+      <source>big-ben-clock-tower-london-784006</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>london</subject>
+          <subject>england</subject>
+          <subject>big ben</subject>
+          <subject>towers</subject>
+          <subject>houses of parliament</subject>
+          <subject>clocks</subject>
+          <subject>westminster palace</subject>
+          <subject>historic buildings</subject>
+          <subject>tourist sites</subject>
+          <subject>attractions</subject>
+          <subject>british</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>98 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>135 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>305 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>516 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/big-ben-clock-tower-london-784006-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

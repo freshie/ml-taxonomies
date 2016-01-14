@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#budapest-hungary-buildings-840159" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">budapest-hungary-buildings-840159</uri-title>
+      <source>budapest-hungary-buildings-840159</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>hungary</subject>
+          <subject>budapest</subject>
+          <subject>historic buildings</subject>
+          <subject>bridges</subject>
+          <subject>rivers</subject>
+          <subject>cities</subject>
+          <subject>cityscapes</subject>
+          <subject>historical</subject>
+          <subject>architecture</subject>
+          <subject>europe</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>73 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>99 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>211 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>342 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/budapest-hungary-buildings-840159-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

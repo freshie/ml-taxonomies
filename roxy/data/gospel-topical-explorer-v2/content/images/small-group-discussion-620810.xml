@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/education/miscellaneous#small-group-discussion-620810" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">small-group-discussion-620810</uri-title>
+      <source>small-group-discussion-620810</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>employment resource center</subject>
+          <subject>services</subject>
+          <subject>mexico</subject>
+          <subject>men</subject>
+          <subject>women</subject>
+          <subject>workplace</subject>
+          <subject>office</subject>
+          <subject>meeting</subject>
+          <subject>discussion</subject>
+          <subject>spanish speaking</subject>
+          <subject>hispanic</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>158 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>388 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>814 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/education/miscellaneous/small-group-discussion-620810-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="small-group-discussion-620810" locale="eng" uri="/media-library/images/education/miscellaneous#small-group-discussion-620810" status="publish" site="ldsorg" source="chq" words="135" tgp="0.472"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

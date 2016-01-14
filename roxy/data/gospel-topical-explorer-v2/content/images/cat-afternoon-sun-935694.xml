@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#cat-afternoon-sun-935694" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">cat-afternoon-sun-935694</uri-title>
+      <source>cat-afternoon-sun-935694</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>cats</subject>
+          <subject>animals</subject>
+          <subject>pets</subject>
+          <subject>felines</subject>
+          <subject>shaggy</subject>
+          <subject>long-haired</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>197 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>270 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>585 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>961 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/cat-afternoon-sun-935694-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

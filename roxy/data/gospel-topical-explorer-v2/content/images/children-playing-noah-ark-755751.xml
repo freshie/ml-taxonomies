@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/activity-pages#children-playing-noah-ark-755751" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">children-playing-noah-ark-755751</uri-title>
+      <source>children-playing-noah-ark-755751</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>children</subject>
+          <subject>playing</subject>
+          <subject>noah's ark</subject>
+          <subject>line art</subject>
+          <subject>hidden pictures</subject>
+          <subject>activities</subject>
+          <subject>kids</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>308 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>399 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>740 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/activity-page/children-playing-noah-ark-755751-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="children-playing-noah-ark-755751" locale="eng" uri="/media-library/images/primary/activity-pages#children-playing-noah-ark-755751" status="publish" site="ldsorg" source="chq" words="147" tgp="0.514"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

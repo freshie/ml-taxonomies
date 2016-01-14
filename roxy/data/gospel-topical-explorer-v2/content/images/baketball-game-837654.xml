@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#baketball-game-837654" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">baketball-game-837654</uri-title>
+      <source>baketball-game-837654</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>sports</subject>
+          <subject>athletics</subject>
+          <subject>basketball</subject>
+          <subject>games</subject>
+          <subject>church</subject>
+          <subject>gyms</subject>
+          <subject>gymnasiums</subject>
+          <subject>courts</subject>
+          <subject>shooting</subject>
+          <subject>balls</subject>
+          <subject>teams</subject>
+          <subject>men</subject>
+          <subject>players</subject>
+          <subject>hoops</subject>
+          <subject>jerseys</subject>
+          <subject>blocks</subject>
+          <subject>guarding</subject>
+          <subject>jumping</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>70 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>92 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>195 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>340 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/baketball-game-837654-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

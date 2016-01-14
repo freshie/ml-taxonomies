@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/mountains#desert-829394" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">desert-829394</uri-title>
+      <source>desert-829394</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-23">2012-08-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mountains</subject>
+          <subject>desert</subject>
+          <subject>dry</subject>
+          <subject>cactus</subject>
+          <subject>cacti</subject>
+          <subject>brush</subject>
+          <subject>rocks</subject>
+          <subject>sand</subject>
+          <subject>nature</subject>
+          <subject>landscapes</subject>
+          <subject>blue sky</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/mountains/desert-829394-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/mountains/desert-829394-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>235 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/desert-829394-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>266 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/desert-829394-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>640 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/desert-829394-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/mountains/desert-829394-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

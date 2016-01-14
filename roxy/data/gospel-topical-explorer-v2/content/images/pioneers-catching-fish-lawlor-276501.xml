@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/pioneer#pioneers-catching-fish-lawlor-276501" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">pioneers-catching-fish-lawlor-276501</uri-title>
+      <source>pioneers-catching-fish-lawlor-276501</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>catching</subject>
+          <subject>fish</subject>
+          <subject>fishing</subject>
+          <subject>handcart</subject>
+          <subject>pioneers</subject>
+          <subject>sweetwater river</subject>
+          <subject>camp</subject>
+          <subject>fire</subject>
+          <subject/>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>580 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>806 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/pioneers-catching-fish-lawlor-276501-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

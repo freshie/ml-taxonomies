@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/redlands-california#redlands-temple-766820" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">redlands-temple-766820</uri-title>
+      <source>redlands-temple-766820</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Temples</subject>
+          <subject>Redlands</subject>
+          <subject>California</subject>
+          <subject>Palm Trees</subject>
+          <subject>Fences</subject>
+          <subject>Gardens</subject>
+          <subject>Sunlight</subject>
+          <subject>Sky</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>146 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>166 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>373 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>795 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/redlands-california/redlands-temple-766820-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="redlands-temple-766820" locale="eng" uri="/media-library/images/temples/redlands-california#redlands-temple-766820" status="publish" site="ldsorg" source="chq" words="128" tgp="0.4476"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

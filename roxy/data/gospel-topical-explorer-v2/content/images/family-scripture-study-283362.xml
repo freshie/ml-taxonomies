@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parenthood#family-scripture-study-283362" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">family-scripture-study-283362</uri-title>
+      <source>family-scripture-study-283362</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Families</subject>
+          <subject>Fathers</subject>
+          <subject>Mothers</subject>
+          <subject>Children</subject>
+          <subject>Scriptures</subject>
+          <subject>Scripture Study</subject>
+          <subject>Sitting</subject>
+          <subject>Parents</subject>
+          <subject>Parenthood</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>154 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>174 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>379 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>785 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/family-scripture-study-283362-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="family-scripture-study-283362" locale="eng" uri="/media-library/images/parenthood#family-scripture-study-283362" status="publish" site="ldsorg" source="chq" words="125" tgp="0.4371"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

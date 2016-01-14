@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#latter-day-saint-humanitarian-center-830995" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">latter-day-saint-humanitarian-center-830995</uri-title>
+      <source>latter-day-saint-humanitarian-center-830995</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Boxes</subject>
+          <subject>Church service missionaries</subject>
+          <subject>Couple missionaries</subject>
+          <subject>Couples</subject>
+          <subject>Grandparents</subject>
+          <subject>Humanitarian aid (LDS)</subject>
+          <subject>Latter-day Saint Humanitarian Center (Salt Lake City</subject>
+          <subject>Utah)</subject>
+          <subject>Marriage</subject>
+          <subject>Missionaries</subject>
+          <subject>Senior missionaries</subject>
+          <subject>Service</subject>
+          <subject>Smiles</subject>
+          <subject>Smiling</subject>
+          <subject>Warehouses</subject>
+          <subject>Welfare</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>174 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>194 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>418 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>851 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/latter-day-saint-humanitarian-center-830995-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

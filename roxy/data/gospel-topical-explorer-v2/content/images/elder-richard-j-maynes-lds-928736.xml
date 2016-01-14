@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-leadership/other-general-authorities#elder-richard-j-maynes-lds-928736" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">elder-richard-j-maynes-lds-928736</uri-title>
+      <source>elder-richard-j-maynes-lds-928736</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-01">2012-11-01</publication-date>
+      <title>Richard J. Maynes</title>
+      <description>Richard J. Maynes - Presidency of the Seventy | <a href="http://www.lds.org/church/leader/richard-j-maynes?lang=eng" target="_blank">Read his official biography</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>richard j. maynes</subject>
+          <subject>presidency of the seventy</subject>
+          <subject>seventies</subject>
+          <subject>official portraits</subject>
+          <subject>church leaders</subject>
+          <subject>general authorities</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>67 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>95 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>240 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>445 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/other-general-authorities/elder-richard-j-maynes-lds-928736-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

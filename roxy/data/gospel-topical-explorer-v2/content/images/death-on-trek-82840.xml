@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#death-on-trek-82840" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">death-on-trek-82840</uri-title>
+      <source>death-on-trek-82840</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Martin Handcart Company—Bitter Creek, Wyoming, 1856</title>
+      <description>Martin Handcart Company—Bitter Creek, Wyoming, 1856</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>martin handcart company</subject>
+          <subject>pioneers</subject>
+          <subject>death</subject>
+          <subject>burying</subject>
+          <subject>burial</subject>
+          <subject>graves</subject>
+          <subject>cold</subject>
+          <subject>winter</subject>
+          <subject>wagon train</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>174 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>244 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>567 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>984 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/death-on-trek-82840-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

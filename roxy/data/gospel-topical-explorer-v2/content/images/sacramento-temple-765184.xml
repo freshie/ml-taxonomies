@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/sacramento-california#sacramento-temple-765184" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">sacramento-temple-765184</uri-title>
+      <source>sacramento-temple-765184</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>sacramento</subject>
+          <subject>california</subject>
+          <subject>temples</subject>
+          <subject>blue sky</subject>
+          <subject>clouds</subject>
+          <subject>fountains</subject>
+          <subject>exterior</subject>
+          <subject>temple grounds</subject>
+          <subject>landscaping</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/sacramento-california/sacramento-temple-765184-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/sacramento-california/sacramento-temple-765184-thumbnail.jpg</small>
+      </images>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="sacramento-temple-765184" locale="eng" uri="/media-library/images/temples/sacramento-california#sacramento-temple-765184" status="publish" site="ldsorg" source="chq" words="58" tgp="0.2028"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

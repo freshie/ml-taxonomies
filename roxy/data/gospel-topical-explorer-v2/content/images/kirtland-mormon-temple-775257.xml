@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#kirtland-mormon-temple-775257" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">kirtland-mormon-temple-775257</uri-title>
+      <source>kirtland-mormon-temple-775257</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>CHL 386fd4it004.tif</subject>
+          <subject>CHL 386fd4it004alt.tif</subject>
+          <subject>CHL PH 386fd4it004.tif</subject>
+          <subject>Kirtland Temple</subject>
+          <subject>Temples</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/kirtland-mormon-temple-775257-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/kirtland-mormon-temple-775257-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>145 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/kirtland-mormon-temple-775257-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>169 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/kirtland-mormon-temple-775257-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>325 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/george-albert-smith/kirtland-mormon-temple-775257-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="kirtland-mormon-temple-775257" locale="eng" uri="/media-library/images/teachings-of-presidents-of-the-church/george-albert-smith#kirtland-mormon-temple-775257" status="publish" site="ldsorg" source="chq" words="151" tgp="0.528"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

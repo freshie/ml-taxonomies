@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#bracelets-890644" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">bracelets-890644</uri-title>
+      <source>bracelets-890644</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>beads</subject>
+          <subject>bracelets</subject>
+          <subject>jewelry</subject>
+          <subject>rack</subject>
+          <subject>store</subject>
+          <subject>beaded</subject>
+          <subject>colorful</subject>
+          <subject>multicolored</subject>
+          <subject>fashion</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/bracelets-890644-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/bracelets-890644-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>386 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bracelets-890644-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>519 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bracelets-890644-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bracelets-890644-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/bracelets-890644-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

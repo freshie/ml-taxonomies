@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#boy-snow-cave-837264" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boy-snow-cave-837264</uri-title>
+      <source>boy-snow-cave-837264</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>snow caves</subject>
+          <subject>building</subject>
+          <subject>winter</subject>
+          <subject>outdoors</subject>
+          <subject>recreation</subject>
+          <subject>activities</subject>
+          <subject>children</subject>
+          <subject>boys</subject>
+          <subject>cold</subject>
+          <subject>camping</subject>
+          <subject>gear</subject>
+          <subject>clothes</subject>
+          <subject>gloves</subject>
+          <subject>coats</subject>
+          <subject>tunnels</subject>
+          <subject>forts</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>124 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>170 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>418 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>763 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/boy-snow-cave-837264-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

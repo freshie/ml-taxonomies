@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#creation-39457" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">creation-39457</uri-title>
+      <source>creation-39457</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Creation—Living Creatures</title>
+      <description>Creation—Living Creatures - <a href="http://scriptures.lds.org/gen/1/20-25#20">Genesis 1:20–25; <a href="http://scriptures.lds.org/moses/2/20-25#20">Moses 2:20–25;</a> <a href="http://scriptures.lds.org/abr/4/20-25#20">Abraham 4:20–25</a></a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Animals</subject>
+          <subject>Creation</subject>
+          <subject>Garden of Eden</subject>
+          <subject>Adam and Eve</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>200 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>476 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>832 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/creation-39457-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parks-national-state#bryce-canyon-770837" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">bryce-canyon-770837</uri-title>
+      <source>bryce-canyon-770837</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bryce Canyon</subject>
+          <subject>national park</subject>
+          <subject>red rock</subject>
+          <subject>trees</subject>
+          <subject>nature</subject>
+          <subject>Utah</subject>
+          <subject>formations</subject>
+          <subject>desert</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parks-national-state/bryce-canyon-770837-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parks-national-state/bryce-canyon-770837-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>262 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/bryce-canyon-770837-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>361 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/bryce-canyon-770837-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>749 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parks-national-state/bryce-canyon-770837-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="bryce-canyon-770837" locale="eng" uri="/media-library/images/parks-national-state#bryce-canyon-770837" status="publish" site="ldsorg" source="chq" words="112" tgp="0.3916"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

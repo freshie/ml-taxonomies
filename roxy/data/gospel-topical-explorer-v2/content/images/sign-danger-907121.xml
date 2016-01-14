@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#sign-danger-907121" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">sign-danger-907121</uri-title>
+      <source>sign-danger-907121</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>canyon</subject>
+          <subject>desert</subject>
+          <subject>sign</subject>
+          <subject>warning</subject>
+          <subject>caution</subject>
+          <subject>guide</subject>
+          <subject>warning sigh</subject>
+          <subject>cliff</subject>
+          <subject>edge</subject>
+          <subject>children</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>369 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>500 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1,016 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/sign-danger-907121-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

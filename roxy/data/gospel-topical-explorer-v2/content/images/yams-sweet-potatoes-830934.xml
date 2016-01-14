@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#yams-sweet-potatoes-830934" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">yams-sweet-potatoes-830934</uri-title>
+      <source>yams-sweet-potatoes-830934</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Sweet Potatoes</subject>
+          <subject>Vegetables</subject>
+          <subject>Backgrounds</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>90 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>123 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>261 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>422 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/yams-sweet-potatoes-830934-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

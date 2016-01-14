@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#basketball-game-837638" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">basketball-game-837638</uri-title>
+      <source>basketball-game-837638</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>sports</subject>
+          <subject>athletics</subject>
+          <subject>basketball</subject>
+          <subject>games</subject>
+          <subject>church</subject>
+          <subject>gyms</subject>
+          <subject>gymnasiums</subject>
+          <subject>courts</subject>
+          <subject>balls</subject>
+          <subject>teams</subject>
+          <subject>men</subject>
+          <subject>players</subject>
+          <subject>jerseys</subject>
+          <subject>blocks</subject>
+          <subject>guarding</subject>
+          <subject>playing</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>83 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>109 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>220 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>357 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/basketball-game-837638-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

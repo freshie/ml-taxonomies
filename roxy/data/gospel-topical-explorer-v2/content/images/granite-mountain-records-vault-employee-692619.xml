@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#granite-mountain-records-vault-employee-692619" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">granite-mountain-records-vault-employee-692619</uri-title>
+      <source>granite-mountain-records-vault-employee-692619</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>family history</subject>
+          <subject>microfiche</subject>
+          <subject>container</subject>
+          <subject>reader</subject>
+          <subject>granite mountain records vault</subject>
+          <subject>names</subject>
+          <subject>machine</subject>
+          <subject>woman</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>359 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>398 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>808 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/granite-mountain-records-vault-employee-692619-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="granite-mountain-records-vault-employee-692619" locale="eng" uri="/media-library/images/family-history#granite-mountain-records-vault-employee-692619" status="publish" site="ldsorg" source="chq" words="150" tgp="0.5245"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

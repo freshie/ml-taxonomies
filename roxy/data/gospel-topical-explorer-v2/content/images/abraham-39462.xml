@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#abraham-39462" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">abraham-39462</uri-title>
+      <source>abraham-39462</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>An Angel Saves Abraham</title>
+      <description>An Angel Saves Abraham - <a href="http://scriptures.lds.org/abr/1/15#15">Abraham 1:15</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Abraham</subject>
+          <subject>Gospel Art Kit</subject>
+          <subject>Isaac</subject>
+          <subject>Sacrifice</subject>
+          <subject>Old Testament</subject>
+          <subject>Gospel Art</subject>
+          <subject>Angels</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>80 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>287 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>540 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/abraham-39462-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

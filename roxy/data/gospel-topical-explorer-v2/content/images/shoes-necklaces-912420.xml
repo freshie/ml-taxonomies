@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#shoes-necklaces-912420" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">shoes-necklaces-912420</uri-title>
+      <source>shoes-necklaces-912420</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>shoes</subject>
+          <subject>high heals</subject>
+          <subject>necklace</subject>
+          <subject>lipstick</subject>
+          <subject>make up</subject>
+          <subject>beads</subject>
+          <subject>pearls</subject>
+          <subject>nail polish</subject>
+          <subject>beauty</subject>
+          <subject>fashion</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>297 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>335 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>769 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-necklaces-912420-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

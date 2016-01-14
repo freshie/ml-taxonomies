@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#ukrainian-food-solyanka-844533" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ukrainian-food-solyanka-844533</uri-title>
+      <source>ukrainian-food-solyanka-844533</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bowls</subject>
+          <subject>Bread</subject>
+          <subject>Dinner</subject>
+          <subject>Food</subject>
+          <subject>Ham</subject>
+          <subject>Meals</subject>
+          <subject>Soups</subject>
+          <subject>Stews</subject>
+          <subject>Ukraine</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/ukrainian-food-solyanka-844533-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/ukrainian-food-solyanka-844533-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>166 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/ukrainian-food-solyanka-844533-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>223 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/ukrainian-food-solyanka-844533-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>453 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/ukrainian-food-solyanka-844533-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

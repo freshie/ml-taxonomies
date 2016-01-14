@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#photo-album-framed-photos-ancestors-147894" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">photo-album-framed-photos-ancestors-147894</uri-title>
+      <source>photo-album-framed-photos-ancestors-147894</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>family history</subject>
+          <subject>genealogy</subject>
+          <subject>historical photographs</subject>
+          <subject>memorabilia</subject>
+          <subject>images</subject>
+          <subject>vintage</subject>
+          <subject>table</subject>
+          <subject>ancestry</subject>
+          <subject>names</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>492 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>669 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/photo-album-framed-photos-ancestors-147894-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="photo-album-framed-photos-ancestors-147894" locale="eng" uri="/media-library/images/family-history#photo-album-framed-photos-ancestors-147894" status="publish" site="ldsorg" source="chq" words="150" tgp="0.5245"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/historical#cove-fort-917320" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">cove-fort-917320</uri-title>
+      <source>cove-fort-917320</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>bowls</subject>
+          <subject>pots</subject>
+          <subject>pitchers</subject>
+          <subject>tables</subject>
+          <subject>towels</subject>
+          <subject>bedside</subject>
+          <subject>washstands</subject>
+          <subject>old</subject>
+          <subject>antiques</subject>
+          <subject>pioneers</subject>
+          <subject>basins</subject>
+          <subject>bedrooms</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>159 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>346 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>720 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/historical/cove-fort-917320-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

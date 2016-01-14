@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/cpg/test-subject</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object>http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/cpg/test-subject</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object>http://lds.org/concept-scheme/curriculum-planning-guide</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/cpg/test-subject</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Test Subject</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/cpg/test-subject</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#narrower</sem:predicate>
+    <sem:object>http://lds.org/concept/cpg/curriculum-planning-guide</sem:object>
+  </sem:triple>
+</sem:triples>

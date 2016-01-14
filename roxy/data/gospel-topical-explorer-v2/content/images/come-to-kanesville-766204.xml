@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/pageants#come-to-kanesville-766204" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">come-to-kanesville-766204</uri-title>
+      <source>come-to-kanesville-766204</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Come Home to Kanesville</subject>
+          <subject>Acting</subject>
+          <subject>Costumes</subject>
+          <subject>Dancing</subject>
+          <subject>Actors</subject>
+          <subject>Dancers</subject>
+          <subject>Performances</subject>
+          <subject>Performers</subject>
+          <subject>Show</subject>
+          <subject>Play</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>97 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>131 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>285 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>467 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/come-to-kanesville-766204-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="come-to-kanesville-766204" locale="eng" uri="/media-library/images/conference-events/pageants#come-to-kanesville-766204" status="publish" site="ldsorg" source="chq" words="140" tgp="0.4895"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

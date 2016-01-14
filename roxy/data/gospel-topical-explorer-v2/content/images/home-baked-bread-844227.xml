@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#home-baked-bread-844227" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">home-baked-bread-844227</uri-title>
+      <source>home-baked-bread-844227</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Baking</subject>
+          <subject>Bread</subject>
+          <subject>Bread Baking</subject>
+          <subject>Breads</subject>
+          <subject>Food</subject>
+          <subject>Homemaking</subject>
+          <subject>Loaves</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>163 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>181 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>387 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>835 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/home-baked-bread-844227-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

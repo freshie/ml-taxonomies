@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/animals#insect-dragonfly-857041" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">insect-dragonfly-857041</uri-title>
+      <source>insect-dragonfly-857041</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>animals</subject>
+          <subject>insects</subject>
+          <subject>dragonfly</subject>
+          <subject>dragonflies</subject>
+          <subject>wings</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>188 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>208 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>407 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>750 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/animals/insect-dragonfly-857041-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

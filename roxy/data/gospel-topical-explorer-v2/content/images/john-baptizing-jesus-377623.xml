@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/line-art#john-baptizing-jesus-377623" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">john-baptizing-jesus-377623</uri-title>
+      <source>john-baptizing-jesus-377623</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>jesus</subject>
+          <subject>baptized</subject>
+          <subject>baptism</subject>
+          <subject>john</subject>
+          <subject>baptist</subject>
+          <subject>jordan</subject>
+          <subject>river</subject>
+          <subject>coloring</subject>
+          <subject>pages</subject>
+          <subject>activity</subject>
+          <subject>activities</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>223 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>293 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>575 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>670 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/john-baptizing-jesus-377623-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="john-baptizing-jesus-377623" locale="eng" uri="/media-library/images/primary/line-art#john-baptizing-jesus-377623" status="publish" site="ldsorg" source="chq" words="138" tgp="0.4825"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

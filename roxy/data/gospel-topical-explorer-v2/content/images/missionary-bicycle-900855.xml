@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#missionary-bicycle-900855" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">missionary-bicycle-900855</uri-title>
+      <source>missionary-bicycle-900855</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bicycles</subject>
+          <subject>Elder missionaries</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/missionary-bicycle-900855-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/missionary-bicycle-900855-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>86 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-bicycle-900855-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>118 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-bicycle-900855-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

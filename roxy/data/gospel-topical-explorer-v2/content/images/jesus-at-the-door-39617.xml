@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#jesus-at-the-door-39617" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">jesus-at-the-door-39617</uri-title>
+      <source>jesus-at-the-door-39617</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Jesus at the Door</title>
+      <description>Jesus at the Door (<i>Gospel Art Book</i> [2009], no. 65)- <a href="http://scriptures.lds.org/en/rev/3/20#20">Rev. 3:20</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>New Testament</subject>
+          <subject>Art</subject>
+          <subject>Jesus</subject>
+          <subject>Christ</subject>
+          <subject>Door</subject>
+          <subject>Knocking</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>345 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>489 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-at-the-door-39617-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

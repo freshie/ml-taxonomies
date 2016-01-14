@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/gospel-in-action#young-man-being-ordained-253400" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-man-being-ordained-253400</uri-title>
+      <source>young-man-being-ordained-253400</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-06">2013-03-06</publication-date>
+      <title>Ordination to the Priesthood</title>
+      <description>Ordination to the Priesthood (<i>Gospel Art Book</i> [2009], no. 106) - <a href="http://scriptures.lds.org/en/heb/5/4#4">Heb. 5:4;</a> <a href="http://scriptures.lds.org/en/dc/84/33-44#33">D&amp;C 84:33–44;</a> <a href="http://scriptures.lds.org/en/dc/107/6-20#6">107:6–20;</a> <a href="http://scriptures.lds.org/en/a_of_f/1/5#5">A of F 1:5</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>ordinations</subject>
+          <subject>setting apart</subject>
+          <subject>priesthood blessings</subject>
+          <subject>authority</subject>
+          <subject>power</subject>
+          <subject>laying on of hands</subject>
+          <subject>boys</subject>
+          <subject>aaronic</subject>
+          <subject>melchizedek</subject>
+          <subject>melchezidek</subject>
+          <subject>aronic</subject>
+          <subject>men</subject>
+          <subject>man</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>217 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>297 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>653 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-being-ordained-253400-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

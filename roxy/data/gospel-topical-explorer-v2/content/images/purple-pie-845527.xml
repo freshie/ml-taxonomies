@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#purple-pie-845527" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">purple-pie-845527</uri-title>
+      <source>purple-pie-845527</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Desserts</subject>
+          <subject>Food</subject>
+          <subject>Forks</subject>
+          <subject>Plates</subject>
+          <subject>Sharing</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/purple-pie-845527-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/purple-pie-845527-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>128 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/purple-pie-845527-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/purple-pie-845527-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

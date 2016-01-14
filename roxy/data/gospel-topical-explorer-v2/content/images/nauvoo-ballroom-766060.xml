@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/illinois#nauvoo-ballroom-766060" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">nauvoo-ballroom-766060</uri-title>
+      <source>nauvoo-ballroom-766060</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Nauvoo</subject>
+          <subject>Illinois</subject>
+          <subject>Ballrooms</subject>
+          <subject>Windows</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>68 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>93 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>208 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>354 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/illinois/nauvoo-ballroom-766060-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="nauvoo-ballroom-766060" locale="eng" uri="/media-library/images/church-history/illinois#nauvoo-ballroom-766060" status="publish" site="ldsorg" source="chq" words="123" tgp="0.4301"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

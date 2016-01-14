@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/meetinghouses#sharon-vt-chapel-760285" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">sharon-vt-chapel-760285</uri-title>
+      <source>sharon-vt-chapel-760285</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Historic Sites</subject>
+          <subject>New York</subject>
+          <subject>Meetinghouse</subject>
+          <subject>Chapel</subject>
+          <subject>Fence</subject>
+          <subject>Gate</subject>
+          <subject>Trees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>210 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>237 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>509 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>977 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/sharon-vt-chapel-760285-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="sharon-vt-chapel-760285" locale="eng" uri="/media-library/images/meetinghouses#sharon-vt-chapel-760285" status="publish" site="ldsorg" source="chq" words="124" tgp="0.4336"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

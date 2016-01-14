@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/fall#little-boy-wishing-well-831007" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">little-boy-wishing-well-831007</uri-title>
+      <source>little-boy-wishing-well-831007</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Autumn</subject>
+          <subject>Childhood</subject>
+          <subject>Fall</subject>
+          <subject>Leaves</subject>
+          <subject>Outdoors</subject>
+          <subject>Playing</subject>
+          <subject>Water</subject>
+          <subject>Wells (Water)</subject>
+          <subject>Children</subject>
+          <subject>Boys</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>118 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>309 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>474 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/little-boy-wishing-well-831007-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

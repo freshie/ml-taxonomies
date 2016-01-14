@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#technology-932983" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">technology-932983</uri-title>
+      <source>technology-932983</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>cleaning</subject>
+          <subject>gloves</subject>
+          <subject>technology</subject>
+          <subject>technicians</subject>
+          <subject>clean room</subject>
+          <subject>science</subject>
+          <subject>equipment</subject>
+          <subject>electronics</subject>
+          <subject>manufacturing</subject>
+          <subject>occupations</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/technology-932983-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/technology-932983-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>103 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/technology-932983-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>117 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/technology-932983-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>265 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/technology-932983-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>596 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/technology-932983-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

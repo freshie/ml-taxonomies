@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#dome-of-the-rock-jerusalem-789122" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">dome-of-the-rock-jerusalem-789122</uri-title>
+      <source>dome-of-the-rock-jerusalem-789122</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>jerusalem</subject>
+          <subject>israel</subject>
+          <subject>dome of the rock</subject>
+          <subject>western wall</subject>
+          <subject>temple mount</subject>
+          <subject>historic buildings</subject>
+          <subject>temples</subject>
+          <subject>architecture</subject>
+          <subject>religions</subject>
+          <subject>religious</subject>
+          <subject>mosaic</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>162 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>184 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>428 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>915 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/dome-of-the-rock-jerusalem-789122-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

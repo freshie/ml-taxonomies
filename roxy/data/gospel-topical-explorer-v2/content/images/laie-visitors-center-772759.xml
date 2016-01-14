@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/laie-hawaii#laie-visitors-center-772759" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">laie-visitors-center-772759</uri-title>
+      <source>laie-visitors-center-772759</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Laie Temple</subject>
+          <subject>Fountains</subject>
+          <subject>water</subject>
+          <subject>hawaii</subject>
+          <subject>Temples</subject>
+          <subject>visitors center</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>180 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>204 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>454 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>937 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/laie-hawaii/laie-visitors-center-772759-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="laie-visitors-center-772759" locale="eng" uri="/media-library/images/temples/laie-hawaii#laie-visitors-center-772759" status="publish" site="ldsorg" source="chq" words="135" tgp="0.472"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

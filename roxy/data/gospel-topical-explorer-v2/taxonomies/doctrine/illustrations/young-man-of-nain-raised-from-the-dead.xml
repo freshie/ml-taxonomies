@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples rels="1" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object>http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object>http://lds.org/concept-scheme/illustrations</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Young Man of Nain Raised from the Dead</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#narrower</sem:predicate>
+    <sem:object>http://lds.org/concept/gs/miracle</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object>http://www.schema.org/Event</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object>http://lds.org/concept/gs/miracle</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/gs/young-man-of-nain-raised-from-the-dead</sem:subject>
+    <sem:predicate>http://www.lds.org/core#instanceOf</sem:predicate>
+    <sem:object>http://www.lds.org/scriptures/nt/luke/7.11-16</sem:object>
+  </sem:triple>
+</sem:triples>

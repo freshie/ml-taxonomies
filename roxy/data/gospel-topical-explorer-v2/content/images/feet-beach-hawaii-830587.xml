@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#feet-beach-hawaii-830587" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">feet-beach-hawaii-830587</uri-title>
+      <source>feet-beach-hawaii-830587</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>relaxing</subject>
+          <subject>beaches</subject>
+          <subject>oceans</subject>
+          <subject>vacations</subject>
+          <subject>feet</subject>
+          <subject>barefoot</subject>
+          <subject>sand</subject>
+          <subject>summer</subject>
+          <subject>hawaii</subject>
+          <subject>islands</subject>
+          <subject>sunbathing</subject>
+          <subject>leisure time</subject>
+          <subject>water</subject>
+          <subject>warm</subject>
+          <subject>hot</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>79 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>265 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>449 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/feet-beach-hawaii-830587-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

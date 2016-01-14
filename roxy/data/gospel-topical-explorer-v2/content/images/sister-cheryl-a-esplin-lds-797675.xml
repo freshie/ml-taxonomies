@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-leadership/general-auxiliaries#sister-cheryl-a-esplin-lds-797675" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">sister-cheryl-a-esplin-lds-797675</uri-title>
+      <source>sister-cheryl-a-esplin-lds-797675</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-01">2012-11-01</publication-date>
+      <title>Cheryl A. Esplin</title>
+      <description>Cheryl A. Esplin - Second Counselor in the Primary General Presidency | <a href="http://www.lds.org/church/leader/cheryl-a-esplin?lang=eng" target="_blank">Read her official biography</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>cheryl a. esplin</subject>
+          <subject>primary general presidency</subject>
+          <subject>auxiliary presidencies</subject>
+          <subject>church leaders</subject>
+          <subject>presidents</subject>
+          <subject>official portraits</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>61 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>84 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>205 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>374 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-leadership/general-auxiliaries/sister-cheryl-a-esplin-lds-797675-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

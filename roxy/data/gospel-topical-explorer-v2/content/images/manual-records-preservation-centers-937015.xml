@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#manual-records-preservation-centers-937015" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">manual-records-preservation-centers-937015</uri-title>
+      <source>manual-records-preservation-centers-937015</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>historical documents</subject>
+          <subject>old</subject>
+          <subject>paper</subject>
+          <subject>journal</subject>
+          <subject>family names</subject>
+          <subject>faded</subject>
+          <subject>information</subject>
+          <subject>genealogy</subject>
+          <subject>research</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>363 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>407 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>859 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/manual-records-preservation-centers-937015-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="manual-records-preservation-centers-937015" locale="eng" uri="/media-library/images/family-history#manual-records-preservation-centers-937015" status="publish" site="ldsorg" source="chq" words="141" tgp="0.493"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

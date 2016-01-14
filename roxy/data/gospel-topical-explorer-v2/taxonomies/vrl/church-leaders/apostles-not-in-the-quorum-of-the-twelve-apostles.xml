@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples uri="http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles" xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object datatype="xsd:string" xml:lang="eng">APOSTLES NOT IN THE QUORUM OF THE TWELVE APOSTLES</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/concept-scheme/vrl</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.lds.org/core#entityType</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.schema.org/Place</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/joseph-smith-jr</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/oliver-cowdery</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/david-whitmer</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/martin-harris</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/hyrum-smith</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/jedediah-m-grant</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/daniel-h-wells</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/john-willard-young</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/joseph-angell-young</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#broader</sem:predicate>
+    <sem:object datatype="sem:iri">http://www.lds.org/vrl/church-leaders/apostles-not-in-the-quorum-of-the-twelve-apostles/alvin-r-dyer</sem:object>
+  </sem:triple>
+</sem:triples>

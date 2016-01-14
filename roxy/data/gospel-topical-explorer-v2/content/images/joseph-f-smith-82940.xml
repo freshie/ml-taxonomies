@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#joseph-f-smith-82940" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">joseph-f-smith-82940</uri-title>
+      <source>joseph-f-smith-82940</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Joseph F. Smith</title>
+      <description>Joseph F. Smith (<i>Gospel Art Book</i> [2009], no. 127) - <a href="http://www.lds.org/ldsorg/v/index.jsp?vgnextoid=d7561b08f338c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=98a2c106dac20110VgnVCM100000176f620a____">Our Heritage, 105-7</a></description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>PPHIGH O001501-2000</subject>
+          <subject>0001511</subject>
+          <subject>0001527</subject>
+          <subject>0001527.eps</subject>
+          <subject>0001527.jpg</subject>
+          <subject>31382 PRESIDENTS OF THE CHURCH</subject>
+          <subject>34730 GAPP GOSPEL ART PACKET</subject>
+          <subject>35936</subject>
+          <subject>ART</subject>
+          <subject>CHURCH</subject>
+          <subject>GAPP</subject>
+          <subject>GOSPEL</subject>
+          <subject>HIGHRES</subject>
+          <subject>JOSEPH</subject>
+          <subject>JOSEPH F SMITH</subject>
+          <subject>LDPCT6N.J</subject>
+          <subject>O001501-2000</subject>
+          <subject>PACKET</subject>
+          <subject>PPHIGH</subject>
+          <subject>PRESIDENTS</subject>
+          <subject>PROPHETS</subject>
+          <subject>SMITH</subject>
+          <subject>TEACHINGS</subject>
+          <subject>LDS Church Leaders</subject>
+          <subject>Portraits</subject>
+          <subject>Presidents of the Church</subject>
+          <subject>Smith</subject>
+          <subject>Joseph F.</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>288 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>618 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>810 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82940-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="joseph-f-smith-82940" locale="eng" uri="/media-library/images/gospel-art/latter-day-prophets#joseph-f-smith-82940" status="publish" site="ldsorg" source="chq" words="190" tgp="0.6643"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

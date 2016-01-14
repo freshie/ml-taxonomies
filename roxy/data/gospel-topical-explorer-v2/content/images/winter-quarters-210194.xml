@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#winter-quarters-210194" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">winter-quarters-210194</uri-title>
+      <source>winter-quarters-210194</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Winter Quarters</title>
+      <description>Winter Quarters</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Art</subject>
+          <subject>Burial</subject>
+          <subject>Nebraska</subject>
+          <subject>Douglas</subject>
+          <subject>Winter Quarters</subject>
+          <subject>World's Fair</subject>
+          <subject>Chicago</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>615 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>879 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/winter-quarters-210194-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

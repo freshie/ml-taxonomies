@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy key="graph">
+    <title>LDS Graph</title>
+    <description>The LDS Knowledge Graph combines all taxonomies into one semantically related dataset in a read-only, exploratory environment. Modifications are to be completed within their own taxonomies.</description>
+    <owner>mark.ward</owner>
+    <path>http://lds.org/sem/taxonomies/</path>
+</taxonomy>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#brother-sister-reading-ipad-844575" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">brother-sister-reading-ipad-844575</uri-title>
+      <source>brother-sister-reading-ipad-844575</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>brothers</subject>
+          <subject>sisters</subject>
+          <subject>siblings</subject>
+          <subject>technology</subject>
+          <subject>ipads</subject>
+          <subject>tablets</subject>
+          <subject>electronics</subject>
+          <subject>equipment</subject>
+          <subject>touch screen</subject>
+          <subject>girls</subject>
+          <subject>boys</subject>
+          <subject>children</subject>
+          <subject>reading</subject>
+          <subject>sharing</subject>
+          <subject>share</subject>
+          <subject>handheld devices</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>113 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>126 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>291 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>659 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/brother-sister-reading-ipad-844575-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

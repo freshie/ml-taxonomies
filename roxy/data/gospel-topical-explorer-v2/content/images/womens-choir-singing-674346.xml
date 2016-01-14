@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/music#womens-choir-singing-674346" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">womens-choir-singing-674346</uri-title>
+      <source>womens-choir-singing-674346</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>woman</subject>
+          <subject>women</subject>
+          <subject>singers</subject>
+          <subject>singing</subject>
+          <subject>choirs</subject>
+          <subject>performances</subject>
+          <subject>performers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>117 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>132 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>306 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>673 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/womens-choir-singing-674346-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

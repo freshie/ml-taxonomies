@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#restoration-gospel-jesus-christ-245626" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">restoration-gospel-jesus-christ-245626</uri-title>
+      <source>restoration-gospel-jesus-christ-245626</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Pamphlets</subject>
+          <subject>The Restoration of the Gospel of Jesus Christ (publication)</subject>
+          <subject>Church publications</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>78 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>104 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>218 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>349 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/restoration-gospel-jesus-christ-245626-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

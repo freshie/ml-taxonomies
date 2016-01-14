@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#relief-society-organization-emma-smith-791083" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">relief-society-organization-emma-smith-791083</uri-title>
+      <source>relief-society-organization-emma-smith-791083</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Organization of the Relief Society</title>
+      <description>Organization of the Relief Society</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Relief society</subject>
+          <subject>organization</subject>
+          <subject>Emma Smith</subject>
+          <subject>Joseph Smith</subject>
+          <subject>women</subject>
+          <subject>woman</subject>
+          <subject>auxiliary leaders</subject>
+          <subject>church history</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/relief-society-organization-emma-smith-791083-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/relief-society-organization-emma-smith-791083-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>137 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/relief-society-organization-emma-smith-791083-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>181 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/relief-society-organization-emma-smith-791083-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

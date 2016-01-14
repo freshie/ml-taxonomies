@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/abstract-patterns#girl-holding-iron-rod-798645" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">girl-holding-iron-rod-798645</uri-title>
+      <source>girl-holding-iron-rod-798645</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-09">2012-11-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>abstract</subject>
+          <subject>hand</subject>
+          <subject>iron</subject>
+          <subject>rod</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>61 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>69 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>145 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>297 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/abstract-patterns/girl-holding-iron-rod-798645-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

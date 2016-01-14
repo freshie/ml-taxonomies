@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/idaho-falls-idaho#idaho-falls-temple-lds-776398" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">idaho-falls-temple-lds-776398</uri-title>
+      <source>idaho-falls-temple-lds-776398</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Idaho Falls</subject>
+          <subject>Idaho</subject>
+          <subject>temples</subject>
+          <subject>trees</subject>
+          <subject>sky</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>229 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>270 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>619 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/idaho-falls-idaho/idaho-falls-temple-lds-776398-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="idaho-falls-temple-lds-776398" locale="eng" uri="/media-library/images/temples/idaho-falls-idaho#idaho-falls-temple-lds-776398" status="publish" site="ldsorg" source="chq" words="148" tgp="0.5175"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

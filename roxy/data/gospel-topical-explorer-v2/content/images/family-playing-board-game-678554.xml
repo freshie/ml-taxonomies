@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#family-playing-board-game-678554" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">family-playing-board-game-678554</uri-title>
+      <source>family-playing-board-game-678554</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>family</subject>
+          <subject>families</subject>
+          <subject>board games</subject>
+          <subject>family home evenings</subject>
+          <subject>activities</subject>
+          <subject>activity</subject>
+          <subject>togetherness</subject>
+          <subject>quality time</subject>
+          <subject>mothers</subject>
+          <subject>children</subject>
+          <subject>kids</subject>
+          <subject>siblings</subject>
+          <subject>fun</subject>
+          <subject>tables</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>143 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>159 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>326 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>638 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/family-playing-board-game-678554-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

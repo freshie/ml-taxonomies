@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#ballet-slippers-947872" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ballet-slippers-947872</uri-title>
+      <source>ballet-slippers-947872</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>ballerinas</subject>
+          <subject>ballet</subject>
+          <subject>ballet slippers</subject>
+          <subject>dance</subject>
+          <subject>dance shoes</subject>
+          <subject>shoes</subject>
+          <subject>pair of shoes</subject>
+          <subject>pointes</subject>
+          <subject>pointe shoes</subject>
+          <subject>toe shoes</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>293 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>408 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>885 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/ballet-slippers-947872-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#clock-face-834173" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">clock-face-834173</uri-title>
+      <source>clock-face-834173</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>clock</subject>
+          <subject>clock face</subject>
+          <subject>numbers</subject>
+          <subject>time</subject>
+          <subject>clock hands</subject>
+          <subject>big numbers</subject>
+          <subject>10 o'clock</subject>
+          <subject>latter days</subject>
+          <subject>old clock</subject>
+          <subject>silver</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/clock-face-834173-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/clock-face-834173-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>291 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/clock-face-834173-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>328 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/clock-face-834173-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>712 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/clock-face-834173-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/clock-face-834173-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

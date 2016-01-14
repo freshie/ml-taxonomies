@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/gospel-in-action#young-man-woman-elderly-gardening-320246" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">young-man-woman-elderly-gardening-320246</uri-title>
+      <source>young-man-woman-elderly-gardening-320246</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-06">2013-03-06</publication-date>
+      <title>Service</title>
+      <description>Service (<i>Gospel Art Book</i> [2009], no. 115) - <a href="http://scriptures.lds.org/en/matt/25/34-40#34">Matt. 25:34–40;</a> <a href="http://scriptures.lds.org/en/john/13/35#35">John 13:35;</a> <a href="http://scriptures.lds.org/en/mosiah/2/17#17">Mosiah 2:17;</a> <a href="http://scriptures.lds.org/en/mosiah/18/8-9#8">18:8–9</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>service</subject>
+          <subject>gardens</subject>
+          <subject>plants</subject>
+          <subject>gardening</subject>
+          <subject>helping</subject>
+          <subject>elderly women</subject>
+          <subject>flowers</subject>
+          <subject>mothers</subject>
+          <subject>young men</subject>
+          <subject>charity</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>436 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>609 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.4 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/young-man-woman-elderly-gardening-320246-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

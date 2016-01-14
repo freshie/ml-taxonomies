@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#ulaanbaatar-mongolia-shops-357055" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ulaanbaatar-mongolia-shops-357055</uri-title>
+      <source>ulaanbaatar-mongolia-shops-357055</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>ulaanbaatar</subject>
+          <subject>mongolia</subject>
+          <subject>streets</subject>
+          <subject>roads</subject>
+          <subject>shops</subject>
+          <subject>stores</subject>
+          <subject>cities</subject>
+          <subject>city</subject>
+          <subject>asia</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>183 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>203 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>801 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ulaanbaatar-mongolia-shops-357055-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

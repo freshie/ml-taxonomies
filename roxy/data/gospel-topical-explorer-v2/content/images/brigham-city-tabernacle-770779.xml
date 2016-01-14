@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/meetinghouses#brigham-city-tabernacle-770779" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">brigham-city-tabernacle-770779</uri-title>
+      <source>brigham-city-tabernacle-770779</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Brigham City</subject>
+          <subject>Utah</subject>
+          <subject>Box Elder</subject>
+          <subject>Tabernacle</subject>
+          <subject>Inside</subject>
+          <subject>Pews</subject>
+          <subject>Pulpit</subject>
+          <subject>Historic Sites</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>132 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>377 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>627 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/brigham-city-tabernacle-770779-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="brigham-city-tabernacle-770779" locale="eng" uri="/media-library/images/meetinghouses#brigham-city-tabernacle-770779" status="publish" site="ldsorg" source="chq" words="126" tgp="0.4406"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

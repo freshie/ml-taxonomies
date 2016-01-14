@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/music#mother-daughter-piano-817903" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">mother-daughter-piano-817903</uri-title>
+      <source>mother-daughter-piano-817903</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-03">2012-07-03</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mothers</subject>
+          <subject>daughters</subject>
+          <subject>pianos</subject>
+          <subject>playing</subject>
+          <subject>homes</subject>
+          <subject>living rooms</subject>
+          <subject>musical instruments</subject>
+          <subject>instruments</subject>
+          <subject>teaching</subject>
+          <subject>learning</subject>
+          <subject>lisbon</subject>
+          <subject>portugal</subject>
+          <subject>families</subject>
+          <subject>family</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>158 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>216 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>494 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>829 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/music/mother-daughter-piano-817903-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

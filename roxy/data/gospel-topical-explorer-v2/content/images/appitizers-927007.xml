@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#appitizers-927007" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">appitizers-927007</uri-title>
+      <source>appitizers-927007</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Appetizers</subject>
+          <subject>Cheese</subject>
+          <subject>Crackers</subject>
+          <subject>Food</subject>
+          <subject>Hors d'oeuvres</subject>
+          <subject>Snacks</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>121 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>134 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>271 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>536 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/appitizers-927007-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

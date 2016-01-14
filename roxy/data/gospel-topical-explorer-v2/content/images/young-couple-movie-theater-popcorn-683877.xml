@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/dating-marriage#young-couple-movie-theater-popcorn-683877" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">young-couple-movie-theater-popcorn-683877</uri-title>
+      <source>young-couple-movie-theater-popcorn-683877</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV100111cah016.eps</subject>
+          <subject>AV100111cah016.jpg</subject>
+          <subject>3-D Glasses</subject>
+          <subject>Chairs</subject>
+          <subject>Courtship</subject>
+          <subject>Dating</subject>
+          <subject>Luke</subject>
+          <subject>John</subject>
+          <subject>Popcorn</subject>
+          <subject>Sunglasses</subject>
+          <subject>Theaters</subject>
+          <subject>Theaters (movie)</subject>
+          <subject>Young men</subject>
+          <subject>Young women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>92 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>102 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>212 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>426 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-couple-movie-theater-popcorn-683877-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="young-couple-movie-theater-popcorn-683877" locale="eng" uri="/media-library/images/dating-marriage#young-couple-movie-theater-popcorn-683877" status="publish" site="ldsorg" source="chq" words="158" tgp="0.5524"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

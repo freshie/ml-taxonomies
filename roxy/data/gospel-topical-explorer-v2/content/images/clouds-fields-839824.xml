@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/clouds#clouds-fields-839824" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">clouds-fields-839824</uri-title>
+      <source>clouds-fields-839824</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Clouds</subject>
+          <subject>Crops</subject>
+          <subject>Farming</subject>
+          <subject>Fields</subject>
+          <subject>Harvest</subject>
+          <subject>Landscapes</subject>
+          <subject>Nature</subject>
+          <subject>Skies</subject>
+          <subject>Summer</subject>
+          <subject>Sun rays</subject>
+          <subject>Sunlight</subject>
+          <subject>Sunsets</subject>
+          <subject>Barley</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>138 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>186 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>386 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>620 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/clouds/clouds-fields-839824-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

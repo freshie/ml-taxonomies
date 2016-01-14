@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/church-history#saving-the-book-of-commandments-82832" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">saving-the-book-of-commandments-82832</uri-title>
+      <source>saving-the-book-of-commandments-82832</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Saving the Book of Commandments</title>
+      <description>Saving the Book of Commandments</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>church history</subject>
+          <subject>book of commandments</subject>
+          <subject>manuscript</subject>
+          <subject>save</subject>
+          <subject>mobs</subject>
+          <subject>mary elizabeth rollins</subject>
+          <subject>caroline</subject>
+          <subject>jackson county</subject>
+          <subject>missouri</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>127 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>178 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>420 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>756 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/church-history/saving-the-book-of-commandments-82832-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

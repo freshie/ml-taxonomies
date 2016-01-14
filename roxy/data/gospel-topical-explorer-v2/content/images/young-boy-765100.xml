@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/children/portraits#young-boy-765100" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">young-boy-765100</uri-title>
+      <source>young-boy-765100</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>boys</subject>
+          <subject>portraits</subject>
+          <subject>sons</subject>
+          <subject>kids</subject>
+          <subject>children</subject>
+          <subject>reverent</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>67 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>89 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>190 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>317 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/children/portraits/young-boy-765100-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="young-boy-765100" locale="eng" uri="/media-library/images/children/portraits#young-boy-765100" status="publish" site="ldsorg" source="chq" words="119" tgp="0.4161"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

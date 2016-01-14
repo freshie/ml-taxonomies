@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#oranges-tree-830027" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">oranges-tree-830027</uri-title>
+      <source>oranges-tree-830027</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Citrus</subject>
+          <subject>Fruit</subject>
+          <subject>Orange trees</subject>
+          <subject>Oranges</subject>
+          <subject>Trees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>61 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>82 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>182 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>323 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/oranges-tree-830027-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

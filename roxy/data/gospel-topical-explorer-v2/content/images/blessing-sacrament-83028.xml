@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/beliefs-practices#blessing-sacrament-83028" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">blessing-sacrament-83028</uri-title>
+      <source>blessing-sacrament-83028</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Sacrament</subject>
+          <subject>blessings</subject>
+          <subject>priests</subject>
+          <subject>kneeling</subject>
+          <subject>bread</subject>
+          <subject>water</subject>
+          <subject>tablecloth</subject>
+          <subject>emblems</subject>
+          <subject>church</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>82 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>113 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>251 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>438 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/blessing-sacrament-83028-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="blessing-sacrament-83028" locale="eng" uri="/media-library/images/beliefs-practices#blessing-sacrament-83028" status="publish" site="ldsorg" source="chq" words="122" tgp="0.4266"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#joseph-smith-82822" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">joseph-smith-82822</uri-title>
+      <source>joseph-smith-82822</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Joseph Smith</title>
+      <description>Joseph Smith - <a href="http://scriptures.lds.org/en/2_ne/3/6-15#6">2 Ne. 3:6–15;</a> <a href="http://scriptures.lds.org/en/dc/5/9-10#9">D&amp;C 5:9–10;</a> <a href="http://scriptures.lds.org/en/dc/21/1-5#1">21:1–5;</a> <a href="http://scriptures.lds.org/en/dc/27/13#13">27:13; <a href="http://scriptures.lds.org/en/dc/135/3#3">135:3;</a> <a href="http://scriptures.lds.org/en/js_h/1">JS—H</a></a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Joseph Smith</subject>
+          <subject>Jr.</subject>
+          <subject>Prophets</subject>
+          <subject>presidents of the church</subject>
+          <subject>restoration</subject>
+          <subject>portrait</subject>
+          <subject>painting</subject>
+          <subject>leaders</subject>
+          <subject>Gospel Art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>237 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>329 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>792 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-smith-82822-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

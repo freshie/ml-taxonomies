@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/book-of-mormon#alma-sons-mosiah-walter-rane-183363" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">alma-sons-mosiah-walter-rane-183363</uri-title>
+      <source>alma-sons-mosiah-walter-rane-183363</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title>Angel Appears to Alma and the Sons of Mosiah</title>
+      <description>Angel Appears to Alma and the Sons of Mosiah - <a href="http://scriptures.lds.org/en/mosiah/27/8-37#8">Mosiah 27:8–37;</a> <a href="http://scriptures.lds.org/en/mosiah/12/17-37#17">12:17–37;</a> <a href="http://scriptures.lds.org/en/alma/36/3-24#3">Alma 36:3–24</a></description>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>alma</subject>
+          <subject>angels</subject>
+          <subject>sons of mosiah</subject>
+          <subject>book of mormon-art</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>99 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>134 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>272 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>420 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/alma-sons-mosiah-walter-rane-183363-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="alma-sons-mosiah-walter-rane-183363" locale="eng" uri="/media-library/images/gospel-art/book-of-mormon#alma-sons-mosiah-walter-rane-183363" status="publish" site="ldsorg" source="chq" words="164" tgp="0.5734"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

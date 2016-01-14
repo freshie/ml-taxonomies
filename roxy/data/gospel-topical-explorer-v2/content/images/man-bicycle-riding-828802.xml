@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#man-bicycle-riding-828802" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">man-bicycle-riding-828802</uri-title>
+      <source>man-bicycle-riding-828802</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>outdoor recreation</subject>
+          <subject>biking</subject>
+          <subject>cycling</subject>
+          <subject>man</subject>
+          <subject>men</subject>
+          <subject>adults</subject>
+          <subject>bicycles</subject>
+          <subject>bikes</subject>
+          <subject>trails</subject>
+          <subject>mountain</subject>
+          <subject>races</subject>
+          <subject>racing</subject>
+          <subject>fast</subject>
+          <subject>helmets</subject>
+          <subject>outdoors</subject>
+          <subject>motion</subject>
+          <subject>fitness</subject>
+          <subject>exercise</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>142 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>196 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>446 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>742 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/man-bicycle-riding-828802-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

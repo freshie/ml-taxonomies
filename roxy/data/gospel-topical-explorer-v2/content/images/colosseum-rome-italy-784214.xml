@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#colosseum-rome-italy-784214" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">colosseum-rome-italy-784214</uri-title>
+      <source>colosseum-rome-italy-784214</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>rome</subject>
+          <subject>italy</subject>
+          <subject>colosseum</subject>
+          <subject>ruins</subject>
+          <subject>architecture</subject>
+          <subject>historic sites</subject>
+          <subject>europe</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>111 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>154 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>351 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>600 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/colosseum-rome-italy-784214-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

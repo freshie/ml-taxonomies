@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/meetinghouses#whitmer-visitor-center-763223" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">whitmer-visitor-center-763223</uri-title>
+      <source>whitmer-visitor-center-763223</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Fayette Chapel and Visitors' Center</subject>
+          <subject>meetinghouses</subject>
+          <subject>church</subject>
+          <subject>fayette</subject>
+          <subject>new york</subject>
+          <subject>chapels</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>145 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>163 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>350 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>693 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/meetinghouses/whitmer-visitor-center-763223-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="whitmer-visitor-center-763223" locale="eng" uri="/media-library/images/meetinghouses#whitmer-visitor-center-763223" status="publish" site="ldsorg" source="chq" words="126" tgp="0.4406"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

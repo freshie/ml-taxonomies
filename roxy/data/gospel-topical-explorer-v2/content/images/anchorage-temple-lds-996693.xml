@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/anchorage-alaska#anchorage-temple-lds-996693" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">anchorage-temple-lds-996693</uri-title>
+      <source>anchorage-temple-lds-996693</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-27">2012-11-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Anchorage Alaska Temple</subject>
+          <subject>Temples</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>141 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>160 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>372 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>808 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/anchorage-alaska/anchorage-temple-lds-996693-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

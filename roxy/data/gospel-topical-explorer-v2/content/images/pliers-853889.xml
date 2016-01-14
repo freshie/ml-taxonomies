@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#pliers-853889" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">pliers-853889</uri-title>
+      <source>pliers-853889</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>jeweler</subject>
+          <subject>nippers</subject>
+          <subject>pliers</subject>
+          <subject>tools</subject>
+          <subject>fix</subject>
+          <subject>leather work</subject>
+          <subject>repair</subject>
+          <subject>rack</subject>
+          <subject>holster</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/pliers-853889-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/pliers-853889-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>428 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/pliers-853889-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>497 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/pliers-853889-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1,014 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/pliers-853889-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/pliers-853889-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/miscellaneous#pres-hinckley-speaking-trek-reenactment-316696" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">pres-hinckley-speaking-trek-reenactment-316696</uri-title>
+      <source>pres-hinckley-speaking-trek-reenactment-316696</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>gordon b. hinckley</subject>
+          <subject>trek reenactment</subject>
+          <subject>speaking</subject>
+          <subject>pulpit</subject>
+          <subject>prophet</subject>
+          <subject>president of the church</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>66 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>85 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>287 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-hinckley-speaking-trek-reenactment-316696-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="pres-hinckley-speaking-trek-reenactment-316696" locale="eng" uri="/media-library/images/conference-events/miscellaneous#pres-hinckley-speaking-trek-reenactment-316696" status="publish" site="ldsorg" source="chq" words="155" tgp="0.542"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

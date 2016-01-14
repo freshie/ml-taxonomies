@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#old-brown-suitcase-812709" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">old-brown-suitcase-812709</uri-title>
+      <source>old-brown-suitcase-812709</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>suitcase</subject>
+          <subject>travel traveling</subject>
+          <subject>gear</subject>
+          <subject>old</subject>
+          <subject>antique</subject>
+          <subject>leather</subject>
+          <subject>red</subject>
+          <subject>brown</subject>
+          <subject>stacked</subject>
+          <subject>two</subject>
+          <subject>buckle</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>444 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>499 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/old-brown-suitcase-812709-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

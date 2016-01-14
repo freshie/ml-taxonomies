@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/spring#man-boys-flying-kites-810476" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">man-boys-flying-kites-810476</uri-title>
+      <source>man-boys-flying-kites-810476</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Garns</subject>
+          <subject>Jerry</subject>
+          <subject>Kites</subject>
+          <subject>Kite Flying</subject>
+          <subject>Outdoors</subject>
+          <subject>Families</subject>
+          <subject>Single adults</subject>
+          <subject>Boys</subject>
+          <subject>Men</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>153 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>174 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>425 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>985 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/spring/man-boys-flying-kites-810476-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

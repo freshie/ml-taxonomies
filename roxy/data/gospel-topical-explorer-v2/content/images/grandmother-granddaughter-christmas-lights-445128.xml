@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#grandmother-granddaughter-christmas-lights-445128" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">grandmother-granddaughter-christmas-lights-445128</uri-title>
+      <source>grandmother-granddaughter-christmas-lights-445128</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>grandmothers</subject>
+          <subject>granddaughters</subject>
+          <subject>grandchildren</subject>
+          <subject>christmas lights</subject>
+          <subject>coats</subject>
+          <subject>cold</subject>
+          <subject>winter clothes</subject>
+          <subject>night</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>80 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>106 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>225 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>378 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/grandmother-granddaughter-christmas-lights-445128-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="grandmother-granddaughter-christmas-lights-445128" locale="eng" uri="/media-library/images/christmas#grandmother-granddaughter-christmas-lights-445128" status="publish" site="ldsorg" source="chq" words="133" tgp="0.465"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

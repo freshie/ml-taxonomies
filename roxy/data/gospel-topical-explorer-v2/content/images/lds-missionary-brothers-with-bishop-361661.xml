@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#lds-missionary-brothers-with-bishop-361661" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">lds-missionary-brothers-with-bishop-361661</uri-title>
+      <source>lds-missionary-brothers-with-bishop-361661</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bishops</subject>
+          <subject>Brothers</subject>
+          <subject>Elder Missionaries</subject>
+          <subject>Interviews</subject>
+          <subject>Romney</subject>
+          <subject>Richard M.</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/lds-missionary-brothers-with-bishop-361661-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/lds-missionary-brothers-with-bishop-361661-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>140 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/lds-missionary-brothers-with-bishop-361661-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>156 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/lds-missionary-brothers-with-bishop-361661-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

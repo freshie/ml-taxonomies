@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/primary/line-art#adam-eve-teaching-children-686766" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">adam-eve-teaching-children-686766</uri-title>
+      <source>adam-eve-teaching-children-686766</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>adam</subject>
+          <subject>eve</subject>
+          <subject>children</subject>
+          <subject>family</subject>
+          <subject>parents</subject>
+          <subject>coloring</subject>
+          <subject>pages</subject>
+          <subject>activity</subject>
+          <subject>activities</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>130 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>168 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>316 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>474 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/primary/line-art/adam-eve-teaching-children-686766-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/old-testament#adam-eve-teaching-children-82611" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">adam-eve-teaching-children-82611</uri-title>
+      <source>adam-eve-teaching-children-82611</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Adam and Eve Teaching Their Children</title>
+      <description>Adam and Eve Teaching Their Children (<i>Gospel Art Book</i> [2009], no. 5) - <a href="http://scriptures.lds.org/en/moses/5/12#12">Moses 5:12;</a> <a href="http://scriptures.lds.org/en/dc/68/25,28#25">D&amp;C 68:25, 28</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Old Testament</subject>
+          <subject>Art</subject>
+          <subject>Adam</subject>
+          <subject>Eve</subject>
+          <subject>Children</subject>
+          <subject>Lamb</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>784 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>889 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

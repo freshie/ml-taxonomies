@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#father-son-fishing-837663" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">father-son-fishing-837663</uri-title>
+      <source>father-son-fishing-837663</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Boys</subject>
+          <subject>Childhood</subject>
+          <subject>Children</subject>
+          <subject>Fatherhood</subject>
+          <subject>Fathers</subject>
+          <subject>Fishing</subject>
+          <subject>Fishing Rods</subject>
+          <subject>Forests</subject>
+          <subject>Outdoor recreation</subject>
+          <subject>Rivers</subject>
+          <subject>Walking</subject>
+          <subject>Water</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>320 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>456 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/father-son-fishing-837663-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

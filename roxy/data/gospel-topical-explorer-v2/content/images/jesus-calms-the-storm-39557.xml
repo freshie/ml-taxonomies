@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#jesus-calms-the-storm-39557" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">jesus-calms-the-storm-39557</uri-title>
+      <source>jesus-calms-the-storm-39557</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>Jesus Calms the Storm</title>
+      <description>Jesus Calms the Storm - <a href="http://scriptures.lds.org/en/matt/8/23-27#23">Matt. 8:23–27;</a> <a href="http://scriptures.lds.org/en/mark/4/36-41#36">Mark 4:36–41;</a> <a href="http://scriptures.lds.org/en/luke/8/22-25#22">Luke 8:22–25</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Sea of Galilee</subject>
+          <subject>Apostles</subject>
+          <subject>Tempest</subject>
+          <subject>New Testament</subject>
+          <subject>Jesus Christ</subject>
+          <subject>Calming the Storm</subject>
+          <subject>Power</subject>
+          <subject>Priesthood</subject>
+          <subject>Miracles</subject>
+          <subject>Life of Christ</subject>
+          <subject>Ships</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>291 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>408 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1,007 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

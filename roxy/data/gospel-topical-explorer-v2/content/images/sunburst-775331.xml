@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/sunrises-sunsets#sunburst-775331" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">sunburst-775331</uri-title>
+      <source>sunburst-775331</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Nature</subject>
+          <subject>Landscapes</subject>
+          <subject>Trees</subject>
+          <subject>Forest</subject>
+          <subject>Sunsets</subject>
+          <subject>Sunburst</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>53 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>69 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>140 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>228 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/sunrises-sunsets/sunburst-775331-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="sunburst-775331" locale="eng" uri="/media-library/images/sunrises-sunsets#sunburst-775331" status="publish" site="ldsorg" source="chq" words="111" tgp="0.3881"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

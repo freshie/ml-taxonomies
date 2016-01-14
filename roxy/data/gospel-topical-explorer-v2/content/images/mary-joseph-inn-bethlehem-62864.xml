@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/christmas#mary-joseph-inn-bethlehem-62864" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">mary-joseph-inn-bethlehem-62864</uri-title>
+      <source>mary-joseph-inn-bethlehem-62864</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>joseph</subject>
+          <subject>mary</subject>
+          <subject>parents</subject>
+          <subject>mother</subject>
+          <subject>father</subject>
+          <subject>bethlehem</subject>
+          <subject>donkey</subject>
+          <subject>inn</subject>
+          <subject>christmas</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/christmas/mary-joseph-inn-bethlehem-62864-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/christmas/mary-joseph-inn-bethlehem-62864-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>381 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/mary-joseph-inn-bethlehem-62864-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>509 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/christmas/mary-joseph-inn-bethlehem-62864-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="mary-joseph-inn-bethlehem-62864" locale="eng" uri="/media-library/images/christmas#mary-joseph-inn-bethlehem-62864" status="publish" site="ldsorg" source="chq" words="96" tgp="0.3357"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

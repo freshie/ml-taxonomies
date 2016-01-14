@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#surfers-935215" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">surfers-935215</uri-title>
+      <source>surfers-935215</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Beaches</subject>
+          <subject>Boys</subject>
+          <subject>Cliffs</subject>
+          <subject>Family</subject>
+          <subject>Fathers</subject>
+          <subject>Oceans</subject>
+          <subject>Sons</subject>
+          <subject>Surfboards</subject>
+          <subject>Surfing</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/surfers-935215-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/surfers-935215-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>139 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/surfers-935215-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>154 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/surfers-935215-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

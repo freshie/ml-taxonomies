@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/prayer#ukrainian-family-kneeling-in-prayer-308117" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ukrainian-family-kneeling-in-prayer-308117</uri-title>
+      <source>ukrainian-family-kneeling-in-prayer-308117</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-27">2012-07-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>ukrainian</subject>
+          <subject>ukraine</subject>
+          <subject>families</subject>
+          <subject>family prayers</subject>
+          <subject>kneeling</subject>
+          <subject>praying</subject>
+          <subject>mothers</subject>
+          <subject>fathers</subject>
+          <subject>children</subject>
+          <subject>living rooms</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>87 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>120 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>271 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>462 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/ukrainian-family-kneeling-in-prayer-308117-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

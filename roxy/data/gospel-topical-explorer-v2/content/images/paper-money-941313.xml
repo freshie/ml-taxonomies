@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#paper-money-941313" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">paper-money-941313</uri-title>
+      <source>paper-money-941313</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>cash</subject>
+          <subject>currency</subject>
+          <subject>money</subject>
+          <subject>paper money</subject>
+          <subject>green</subject>
+          <subject>one dollar bill</subject>
+          <subject>5 dollar bill</subject>
+          <subject>10 dollar bill</subject>
+          <subject>one</subject>
+          <subject>ten</subject>
+          <subject>five</subject>
+          <subject>pile</subject>
+          <subject>crinckled</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/paper-money-941313-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/paper-money-941313-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>425 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/paper-money-941313-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>475 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/paper-money-941313-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>966 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/paper-money-941313-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/paper-money-941313-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

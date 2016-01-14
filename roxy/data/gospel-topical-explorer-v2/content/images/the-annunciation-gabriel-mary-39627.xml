@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#the-annunciation-gabriel-mary-39627" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-annunciation-gabriel-mary-39627</uri-title>
+      <source>the-annunciation-gabriel-mary-39627</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Annunciation: The Angel Gabriel Appears to Mary</title>
+      <description>The Annunciation: The Angel Gabriel Appears to Mary (<i>Gospel Art Book</i> [2009], no. 28) - <a href="http://scriptures.lds.org/en/isa/7/14#14">Isa. 7:14;</a> <a href="http://scriptures.lds.org/en/luke/1/26-38#26">Luke 1:26–38;</a> <a href="http://scriptures.lds.org/en/mosiah/3/8#8">Mosiah 3:8;</a> <a href="http://scriptures.lds.org/en/alma/7/10#10">Alma 7:10</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>New Testament</subject>
+          <subject>Art</subject>
+          <subject>Mary</subject>
+          <subject>Angel Gabriel</subject>
+          <subject>Life of Christ</subject>
+          <subject>Jesus</subject>
+          <subject>Christ</subject>
+          <subject>Revelation</subject>
+          <subject>Annunciation</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>585 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>675 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.7 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>4.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-annunciation-gabriel-mary-39627-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

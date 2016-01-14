@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/scriptures#ym-scriptures-618387" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">ym-scriptures-618387</uri-title>
+      <source>ym-scriptures-618387</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Guyana</subject>
+          <subject>young man</subject>
+          <subject>scriptures</subject>
+          <subject>youth</subject>
+          <subject>studying</subject>
+          <subject>smile</subject>
+          <subject>happy</subject>
+          <subject>reading</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>55 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>73 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>151 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>251 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/scriptures/ym-scriptures-618387-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="ym-scriptures-618387" locale="eng" uri="/media-library/images/scriptures#ym-scriptures-618387" status="publish" site="ldsorg" source="chq" words="116" tgp="0.4056"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

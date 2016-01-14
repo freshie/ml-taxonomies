@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/nuku-alofa-tonga#nukualofa-tonga-temple-lds-445030" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">nukualofa-tonga-temple-lds-445030</uri-title>
+      <source>nukualofa-tonga-temple-lds-445030</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-12-14">2012-12-14</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>nuku'alofa tonga temple</subject>
+          <subject>temples</subject>
+          <subject>exteriors</subject>
+          <subject>grounds</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>235 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>269 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>633 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/nuku-alofa-tonga/nukualofa-tonga-temple-lds-445030-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

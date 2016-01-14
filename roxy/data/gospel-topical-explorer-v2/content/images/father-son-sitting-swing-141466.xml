@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/fatherhood#father-son-sitting-swing-141466" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">father-son-sitting-swing-141466</uri-title>
+      <source>father-son-sitting-swing-141466</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>BOY</subject>
+          <subject>E4JIM66.eps</subject>
+          <subject>E4JIM66.jpg</subject>
+          <subject>FATHER SWINGING WITH SON</subject>
+          <subject>MEN</subject>
+          <subject>THE GOSPEL AND THE SINGLE PARENT</subject>
+          <subject>Fathers</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Sons</subject>
+          <subject>Swings (Playground)</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/fatherhood/father-son-sitting-swing-141466-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/fatherhood/father-son-sitting-swing-141466-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>289 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-son-sitting-swing-141466-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>604 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-son-sitting-swing-141466-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>886 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/fatherhood/father-son-sitting-swing-141466-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="father-son-sitting-swing-141466" locale="eng" uri="/media-library/images/fatherhood#father-son-sitting-swing-141466" status="publish" site="ldsorg" source="chq" words="127" tgp="0.4441"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

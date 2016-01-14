@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#danish-death-records-433693" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">danish-death-records-433693</uri-title>
+      <source>danish-death-records-433693</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>family history</subject>
+          <subject>record</subject>
+          <subject>death</subject>
+          <subject>genealogy</subject>
+          <subject>old</subject>
+          <subject>document</subject>
+          <subject>names</subject>
+          <subject>research</subject>
+          <subject>search</subject>
+          <subject>familiy</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>361 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>514 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/danish-death-records-433693-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="danish-death-records-433693" locale="eng" uri="/media-library/images/family-history#danish-death-records-433693" status="publish" site="ldsorg" source="chq" words="134" tgp="0.4685"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

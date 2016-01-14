@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/pageants#lds-dance-festival-765147" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">lds-dance-festival-765147</uri-title>
+      <source>lds-dance-festival-765147</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>dance festivals</subject>
+          <subject>dancing</subject>
+          <subject>dancers</subject>
+          <subject>youth</subject>
+          <subject>young men</subject>
+          <subject>young women</subject>
+          <subject>football field</subject>
+          <subject>stadium</subject>
+          <subject>celebrations</subject>
+          <subject>activities</subject>
+          <subject>activity</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>180 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>238 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>483 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>773 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/pageants/lds-dance-festival-765147-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="lds-dance-festival-765147" locale="eng" uri="/media-library/images/conference-events/pageants#lds-dance-festival-765147" status="publish" site="ldsorg" source="chq" words="142" tgp="0.4965"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

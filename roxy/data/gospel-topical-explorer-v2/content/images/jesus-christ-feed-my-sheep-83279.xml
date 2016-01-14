@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#jesus-christ-feed-my-sheep-83279" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">jesus-christ-feed-my-sheep-83279</uri-title>
+      <source>jesus-christ-feed-my-sheep-83279</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-03-12">2013-03-12</publication-date>
+      <title>Jesus Christ instructs Apostles to "Feed My Sheep"</title>
+      <description>Jesus Christ instructs Apostles to "Feed My Sheep"</description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>jesus</subject>
+          <subject>feed</subject>
+          <subject>my</subject>
+          <subject>sheep</subject>
+          <subject>gospel</subject>
+          <subject>art</subject>
+          <subject>new</subject>
+          <subject>testament</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>156 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>390 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>6.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-feed-my-sheep-83279-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

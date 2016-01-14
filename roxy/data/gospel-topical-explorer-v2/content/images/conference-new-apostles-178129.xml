@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/miscellaneous#conference-new-apostles-178129" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">conference-new-apostles-178129</uri-title>
+      <source>conference-new-apostles-178129</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>general authorities</subject>
+          <subject>general conference</subject>
+          <subject>david a. bednar</subject>
+          <subject>dieter f. uchtdorf</subject>
+          <subject>gordon b. hinckley</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>67 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>91 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>202 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>344 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/conference-new-apostles-178129-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="conference-new-apostles-178129" locale="eng" uri="/media-library/images/conference-events/miscellaneous#conference-new-apostles-178129" status="publish" site="ldsorg" source="chq" words="140" tgp="0.4895"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

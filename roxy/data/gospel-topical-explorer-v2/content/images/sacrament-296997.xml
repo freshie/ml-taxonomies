@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/beliefs-practices#sacrament-296997" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">sacrament-296997</uri-title>
+      <source>sacrament-296997</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Sacrament</subject>
+          <subject>Meetings</subject>
+          <subject>Bread</subject>
+          <subject>Water</subject>
+          <subject>Deacons</subject>
+          <subject>Passing</subject>
+          <subject>Pews</subject>
+          <subject>Partaking</subject>
+          <subject>Sunday</subject>
+          <subject>Sunday Dress</subject>
+          <subject>Church</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>75 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>98 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>201 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>346 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/sacrament-296997-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="sacrament-296997" locale="eng" uri="/media-library/images/beliefs-practices#sacrament-296997" status="publish" site="ldsorg" source="chq" words="117" tgp="0.4091"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

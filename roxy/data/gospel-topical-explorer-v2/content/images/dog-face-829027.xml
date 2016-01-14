@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/puppies#dog-face-829027" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">dog-face-829027</uri-title>
+      <source>dog-face-829027</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>CWD_a3764628-655c-42db-b64c-0d484976e09d.jpg</subject>
+          <subject>Dog</subject>
+          <subject>Face</subject>
+          <subject>Head</subject>
+          <subject>Indoors</subject>
+          <subject>Nose</subject>
+          <subject>Pet</subject>
+          <subject>Puppy</subject>
+          <subject>Schnauzer</subject>
+          <subject>Separate tags with commas</subject>
+          <subject>West highland terrier</subject>
+          <subject>White</subject>
+          <subject>White dog</subject>
+          <subject>Animals</subject>
+          <subject>Dogs</subject>
+          <subject>Domesticated animals</subject>
+          <subject>Mammals</subject>
+          <subject>Pets</subject>
+          <subject>Terriers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>115 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>173 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>488 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>907 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/puppies/dog-face-829027-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="dog-face-829027" locale="eng" uri="/media-library/images/puppies#dog-face-829027" status="publish" site="ldsorg" source="chq" words="139" tgp="0.486"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

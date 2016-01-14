@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#weights-952790" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">weights-952790</uri-title>
+      <source>weights-952790</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>weights</subject>
+          <subject>twenty-five</subject>
+          <subject>pounds</subject>
+          <subject>25</subject>
+          <subject>rack</subject>
+          <subject>gym</subject>
+          <subject>exercise</subject>
+          <subject>anarobic</subject>
+          <subject>health</subject>
+          <subject>workout</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/weights-952790-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/weights-952790-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>306 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/weights-952790-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>351 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/weights-952790-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>887 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/weights-952790-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/weights-952790-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#mother-boy-using-computer-786649" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">mother-boy-using-computer-786649</uri-title>
+      <source>mother-boy-using-computer-786649</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>mothers</subject>
+          <subject>sons</subject>
+          <subject>boys</subject>
+          <subject>computers</subject>
+          <subject>technology</subject>
+          <subject>electronics</subject>
+          <subject>internet</subject>
+          <subject>web sites</subject>
+          <subject>mouse</subject>
+          <subject>monitors</subject>
+          <subject>motherhood</subject>
+          <subject>parenthood</subject>
+          <subject>parents</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>137 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>153 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>355 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>833 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/mother-boy-using-computer-786649-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

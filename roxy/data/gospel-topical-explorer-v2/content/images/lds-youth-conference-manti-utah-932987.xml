@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#lds-youth-conference-manti-utah-932987" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">lds-youth-conference-manti-utah-932987</uri-title>
+      <source>lds-youth-conference-manti-utah-932987</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>slip n' slide</subject>
+          <subject>slip and slide</subject>
+          <subject>water</subject>
+          <subject>slides</subject>
+          <subject>games</subject>
+          <subject>fun</subject>
+          <subject>recreation</subject>
+          <subject>summer</subject>
+          <subject>outdoors</subject>
+          <subject>youth conferences</subject>
+          <subject>hoses</subject>
+          <subject>boys</subject>
+          <subject>teenagers</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>217 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>264 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>598 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/lds-youth-conference-manti-utah-932987-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

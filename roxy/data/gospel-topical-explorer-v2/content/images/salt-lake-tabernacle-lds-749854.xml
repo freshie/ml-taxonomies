@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/fall#salt-lake-tabernacle-lds-749854" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">salt-lake-tabernacle-lds-749854</uri-title>
+      <source>salt-lake-tabernacle-lds-749854</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Killpack</subject>
+          <subject>Paul</subject>
+          <subject>Fall</subject>
+          <subject>Autumn</subject>
+          <subject>Salt Lake Tabernacle</subject>
+          <subject>Exterior</subject>
+          <subject>Temple Square (Salt Lake City</subject>
+          <subject>Utah)</subject>
+          <subject>Trees</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>299 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>405 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>903 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.5 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/salt-lake-tabernacle-lds-749854-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

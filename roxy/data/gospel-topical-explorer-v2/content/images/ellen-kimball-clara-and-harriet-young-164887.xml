@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/pioneer#ellen-kimball-clara-and-harriet-young-164887" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ellen-kimball-clara-and-harriet-young-164887</uri-title>
+      <source>ellen-kimball-clara-and-harriet-young-164887</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>church history</subject>
+          <subject>pioneers</subject>
+          <subject>women</subject>
+          <subject>portraits</subject>
+          <subject>clara decker</subject>
+          <subject>harriet wheeler</subject>
+          <subject>Ellen Kimball</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/ellen-kimball-clara-and-harriet-young-164887-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/church-history/pioneer/ellen-kimball-clara-and-harriet-young-164887-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>477 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/ellen-kimball-clara-and-harriet-young-164887-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>594 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/pioneer/ellen-kimball-clara-and-harriet-young-164887-tablet.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

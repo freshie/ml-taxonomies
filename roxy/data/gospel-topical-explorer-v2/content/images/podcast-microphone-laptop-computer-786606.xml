@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#podcast-microphone-laptop-computer-786606" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">podcast-microphone-laptop-computer-786606</uri-title>
+      <source>podcast-microphone-laptop-computer-786606</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>electronics</subject>
+          <subject>computers</subject>
+          <subject>laptops</subject>
+          <subject>studios</subject>
+          <subject>microphones</subject>
+          <subject>podcasts</subject>
+          <subject>podcasting</subject>
+          <subject>equipment</subject>
+          <subject>webcasting</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>38 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>51 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>110 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>187 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/podcast-microphone-laptop-computer-786606-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

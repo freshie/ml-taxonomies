@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/church-history/new-york#nauvoo-visitor-center-769919" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">nauvoo-visitor-center-769919</uri-title>
+      <source>nauvoo-visitor-center-769919</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>fayette</subject>
+          <subject>new york</subject>
+          <subject>steeple</subject>
+          <subject>spire</subject>
+          <subject>clouds</subject>
+          <subject>sky</subject>
+          <subject>visitors center</subject>
+          <subject>chapels</subject>
+          <subject>meetinghouses</subject>
+          <subject>churches</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>97 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>109 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>234 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>481 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/church-history/new-york/nauvoo-visitor-center-769919-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="nauvoo-visitor-center-769919" locale="eng" uri="/media-library/images/church-history/new-york#nauvoo-visitor-center-769919" status="publish" site="ldsorg" source="chq" words="145" tgp="0.507"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

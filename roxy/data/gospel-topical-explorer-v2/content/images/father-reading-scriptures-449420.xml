@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/parenthood#father-reading-scriptures-449420" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">father-reading-scriptures-449420</uri-title>
+      <source>father-reading-scriptures-449420</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>asians</subject>
+          <subject>boys</subject>
+          <subject>fathers</subject>
+          <subject>sons</subject>
+          <subject>family</subject>
+          <subject>children</subject>
+          <subject>parenting</subject>
+          <subject>teaching</subject>
+          <subject>scripture study</subject>
+          <subject>reading</subject>
+          <subject>scriptures</subject>
+          <subject>children</subject>
+          <subject>home</subject>
+          <subject>couch</subject>
+          <subject>living room</subject>
+          <subject>dads</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>132 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>366 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>580 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/parenthood/father-reading-scriptures-449420-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="father-reading-scriptures-449420" locale="eng" uri="/media-library/images/parenthood#father-reading-scriptures-449420" status="publish" site="ldsorg" source="chq" words="133" tgp="0.465"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

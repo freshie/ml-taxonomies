@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/albuquerque-new-mexico#albuquerque-temple-lds-137883" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">albuquerque-temple-lds-137883</uri-title>
+      <source>albuquerque-temple-lds-137883</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-27">2012-11-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Albuquerque New Mexico Temple</subject>
+          <subject>Andersen</subject>
+          <subject>Welden C.</subject>
+          <subject>Temples</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>128 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>172 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>419 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>800 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/albuquerque-new-mexico/albuquerque-temple-lds-137883-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

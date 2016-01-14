@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#chinese-lantern-846096" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">chinese-lantern-846096</uri-title>
+      <source>chinese-lantern-846096</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>asian</subject>
+          <subject>chinese</subject>
+          <subject>china</subject>
+          <subject>lanterns</subject>
+          <subject>decorations</subject>
+          <subject>lamps</subject>
+          <subject>red</subject>
+          <subject>oriental</subject>
+          <subject>tassels</subject>
+          <subject>lights</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>97 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>131 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>278 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>445 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/chinese-lantern-846096-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

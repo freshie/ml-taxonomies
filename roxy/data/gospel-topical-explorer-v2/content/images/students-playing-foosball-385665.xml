@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#students-playing-foosball-385665" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">students-playing-foosball-385665</uri-title>
+      <source>students-playing-foosball-385665</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>youth</subject>
+          <subject>young single adults</subject>
+          <subject>girls</subject>
+          <subject>boys</subject>
+          <subject>guys</subject>
+          <subject>teenagers</subject>
+          <subject>games</subject>
+          <subject>foosball</subject>
+          <subject>playing</subject>
+          <subject>recreation</subject>
+          <subject>institute</subject>
+          <subject>leisure</subject>
+          <subject>parties</subject>
+          <subject>party</subject>
+          <subject>rec room</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>181 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>203 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>447 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1,004 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/students-playing-foosball-385665-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

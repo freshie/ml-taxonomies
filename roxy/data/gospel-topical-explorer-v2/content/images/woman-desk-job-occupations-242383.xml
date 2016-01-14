@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/people#woman-desk-job-occupations-242383" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">woman-desk-job-occupations-242383</uri-title>
+      <source>woman-desk-job-occupations-242383</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-09">2012-10-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>people</subject>
+          <subject>working</subject>
+          <subject>woman</subject>
+          <subject>desk</subject>
+          <subject>job</subject>
+          <subject>occupations</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>407 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>907 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/people/woman-desk-job-occupations-242383-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

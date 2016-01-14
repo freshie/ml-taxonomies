@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/miscellaneous#pres-monson-leaving-629878" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">pres-monson-leaving-629878</uri-title>
+      <source>pres-monson-leaving-629878</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>General conference</subject>
+          <subject>prophet</subject>
+          <subject>President Monson</subject>
+          <subject>first presidency</subject>
+          <subject>twelve apostles</subject>
+          <subject>shaking hands</subject>
+          <subject>President Eyring</subject>
+          <subject>President Uchtdorf</subject>
+          <subject>Thomas S. Monson</subject>
+          <subject>general authorities</subject>
+          <subject>leaving conference</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>78 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>102 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>208 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>340 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/pres-monson-leaving-629878-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="pres-monson-leaving-629878" locale="eng" uri="/media-library/images/conference-events/miscellaneous#pres-monson-leaving-629878" status="publish" site="ldsorg" source="chq" words="149" tgp="0.521"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

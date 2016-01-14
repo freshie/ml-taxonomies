@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/prayer#woman-scriptures-917542" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">woman-scriptures-917542</uri-title>
+      <source>woman-scriptures-917542</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-27">2012-07-27</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>arms folded</subject>
+          <subject>praying</subject>
+          <subject>prayer</subject>
+          <subject>scriptures</subject>
+          <subject>studying</subject>
+          <subject>woman</subject>
+          <subject>women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>177 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>199 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>438 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>969 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/prayer/woman-scriptures-917542-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

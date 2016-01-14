@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#maize-corn-kernals-830645" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">maize-corn-kernals-830645</uri-title>
+      <source>maize-corn-kernals-830645</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Corn</subject>
+          <subject>Grains</subject>
+          <subject>Seeds</subject>
+          <subject>Kernals</subject>
+          <subject>Backgrounds</subject>
+          <subject>Backgrounds and textures</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>275 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>306 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>601 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.1 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/maize-corn-kernals-830645-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

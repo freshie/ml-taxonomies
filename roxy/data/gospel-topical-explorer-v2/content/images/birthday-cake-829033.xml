@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/food-drink#birthday-cake-829033" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">birthday-cake-829033</uri-title>
+      <source>birthday-cake-829033</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-08-21">2012-08-21</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Bananas</subject>
+          <subject>Birthday Cakes</subject>
+          <subject>Birthdays</subject>
+          <subject>Cake (Dessert)</subject>
+          <subject>Cakes</subject>
+          <subject>Candles</subject>
+          <subject>Celebrations</subject>
+          <subject>Desserts</subject>
+          <subject>Fruits</subject>
+          <subject>Strawberries</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>143 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>193 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>424 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>715 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/food-drink/birthday-cake-829033-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

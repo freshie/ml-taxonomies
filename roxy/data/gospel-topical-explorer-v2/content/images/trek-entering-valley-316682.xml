@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/trek#trek-entering-valley-316682" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">trek-entering-valley-316682</uri-title>
+      <source>trek-entering-valley-316682</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Pioneers</subject>
+          <subject>Handcarts</subject>
+          <subject>Costumes</subject>
+          <subject>Flags</subject>
+          <subject>People</subject>
+          <subject>Paths</subject>
+          <subject>Roads</subject>
+          <subject>Trek</subject>
+          <subject>Youth</subject>
+          <subject>Young men</subject>
+          <subject>Young Women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>195 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>225 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>463 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>852 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/trek/trek-entering-valley-316682-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="trek-entering-valley-316682" locale="eng" uri="/media-library/images/conference-events/trek#trek-entering-valley-316682" status="publish" site="ldsorg" source="chq" words="140" tgp="0.4895"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

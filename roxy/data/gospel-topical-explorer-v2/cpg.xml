@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concepts>
+    <concept id="0" parent="">
+        <label>The Curriculum Planning Guide</label>
+        <uri-base>Curriculum Planning Guide</uri-base>
+        <notes>This is the top-most concept</notes>
+    </concept>
+    <concept id="1" parent="0">
+        <label>The Godhead</label>
+        <uri-base>The Godhead</uri-base>
+    </concept>
+    <concept id="1.1" parent="1">
+        <label>God the Father: Names or titles, nature, attributes, role or mission</label>
+        <uri-base>God the Father</uri-base>
+        <notes>Names or titles, nature, attributes, role or mission</notes>
+    </concept>
+    <concept id="1.2" parent="1">
+        <label>Jesus Christ: Names or titles, nature, attributes, role or mission</label>
+        <uri-base>Jesus Christ</uri-base>
+        <notes>Names or titles, nature, attributes, role or mission</notes>
+    </concept>
+    <concept id="1.3" parent="1">
+        <label>Holy Ghost: Names or titles, nature, attributes, role or mission</label>
+        <uri-base>Holy Ghost</uri-base>
+        <notes>Names or titles, nature, attributes, role or mission</notes>
+    </concept>
+    <concept id="2" parent="0">
+        <label>The premortal existence of man</label>
+        <uri-base>The premortal existence of man</uri-base>
+    </concept>
+    <concept id="2.1" parent="2">
+        <label>Our birth as spirit children of Heavenly Father with potential to become like
+            Him</label>
+        <uri-base>Our birth as spirit children of Heavenly Father</uri-base>
+    </concept>
+    <concept id="2.2" parent="2">
+        <label>The Grand Council in Heaven</label>
+        <uri-base>The Grand Council in Heaven</uri-base>
+    </concept>
+    <concept id="2.2.1" parent="2.2">
+        <label>Plan of salvation / Plan of happiness</label>
+        <label-alt>Plan of happiness</label-alt>
+        <uri-base>Plan of salvation</uri-base>
+    </concept>
+    <concept id="2.2.2" parent="2.2">
+        <label>Offering, appointment, and mission of the Savior</label>
+        <uri-base>Offering, appointment, and mission of the Savior</uri-base>
+    </concept>
+    <concept id="2.2.3" parent="2.2">
+        <label>Rebellion of Lucifer</label>
+        <uri-base>Rebellion of Lucifer</uri-base>
+    </concept>
+    <concept id="2.2.4" parent="2.2">
+        <label>Premortal choices and the War in Heaven</label>
+        <uri-base>Premortal choices and the War in Heaven</uri-base>
+    </concept>
+    <concept id="2.2.5" parent="2.2">
+        <label>Callings, assignments and foreordinations for mortality</label>
+        <uri-base>Callings, assignments and foreordinations for mortality</uri-base>
+    </concept>
+    <concept id="2.3" parent="2">
+        <label>The earth: creation and purpose</label>
+        <uri-base>The earth</uri-base>
+        <notes>the earth creation and purpose</notes>
+    </concept>
+    <concept id="3" parent="0">
+        <label>The Fall and the mortal existence of man</label>
+        <uri-base>The Fall and the mortal existence of man</uri-base>
+    </concept>
+    <concept id="3.1" parent="3">
+        <label>The Fall of Adam and Eve</label>
+        <uri-base>The Fall of Adam and Eve</uri-base>
+    </concept>
+    <concept id="3.1.1" parent="3.1">
+        <label>Physical death</label>
+        <uri-base>Physical death</uri-base>
+    </concept>
+    <concept id="3.1.2" parent="3.1">
+        <label>Spiritual death</label>
+        <uri-base>Spiritual death</uri-base>
+    </concept>
+    <concept id="3.1.3" parent="3.1">
+        <label>Man's fallen nature as a result of the Fall</label>
+        <uri-base>Man's fallen nature as a result of the Fall</uri-base>
+    </concept>
+    <concept id="3.1.4" parent="3.1">
+        <label>Man's fallen nature as a result of personal sin</label>
+        <uri-base>Man's fallen nature as a result of personal sin</uri-base>
+    </concept>
+    <concept id="3.2" parent="3">
+        <label>Agency</label>
+        <uri-base>Agency</uri-base>
+    </concept>
+    <concept id="3.2.1" parent="3.2">
+        <label>Opposition</label>
+        <uri-base>Opposition</uri-base>
+    </concept>
+    <concept id="3.2.2" parent="3.2">
+        <label>Choice and accountability</label>
+        <uri-base>Choice and accountability</uri-base>
+    </concept>
+    <concept id="3.3" parent="3">
+        <label>Satan seeks to destroy the souls of men</label>
+        <uri-base>Satan seeks to destroy the souls of men</uri-base>
+    </concept>
+    <concept id="3.4" parent="3">
+        <label>Consequences of sin</label>
+        <uri-base>Consequences of sin</uri-base>
+    </concept>
+    <concept id="3.5" parent="3">
+        <label>Nature and purposes of mortality</label>
+        <uri-base>Nature and purposes of mortality</uri-base>
+    </concept>
+    <concept id="3.5.1" parent="3.5">
+        <label>Probationary state</label>
+        <uri-base>Probationary state</uri-base>
+    </concept>
+    <concept id="3.5.2" parent="3.5">
+        <label>Gaining knowledge and experience</label>
+        <uri-base>Gaining knowledge and experience</uri-base>
+    </concept>
+    <concept id="3.5.3" parent="3.5">
+        <label>Receiving and reverencing a physical body (including Word of Wisdom)</label>
+        <uri-base>Receiving and reverencing a physical body</uri-base>
+        <notes>(including Word of Wisdom)</notes>
+    </concept>
+    <concept id="3.5.4" parent="3.5">
+        <label>Sanctity of life</label>
+        <uri-base>Sanctity of life</uri-base>
+    </concept>
+    <concept id="3.5.5" parent="3.5">
+        <label>Meeting adversity</label>
+        <uri-base>Meeting adversity</uri-base>
+    </concept>
+    <concept id="3.5.6" parent="3.5">
+        <label>Happiness and joy</label>
+        <uri-base>Happiness and joy</uri-base>
+    </concept>
+    <concept id="3.5.7" parent="3.5">
+        <label>Receiving saving ordinances and covenants (general principle; for specific ordinances
+            see Section 11)</label>
+        <uri-base>Receiving saving ordinances and covenants</uri-base>
+        <notes>(general principle; for specific ordinances see Section 11)</notes>
+    </concept>
+    <concept id="3.6" parent="3">
+        <label>Communication between God and man</label>
+        <uri-base>Communication between God and man</uri-base>
+    </concept>
+    <concept id="3.6.1" parent="3.6">
+        <label>The Light of Christ</label>
+        <uri-base>The Light of Christ</uri-base>
+    </concept>
+    <concept id="3.6.2" parent="3.6">
+        <label>The Holy Ghost</label>
+        <uri-base>The Holy Ghost</uri-base>
+    </concept>
+    <concept id="3.6.3" parent="3.6">
+        <label>Gifts of the Spirit</label>
+        <uri-base>Gifts of the Spirit</uri-base>
+    </concept>
+    <concept id="3.6.4" parent="3.6">
+        <label>Miracles</label>
+        <uri-base>Miracles</uri-base>
+    </concept>
+    <concept id="3.6.5" parent="3.6">
+        <label>Fasting</label>
+        <uri-base>Fasting</uri-base>
+    </concept>
+    <concept id="3.6.6" parent="3.6">
+        <label>Prayer</label>
+        <uri-base>Prayer</uri-base>
+    </concept>
+    <concept id="3.6.7" parent="3.6">
+        <label>Pondering gospel truths</label>
+        <uri-base>Pondering gospel truths</uri-base>
+    </concept>
+    <concept id="3.6.8" parent="3.6">
+        <label>Personal revelation</label>
+        <uri-base>Personal revelation</uri-base>
+    </concept>
+    <concept id="3.6.9" parent="3.6">
+        <label>Studying scriptures and other appropriate materials</label>
+        <uri-base>Studying scriptures and other appropriate materials</uri-base>
+    </concept>
+    <concept id="3.6.10" parent="3.6">
+        <label>Testimony</label>
+        <uri-base>Testimony</uri-base>
+    </concept>
+    <concept id="3.6.11" parent="3.6">
+        <label>The Bible and the JST: origin, history, purpose, content</label>
+        <uri-base>The Bible and the JST</uri-base>
+        <notes>origin, history, purpose, content</notes>
+    </concept>
+    <concept id="3.6.12" parent="3.6">
+        <label>The Book of Mormon: origin, history, purpose, content</label>
+        <uri-base>The Book of Mormon</uri-base>
+        <notes>origin, history, purpose, content</notes>
+    </concept>
+    <concept id="3.6.13" parent="3.6">
+        <label>The Doctrine and Covenants: origin, history, purpose, content</label>
+        <uri-base>The Doctrine and Covenants</uri-base>
+        <notes>origin, history, purpose, content</notes>
+    </concept>
+    <concept id="3.6.14" parent="3.6">
+        <label>The Pearl of Great Price: origin, history, purpose, content</label>
+        <uri-base>The Pearl of Great Price</uri-base>
+        <notes>origin, history, purpose, content</notes>
+    </concept>
+    <concept id="3.6.15" parent="3.6">
+        <label>Mission of prophets, seers, and revelators</label>
+        <uri-base>Mission of prophets, seers, and revelators</uri-base>
+    </concept>
+    <concept id="3.7" parent="3">
+        <label>Worship</label>
+        <uri-base>Worship</uri-base>
+    </concept>
+    <concept id="3.7.1" parent="3.7">
+        <label>Church meetings and conferences</label>
+        <uri-base>Church meetings and conferences</uri-base>
+    </concept>
+    <concept id="3.7.2" parent="3.7">
+        <label>Hymns and other sacred music</label>
+        <uri-base>Hymns and other sacred music</uri-base>
+    </concept>
+    <concept id="3.7.3" parent="3.7">
+        <label>Reverence</label>
+        <uri-base>Reverence</uri-base>
+    </concept>
+    <concept id="3.7.4" parent="3.7">
+        <label>Sabbath Day</label>
+        <uri-base>Sabbath Day</uri-base>
+    </concept>
+    <concept id="3.8" parent="3">
+        <label>Developing a Christ-like character</label>
+        <uri-base>Developing a Christ-like character</uri-base>
+    </concept>
+    <concept id="3.8.1" parent="3.8">
+        <label>Charity</label>
+        <uri-base>Charity</uri-base>
+    </concept>
+    <concept id="3.8.2" parent="3.8">
+        <label>Chastity, modesty, and purity in thought, language, and action</label>
+        <uri-base>Chastity, modesty, and purity in thought, language, and action</uri-base>
+    </concept>
+    <concept id="3.8.3" parent="3.8">
+        <label>Citizenship, obedience to civil law, and participation in the civil process</label>
+        <uri-base>Citizenship, obedience to civil law, and participation in the civil
+            process</uri-base>
+    </concept>
+    <concept id="3.8.4" parent="3.8">
+        <label>Courage</label>
+        <uri-base>Courage</uri-base>
+    </concept>
+    <concept id="3.8.5" parent="3.8">
+        <label>Consecration</label>
+        <uri-base>Consecration</uri-base>
+    </concept>
+    <concept id="3.8.6" parent="3.8">
+        <label>Forgiving others</label>
+        <uri-base>Forgiving others</uri-base>
+    </concept>
+    <concept id="3.8.7" parent="3.8">
+        <label>Gratitude</label>
+        <uri-base>Gratitude</uri-base>
+    </concept>
+    <concept id="3.8.8" parent="3.8">
+        <label>Honesty and integrity</label>
+        <uri-base>Honesty and integrity</uri-base>
+    </concept>
+    <concept id="3.8.9" parent="3.8">
+        <label>Hope</label>
+        <uri-base>Hope</uri-base>
+    </concept>
+    <concept id="3.8.10" parent="3.8">
+        <label>Humility and overcoming pride</label>
+        <uri-base>Humility and overcoming pride</uri-base>
+    </concept>
+    <concept id="3.8.11" parent="3.8">
+        <label>Meekness and self-control</label>
+        <uri-base>Meekness and self-control</uri-base>
+    </concept>
+    <concept id="3.8.12" parent="3.8">
+        <label>Obedience</label>
+        <uri-base>Obedience</uri-base>
+    </concept>
+    <concept id="3.8.13" parent="3.8">
+        <label>Offering a broken heart and a contrite spirit</label>
+        <uri-base>Offering a broken heart and a contrite spirit</uri-base>
+    </concept>
+    <concept id="3.8.14" parent="3.8">
+        <label>Reaching out to, respecting, and including others in and out of the Church,
+            regardless of religious, political, cultural, or other differences</label>
+        <uri-base>Reaching out to, respecting, and including others in and out of the Church</uri-base>
+    </concept>
+    <concept id="3.8.15" parent="3.8">
+        <label>Sacrifice</label>
+        <uri-base>Sacrifice</uri-base>
+    </concept>
+    <concept id="3.8.16" parent="3.8">
+        <label>Serving others</label>
+        <uri-base>Serving others</uri-base>
+    </concept>
+    <concept id="4" parent="0">
+        <label>Jesus Christ: His Life, Mission and Ministry</label>
+        <uri-base>Jesus Christ: His Life, Mission and Ministry</uri-base>
+    </concept>
+    <concept id="4.1" parent="4">
+        <label>Ministry to the prophets as Jehovah</label>
+        <uri-base>Ministry to the prophets as Jehovah</uri-base>
+    </concept>
+    <concept id="4.2" parent="4">
+        <label>Jesus, Only Begotten Son of God the Father</label>
+        <uri-base>Jesus, Only Begotten Son of God the Father</uri-base>
+    </concept>
+    <concept id="4.3" parent="4">
+        <label>Mortal life and ministry</label>
+        <uri-base>Mortal life and ministry</uri-base>
+    </concept>
+    <concept id="4.4" parent="4">
+        <label>Exemplar and teacher</label>
+        <uri-base>Exemplar and teacher</uri-base>
+    </concept>
+    <concept id="4.5" parent="4">
+        <label>The Atonement</label>
+        <uri-base>The Atonement</uri-base>
+    </concept>
+    <concept id="4.5.1" parent="4.5">
+        <label>Need for a Savior to overcome physical death through resurrection</label>
+        <uri-base>Need for a Savior to overcome physical death through resurrection</uri-base>
+    </concept>
+    <concept id="4.5.2" parent="4.5">
+        <label>Need for a Redeemer to overcome spiritual death</label>
+        <uri-base>Need for a Redeemer to overcome spiritual death</uri-base>
+    </concept>
+    <concept id="4.5.3" parent="4.5">
+        <label>Only one able to atone</label>
+        <uri-base>Only one able to atone</uri-base>
+    </concept>
+    <concept id="4.5.4" parent="4.5">
+        <label>Gethsemane and the crucifixion</label>
+        <uri-base>Gethsemane and the crucifixion</uri-base>
+    </concept>
+    <concept id="4.5.5" parent="4.5">
+        <label>Justice and mercy</label>
+        <uri-base>Justice and mercy</uri-base>
+    </concept>
+    <concept id="4.5.6" parent="4.5">
+        <label>Grace</label>
+        <uri-base>Grace</uri-base>
+    </concept>
+    <concept id="4.5.7" parent="4.5">
+        <label>Extending forgiveness to us</label>
+        <uri-base>Extending forgiveness to us</uri-base>
+    </concept>
+    <concept id="4.5.8" parent="4.5">
+        <label>Succoring us according to our infirmities</label>
+        <uri-base>Succoring us according to our infirmities</uri-base>
+    </concept>
+    <concept id="4.5.9" parent="4.5">
+        <label>Empowering us to change our fallen nature and to become children of Christ</label>
+        <uri-base>Empowering us to change our fallen nature and to become children of
+            Christ</uri-base>
+    </concept>
+    <concept id="4.5.10" parent="4.5">
+        <label>Mediator, Advocate, and Judge</label>
+        <uri-base>Mediator, Advocate, and Judge</uri-base>
+    </concept>
+    <concept id="4.6" parent="4">
+        <label>Ministry in the spirit world</label>
+        <uri-base>Ministry in the spirit world</uri-base>
+    </concept>
+    <concept id="4.7" parent="4">
+        <label>Resurrection of Christ</label>
+        <uri-base>Resurrection of Christ</uri-base>
+    </concept>
+    <concept id="4.8" parent="4">
+        <label>Post-mortal, continuing ministry</label>
+        <uri-base>Post-mortal, continuing ministry</uri-base>
+    </concept>
+    <concept id="5" parent="0">
+        <label>The Second Coming of Jesus Christ and the Millennium</label>
+        <uri-base>The Second Coming of Jesus Christ and the Millennium</uri-base>
+    </concept>
+    <concept id="5.1" parent="5">
+        <label>Prophetic signs and events leading to the Second Coming</label>
+        <uri-base>Prophetic signs and events leading to the Second Coming</uri-base>
+    </concept>
+    <concept id="5.2" parent="5">
+        <label>The Second Coming</label>
+        <uri-base>The Second Coming</uri-base>
+    </concept>
+    <concept id="5.3" parent="5">
+        <label>The Millennium</label>
+        <uri-base>The Millennium</uri-base>
+    </concept>
+    <concept id="6" parent="0">
+        <label>The postmortal existence of man</label>
+        <uri-base>The postmortal existence of man</uri-base>
+    </concept>
+    <concept id="6.1" parent="6">
+        <label>State of the soul between death and resurrection</label>
+        <uri-base>State of the soul between death and resurrection</uri-base>
+    </concept>
+    <concept id="6.2" parent="6">
+        <label>Resurrections: first through last</label>
+        <uri-base>Resurrections</uri-base>
+        <notes>first through last</notes>
+    </concept>
+    <concept id="6.3" parent="6">
+        <label>Final judgment</label>
+        <uri-base>Final judgment</uri-base>
+    </concept>
+    <concept id="6.4" parent="6">
+        <label>Degrees of glory</label>
+        <uri-base>Degrees of glory</uri-base>
+    </concept>
+    <concept id="6.5" parent="6">
+        <label>Exaltation</label>
+        <uri-base>Exaltation</uri-base>
+    </concept>
+    <concept id="7" parent="0">
+        <label>The Restoration</label>
+        <uri-base>The Restoration</uri-base>
+    </concept>
+    <concept id="7.1" parent="7">
+        <label>The Great Apostasy</label>
+        <uri-base>The Great Apostasy</uri-base>
+    </concept>
+    <concept id="7.2" parent="7">
+        <label>The Prophet Joseph Smith: his divine calling and mission</label>
+        <uri-base>The Prophet Joseph Smith</uri-base>
+        <notes>his divine calling and mission</notes>
+    </concept>
+    <concept id="7.3" parent="7">
+        <label>Significant Restoration events</label>
+        <uri-base>Significant Restoration events</uri-base>
+    </concept>
+    <concept id="7.3.1" parent="7.3">
+        <label>The First Vision</label>
+        <uri-base>The First Vision</uri-base>
+    </concept>
+    <concept id="7.3.2" parent="7.3">
+        <label>The coming forth of the Book of Mormon</label>
+        <uri-base>The coming forth of the Book of Mormon</uri-base>
+    </concept>
+    <concept id="7.3.3" parent="7.3">
+        <label>The restoration of priesthood authority and keys</label>
+        <uri-base>The restoration of priesthood authority and keys</uri-base>
+    </concept>
+    <concept id="7.3.4" parent="7.3">
+        <label>The organization of the Church</label>
+        <uri-base>The organization of the Church</uri-base>
+    </concept>
+    <concept id="7.4" parent="7">
+        <label>Fullness of the gospel revealed in the dispensation of the fullness of times</label>
+        <uri-base>Fullness of the gospel revealed in the dispensation of the fullness of
+            times</uri-base>
+    </concept>
+    <concept id="7.5" parent="7">
+        <label>Significant events in Church history and the heritage of the Latter-day Saints
+            (general and local)</label>
+        <uri-base>Significant events in Church history and the heritage of the Latter-day Saints</uri-base>
+        <notes>(general and local)</notes>
+    </concept>
+    <concept id="8" parent="0">
+        <label>Priesthood and Church government</label>
+        <uri-base>Priesthood and Church government</uri-base>
+    </concept>
+    <concept id="8.1" parent="8">
+        <label>The mission of the Church: Inviting all to come unto Christ</label>
+        <uri-base>The mission of the Church</uri-base>
+        <notes>Inviting all to come unto Christ</notes>
+    </concept>
+    <concept id="8.2" parent="8">
+        <label>Aaronic and Melchizedek Priesthoods</label>
+        <uri-base>Aaronic and Melchizedek Priesthoods</uri-base>
+    </concept>
+    <concept id="8.2.1" parent="8.2">
+        <label>Offices and duties</label>
+        <uri-base>Offices and duties</uri-base>
+    </concept>
+    <concept id="8.2.2" parent="8.2">
+        <label>Origin and history</label>
+        <uri-base>Origin and history</uri-base>
+    </concept>
+    <concept id="8.3" parent="8">
+        <label>Oath and Covenant of the Priesthood</label>
+        <uri-base>Oath and Covenant of the Priesthood</uri-base>
+    </concept>
+    <concept id="8.4" parent="8">
+        <label>Priesthood keys, who holds them, their purpose and how they are used</label>
+        <uri-base>Priesthood keys, who holds them, their purpose and how they are used</uri-base>
+    </concept>
+    <concept id="8.5" parent="8">
+        <label>Understanding organization and functioning of the priesthood:</label>
+        <uri-base>Understanding organization and functioning of the priesthood:</uri-base>
+    </concept>
+    <concept id="8.5.1" parent="8.5">
+        <label>In the family</label>
+        <uri-base>In the family</uri-base>
+    </concept>
+    <concept id="8.5.2" parent="8.5">
+        <label>In quorums, wards, and stakes</label>
+        <uri-base>In quorums, wards, and stakes</uri-base>
+    </concept>
+    <concept id="8.5.3" parent="8.5">
+        <label>At the general Church level, including succession in the Presidency</label>
+        <uri-base>At the general Church level, including succession in the Presidency</uri-base>
+    </concept>
+    <concept id="8.6" parent="8">
+        <label>Priesthood Blessings</label>
+        <uri-base>Priesthood Blessings</uri-base>
+    </concept>
+    <concept id="8.6.1" parent="8.6">
+        <label>Patriarchal blessings</label>
+        <uri-base>Patriarchal blessings</uri-base>
+    </concept>
+    <concept id="8.6.2" parent="8.6">
+        <label>Blessing the sick, father's blessings, and other blessings</label>
+        <uri-base>Blessing the sick, father's blessings, and other blessings</uri-base>
+    </concept>
+    <concept id="8.7" parent="8">
+        <label>Righteous leadership and presiding in the Lord's way</label>
+        <uri-base>Righteous leadership and presiding in the Lord's way</uri-base>
+    </concept>
+    <concept id="8.8" parent="8">
+        <label>How women share in blessings and opportunities of priesthood</label>
+        <uri-base>How women share in blessings and opportunities of priesthood</uri-base>
+    </concept>
+    <concept id="8.9" parent="8">
+        <label>Honoring the priesthood and sustaining Church leaders</label>
+        <uri-base>Honoring the priesthood and sustaining Church leaders</uri-base>
+    </concept>
+    <concept id="8.10" parent="8">
+        <label>Accepting and magnifying Church callings</label>
+        <uri-base>Accepting and magnifying Church callings</uri-base>
+    </concept>
+    <concept id="8.11" parent="8">
+        <label>Teaching the gospel</label>
+        <uri-base>Teaching the gospel</uri-base>
+    </concept>
+    <concept id="8.12" parent="8">
+        <label>Missionary work</label>
+        <uri-base>Missionary work</uri-base>
+    </concept>
+    <concept id="8.13" parent="8">
+        <label>Retention and reactivation</label>
+        <uri-base>Retention and reactivation</uri-base>
+    </concept>
+    <concept id="8.14" parent="8">
+        <label>Establishing Zion</label>
+        <uri-base>Establishing Zion</uri-base>
+    </concept>
+    <concept id="8.15" parent="8">
+        <label>Church auxiliaries</label>
+        <uri-base>Church auxiliaries</uri-base>
+    </concept>
+    <concept id="8.16" parent="8">
+        <label>Church councils</label>
+        <uri-base>Church councils</uri-base>
+    </concept>
+    <concept id="8.17" parent="8">
+        <label>Tithes and offerings</label>
+        <uri-base>Tithes and offerings</uri-base>
+    </concept>
+    <concept id="8.18" parent="8">
+        <label>Record keeping</label>
+        <uri-base>Record keeping</uri-base>
+    </concept>
+    <concept id="9" parent="0">
+        <label>Home and Family</label>
+        <uri-base>Home and Family</uri-base>
+    </concept>
+    <concept id="9.1" parent="9">
+        <label>Central role in God's plan</label>
+        <uri-base>Central role in God's plan</uri-base>
+    </concept>
+    <concept id="9.2" parent="9">
+        <label>Divine roles of men and women</label>
+        <uri-base>Divine roles of men and women</uri-base>
+    </concept>
+    <concept id="9.3" parent="9">
+        <label>Dating and courtship</label>
+        <uri-base>Dating and courtship</uri-base>
+    </concept>
+    <concept id="9.4" parent="9">
+        <label>Marriage, ordained of God</label>
+        <uri-base>Marriage, ordained of God</uri-base>
+    </concept>
+    <concept id="9.4.1" parent="9.4">
+        <label>Creating and maintaining a successful relationship between husband and wife</label>
+        <uri-base>Creating and maintaining a successful relationship between husband and
+            wife</uri-base>
+    </concept>
+    <concept id="9.4.2" parent="9.4">
+        <label>Multiplying and replenishing the earth</label>
+        <uri-base>Multiplying and replenishing the earth</uri-base>
+    </concept>
+    <concept id="9.5" parent="9">
+        <label>Attributes of successful families</label>
+        <uri-base>Attributes of successful families</uri-base>
+    </concept>
+    <concept id="9.5.1" parent="9.5">
+        <label>Parental responsibility to rear children in love and righteousness</label>
+        <uri-base>Parental responsibility to rear children in love and righteousness</uri-base>
+    </concept>
+    <concept id="9.5.2" parent="9.5">
+        <label>Parental responsibility to provide for physical and spiritual needs</label>
+        <uri-base>Parental responsibility to provide for physical and spiritual needs</uri-base>
+    </concept>
+    <concept id="9.5.3" parent="9.5">
+        <label>Fostering love, service and mutual respect within the family and extended
+            family</label>
+        <uri-base>Fostering love, service and mutual respect within the family and extended
+            family</uri-base>
+    </concept>
+    <concept id="9.5.4" parent="9.5">
+        <label>Honoring fathers and mothers</label>
+        <uri-base>Honoring fathers and mothers</uri-base>
+    </concept>
+    <concept id="9.5.5" parent="9.5">
+        <label>Family prayer, family scripture study, and family home evening</label>
+        <uri-base>Family prayer, family scripture study, and family home evening</uri-base>
+    </concept>
+    <concept id="9.5.6" parent="9.5">
+        <label>Participating in wholesome work, recreational activities and family
+            traditions</label>
+        <uri-base>Participating in wholesome work, recreational activities and family
+            traditions</uri-base>
+    </concept>
+    <concept id="9.5.7" parent="9.5">
+        <label>Single adults and single-parent families</label>
+        <uri-base>Single adults and single-parent families</uri-base>
+    </concept>
+    <concept id="9.6" parent="9">
+        <label>Sacredness of family relationships: avoiding child, elderly and spousal abuse</label>
+        <uri-base>Sacredness of family relationships</uri-base>
+        <notes>avoiding child, elderly and spousal abuse</notes>
+    </concept>
+    <concept id="10" parent="0">
+        <label>Family history and temple work</label>
+        <uri-base>Family history and temple work</uri-base>
+    </concept>
+    <concept id="10.1" parent="10">
+        <label>Personal and family history</label>
+        <uri-base>Personal and family history</uri-base>
+    </concept>
+    <concept id="10.2" parent="10">
+        <label>Preparing to receive temple ordinances</label>
+        <uri-base>Preparing to receive temple ordinances</uri-base>
+    </concept>
+    <concept id="10.3" parent="10">
+        <label>Obligations and blessings of temple covenants</label>
+        <uri-base>Obligations and blessings of temple covenants</uri-base>
+    </concept>
+    <concept id="10.4" parent="10">
+        <label>Maintaining temple worthiness and having a current temple recommend</label>
+        <uri-base>Maintaining temple worthiness and having a current temple recommend</uri-base>
+    </concept>
+    <concept id="10.5" parent="10">
+        <label>Value of regular temple attendance</label>
+        <uri-base>Value of regular temple attendance</uri-base>
+    </concept>
+    <concept id="10.6" parent="10">
+        <label>Vicarious work for the dead</label>
+        <uri-base>Vicarious work for the dead</uri-base>
+    </concept>
+    <concept id="11" parent="0">
+        <label>Principles, Ordinances and Covenants of the Gospel</label>
+        <uri-base>Principles, Ordinances and Covenants of the Gospel</uri-base>
+    </concept>
+    <concept id="11.1" parent="11">
+        <label>What gospel principles, ordinances and covenants are, and why the Lord reveals
+            them</label>
+        <uri-base>What gospel principles, ordinances and covenants are, and why the Lord reveals
+            them</uri-base>
+    </concept>
+    <concept id="11.2" parent="11">
+        <label>Faith in the Lord Jesus Christ</label>
+        <uri-base>Faith in the Lord Jesus Christ</uri-base>
+    </concept>
+    <concept id="11.3" parent="11">
+        <label>Repentance</label>
+        <uri-base>Repentance</uri-base>
+    </concept>
+    <concept id="11.4" parent="11">
+        <label>Baptism</label>
+        <uri-base>Baptism</uri-base>
+    </concept>
+    <concept id="11.5" parent="11">
+        <label>Confirmation and the gift of the Holy Ghost</label>
+        <uri-base>Confirmation and the gift of the Holy Ghost</uri-base>
+    </concept>
+    <concept id="11.6" parent="11">
+        <label>Priesthood ordination</label>
+        <uri-base>Priesthood ordination</uri-base>
+    </concept>
+    <concept id="11.7" parent="11">
+        <label>Sacrament</label>
+        <uri-base>Sacrament</uri-base>
+    </concept>
+    <concept id="11.8" parent="11">
+        <label>Endowment, including washing and anointing</label>
+        <uri-base>Endowment, including washing and anointing</uri-base>
+    </concept>
+    <concept id="11.9" parent="11">
+        <label>New and everlasting covenant of marriage and the sealing of families</label>
+        <uri-base>New and everlasting covenant of marriage and the sealing of families</uri-base>
+    </concept>
+    <concept id="11.10" parent="11">
+        <label>Enduring to the end</label>
+        <uri-base>Enduring to the end</uri-base>
+    </concept>
+    <concept id="11.11" parent="11">
+        <label>The Abrahamic Covenant</label>
+        <uri-base>The Abrahamic Covenant</uri-base>
+    </concept>
+    <concept id="11.11.1" parent="11.11">
+        <label>The scattering and gathering of the house of Israel</label>
+        <uri-base>The scattering and gathering of the house of Israel</uri-base>
+    </concept>
+    <concept id="11.11.2" parent="11.11">
+        <label>Adoption into the House of Israel</label>
+        <uri-base>Adoption into the House of Israel</uri-base>
+    </concept>
+    <concept id="12" parent="0">
+        <label>Welfare Principles</label>
+        <uri-base>Welfare Principles</uri-base>
+    </concept>
+    <concept id="12.1" parent="12">
+        <label>Self-reliance</label>
+        <uri-base>Self-reliance</uri-base>
+    </concept>
+    <concept id="12.2" parent="12">
+        <label>Caring for the poor and needy</label>
+        <uri-base>Caring for the poor and needy</uri-base>
+    </concept>
+    <concept id="12.3" parent="12">
+        <label>Home production and storage</label>
+        <uri-base>Home production and storage</uri-base>
+    </concept>
+    <concept id="12.4" parent="12">
+        <label>Education and self-improvement</label>
+        <uri-base>Education and self-improvement</uri-base>
+    </concept>
+    <concept id="12.5" parent="12">
+        <label>Financial management according to gospel principles</label>
+        <uri-base>Financial management according to gospel principles</uri-base>
+    </concept>
+</concepts>

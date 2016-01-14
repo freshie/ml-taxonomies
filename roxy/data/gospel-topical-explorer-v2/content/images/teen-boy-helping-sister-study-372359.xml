@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/youth/activities#teen-boy-helping-sister-study-372359" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">teen-boy-helping-sister-study-372359</uri-title>
+      <source>teen-boy-helping-sister-study-372359</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>young man</subject>
+          <subject>young women</subject>
+          <subject>teen</subject>
+          <subject>homework</subject>
+          <subject>helping</subject>
+          <subject>sister</subject>
+          <subject>brother</subject>
+          <subject>table</subject>
+          <subject>school</subject>
+          <subject>service</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>400 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>446 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>897 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/youth/activities/teen-boy-helping-sister-study-372359-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="teen-boy-helping-sister-study-372359" locale="eng" uri="/media-library/images/youth/activities#teen-boy-helping-sister-study-372359" status="publish" site="ldsorg" source="chq" words="150" tgp="0.5245"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

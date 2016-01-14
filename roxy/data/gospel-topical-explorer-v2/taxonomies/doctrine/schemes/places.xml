@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://lds.org/concept-scheme/places</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object>http://www.w3.org/2004/02/skos/core#ConceptScheme</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept-scheme/places</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Places</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept-scheme/places</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#note</sem:predicate>
+    <sem:object/>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept-scheme/places</sem:subject>
+    <sem:predicate>http://www.lds.org/core#prefix</sem:predicate>
+    <sem:object>places</sem:object>
+  </sem:triple>
+</sem:triples>

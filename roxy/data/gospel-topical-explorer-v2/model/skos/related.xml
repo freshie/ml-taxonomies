@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://www.w3.org/2004/02/skos/core#related</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Related</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.w3.org/2004/02/skos/core#related</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object>http://www.lds.org/core#predicate</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.w3.org/2004/02/skos/core#related</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object>http://www.lds.org/concept-scheme/model</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.w3.org/2004/02/skos/core#related</sem:subject>
+    <sem:predicate>http://www.lds.org/core#prefix</sem:predicate>
+    <sem:object>skos</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://www.w3.org/2004/02/skos/core#related</sem:subject>
+    <sem:predicate>http://www.lds.org/core#dataType</sem:predicate>
+    <sem:object>http://www.marklogic.com/semantics#iri</sem:object>
+  </sem:triple>
+</sem:triples>

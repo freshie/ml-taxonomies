@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/technology#couple-ipad-919412" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">couple-ipad-919412</uri-title>
+      <source>couple-ipad-919412</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>computers</subject>
+          <subject>technology</subject>
+          <subject>equipment</subject>
+          <subject>handheld devices</subject>
+          <subject>tablets</subject>
+          <subject>ipads</subject>
+          <subject>husbands</subject>
+          <subject>wives</subject>
+          <subject>spouses</subject>
+          <subject>touch screen</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>90 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>124 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>277 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>481 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/technology/couple-ipad-919412-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

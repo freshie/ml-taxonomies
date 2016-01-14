@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#missionary-holding-book-of-mormon-631665" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">missionary-holding-book-of-mormon-631665</uri-title>
+      <source>missionary-holding-book-of-mormon-631665</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Deming</subject>
+          <subject>Travis</subject>
+          <subject>Elder missionaries</subject>
+          <subject>Portraits</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>48 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>64 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>138 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>238 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/missionary-holding-book-of-mormon-631665-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

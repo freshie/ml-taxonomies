@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/conference-events/miscellaneous#concert-at-tabernacle-394593" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">concert-at-tabernacle-394593</uri-title>
+      <source>concert-at-tabernacle-394593</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>April</subject>
+          <subject>2007</subject>
+          <subject>General Conference</subject>
+          <subject>Salt Lake City</subject>
+          <subject>Utah</subject>
+          <subject>Salt Lake Tabernacle</subject>
+          <subject>Organ</subject>
+          <subject>Choir</subject>
+          <subject>People</subject>
+          <subject>Concert</subject>
+          <subject>Performance</subject>
+          <subject>Audience</subject>
+          <subject>Singing</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/concert-at-tabernacle-394593-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/concert-at-tabernacle-394593-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>176 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/concert-at-tabernacle-394593-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>197 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/concert-at-tabernacle-394593-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>409 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/conference-events/miscellaneous/concert-at-tabernacle-394593-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="concert-at-tabernacle-394593" locale="eng" uri="/media-library/images/conference-events/miscellaneous#concert-at-tabernacle-394593" status="publish" site="ldsorg" source="chq" words="126" tgp="0.4406"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

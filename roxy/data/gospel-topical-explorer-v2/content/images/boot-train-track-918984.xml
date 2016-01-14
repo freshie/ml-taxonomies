@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#boot-train-track-918984" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">boot-train-track-918984</uri-title>
+      <source>boot-train-track-918984</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>boot</subject>
+          <subject>cowboy boot</subject>
+          <subject>railroad tracks</subject>
+          <subject>danger</subject>
+          <subject>she</subject>
+          <subject>stuck</subject>
+          <subject>boy</subject>
+          <subject>trapped</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>191 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>261 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>577 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>919 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/boot-train-track-918984-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

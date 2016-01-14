@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/beliefs-practices#caring-for-sick-637746" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">caring-for-sick-637746</uri-title>
+      <source>caring-for-sick-637746</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>compassionate service</subject>
+          <subject>elderly women</subject>
+          <subject>grandmother</subject>
+          <subject>visiting teaching</subject>
+          <subject>young women</subject>
+          <subject>daughter</subject>
+          <subject>granddaughter</subject>
+          <subject>hospital</subject>
+          <subject>sick bed</subject>
+          <subject>recovery</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>157 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>176 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>376 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>770 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/beliefs-practices/caring-for-sick-637746-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="caring-for-sick-637746" locale="eng" uri="/media-library/images/beliefs-practices#caring-for-sick-637746" status="publish" site="ldsorg" source="chq" words="136" tgp="0.4755"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

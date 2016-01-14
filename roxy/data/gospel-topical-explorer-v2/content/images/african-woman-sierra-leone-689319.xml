@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/welfare-humanitarian/general-welfare-and-humanitarian#african-woman-sierra-leone-689319" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">african-woman-sierra-leone-689319</uri-title>
+      <source>african-woman-sierra-leone-689319</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2013-04-11">2013-04-11</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>africa</subject>
+          <subject>afrika</subject>
+          <subject>africans</subject>
+          <subject>humanitarian aid</subject>
+          <subject>service</subject>
+          <subject>lds philanthropies</subject>
+          <subject>woman</subject>
+          <subject>women</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>715 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>844 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.9 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.8 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/welfare-humanitarian/general-welfare-and-humanitarian/african-woman-sierra-leone-689319-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sem:triples xmlns:sem="http://marklogic.com/semantics">
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</sem:predicate>
+    <sem:object>http://www.w3.org/2004/02/skos/core#Concept</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#inScheme</sem:predicate>
+    <sem:object>http://lds.org/concept-scheme/illustrations</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#prefLabel</sem:predicate>
+    <sem:object>Song of Nephi</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#altLabel</sem:predicate>
+    <sem:object xml:lang="eng">Nephi's Lament</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object>http://lds.org/concept/gs/tempt</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object>http://lds.org/concept/gs/joy</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object>http://lds.org/concept/cpg/mans-fallen-nature-as-a-result-of-personal-sin</sem:object>
+  </sem:triple>
+  <sem:triple>
+    <sem:subject>http://lds.org/concept/illustrations/song-of-nephi</sem:subject>
+    <sem:predicate>http://www.w3.org/2004/02/skos/core#related</sem:predicate>
+    <sem:object>http://lds.org/concept/gs/sin</sem:object>
+  </sem:triple>
+</sem:triples>

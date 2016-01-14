@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/new-testament#the-ascension-of-jesus-39614" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">the-ascension-of-jesus-39614</uri-title>
+      <source>the-ascension-of-jesus-39614</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title>The Ascension of Jesus</title>
+      <description>The Ascension of Jesus - <a href="http://scriptures.lds.org/en/acts/1/9-11#9">Acts 1:9–11</a></description>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>ascension of jesus christ</subject>
+          <subject>jesus christ</subject>
+          <subject>apostles</subject>
+          <subject>angels</subject>
+          <subject>the ascension</subject>
+          <subject>art</subject>
+          <subject>artwork</subject>
+          <subject>life of christ</subject>
+          <subject>new testament</subject>
+          <subject>resurrection</subject>
+          <subject>Gospel Art Kit</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>502 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>669 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1.6 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>3.3 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

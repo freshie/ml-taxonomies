@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#shoes-931344" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">shoes-931344</uri-title>
+      <source>shoes-931344</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>shoes</subject>
+          <subject>worn</subject>
+          <subject>old</subject>
+          <subject>dirty</subject>
+          <subject>worn out</subject>
+          <subject>missionary</subject>
+          <subject>holes</subject>
+          <subject>scuffed</subject>
+          <subject>brown</subject>
+          <subject>paint</subject>
+          <subject>gold</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/shoes-931344-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/shoes-931344-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>426 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-931344-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>480 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-931344-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1,019 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-931344-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>2.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/shoes-931344-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

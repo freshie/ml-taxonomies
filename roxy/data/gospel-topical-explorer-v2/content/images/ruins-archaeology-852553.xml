@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#ruins-archaeology-852553" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">ruins-archaeology-852553</uri-title>
+      <source>ruins-archaeology-852553</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>archaeology</subject>
+          <subject>ruins</subject>
+          <subject>stone</subject>
+          <subject>masonry</subject>
+          <subject>faces</subject>
+          <subject>figures</subject>
+          <subject>ancient civilizations</subject>
+          <subject>carvings</subject>
+          <subject>sun god</subject>
+          <subject>temples</subject>
+          <subject>kohunlich</subject>
+          <subject>mexico</subject>
+          <subject>central american</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>121 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>163 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>339 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>541 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/ruins-archaeology-852553-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

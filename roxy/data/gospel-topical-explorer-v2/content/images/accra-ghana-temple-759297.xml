@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/temples/accra-ghana#accra-ghana-temple-759297" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">accra-ghana-temple-759297</uri-title>
+      <source>accra-ghana-temple-759297</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Accra</subject>
+          <subject>Ghana</subject>
+          <subject>Temples</subject>
+          <subject>Africa Sunsets</subject>
+          <subject>Exterior</subject>
+          <subject>Silhouettes</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>112 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>124 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>252 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>503 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/temples/accra-ghana/accra-ghana-temple-759297-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="accra-ghana-temple-759297" locale="eng" uri="/media-library/images/temples/accra-ghana#accra-ghana-temple-759297" status="publish" site="ldsorg" source="chq" words="134" tgp="0.4685"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:05.692556-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

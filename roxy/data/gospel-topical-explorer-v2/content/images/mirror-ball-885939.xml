@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/recreation#mirror-ball-885939" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">mirror-ball-885939</uri-title>
+      <source>mirror-ball-885939</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-07-02">2012-07-02</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>disco ball</subject>
+          <subject>mirrorball</subject>
+          <subject>dances</subject>
+          <subject>recreation</subject>
+          <subject>party</subject>
+          <subject>parties</subject>
+          <subject>lights</subject>
+          <subject>fun</subject>
+          <subject>music</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>129 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>145 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>333 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>725 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/recreation/mirror-ball-885939-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

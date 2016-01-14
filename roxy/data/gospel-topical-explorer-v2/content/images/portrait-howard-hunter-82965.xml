@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/gospel-art/latter-day-prophets#portrait-howard-hunter-82965" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">portrait-howard-hunter-82965</uri-title>
+      <source>portrait-howard-hunter-82965</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>PPHIGH O001501-2000</subject>
+          <subject>0001535</subject>
+          <subject>0001535.eps</subject>
+          <subject>0001535.jpg</subject>
+          <subject>APOSTLE</subject>
+          <subject>HIGHRES</subject>
+          <subject>HOWARD</subject>
+          <subject>HOWARD W HUNTER</subject>
+          <subject>HUNTER</subject>
+          <subject>O001501-2000</subject>
+          <subject>PPHIGH</subject>
+          <subject>PROPHET</subject>
+          <subject>PROPHETS</subject>
+          <subject>W</subject>
+          <subject>102012/UNKNOWN</subject>
+          <subject>Clark</subject>
+          <subject>Jed A.</subject>
+          <subject>General Authorities</subject>
+          <subject>General Authorities--Deceased</subject>
+          <subject>Hunter</subject>
+          <subject>Howard W.</subject>
+          <subject>LDS Church Leaders</subject>
+          <subject>LDS Church Presidents</subject>
+          <subject>Portraits</subject>
+          <subject>Presidents of the Church</subject>
+          <subject>Prophets (Modern Era)</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/portrait-howard-hunter-82965-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/portrait-howard-hunter-82965-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>320 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/portrait-howard-hunter-82965-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>761 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/portrait-howard-hunter-82965-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>1,017 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/portrait-howard-hunter-82965-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="portrait-howard-hunter-82965" locale="eng" uri="/media-library/images/gospel-art/latter-day-prophets#portrait-howard-hunter-82965" status="publish" site="ldsorg" source="chq" words="167" tgp="0.5839"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

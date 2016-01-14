@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/international#women-china-ethnic-clothing-847739" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">women-china-ethnic-clothing-847739</uri-title>
+      <source>women-china-ethnic-clothing-847739</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>china</subject>
+          <subject>chinese</subject>
+          <subject>traditional dress</subject>
+          <subject>clothing</subject>
+          <subject>costumes</subject>
+          <subject>women</subject>
+          <subject>woman</subject>
+          <subject>ethnic</subject>
+          <subject>cultures</subject>
+          <subject>native</subject>
+          <subject>parasols</subject>
+          <subject>parks</subject>
+          <subject>people</subject>
+          <subject>traditions</subject>
+          <subject>trees</subject>
+          <subject>umbrellas</subject>
+          <subject>ceremonial</subject>
+          <subject>colorful</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>191 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>259 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>545 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>852 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/international/women-china-ethnic-clothing-847739-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

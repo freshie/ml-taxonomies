@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/dating-marriage#young-adults-hike-852766" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">young-adults-hike-852766</uri-title>
+      <source>young-adults-hike-852766</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>AV110708_cah038.eps</subject>
+          <subject>AV110708_cah038.jpg</subject>
+          <subject>Hiking</subject>
+          <subject>Outdoor recreation</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Single adults</subject>
+          <subject>Social interaction</subject>
+          <subject>Young adults</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>160 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>178 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>379 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>788 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/dating-marriage/young-adults-hike-852766-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="young-adults-hike-852766" locale="eng" uri="/media-library/images/dating-marriage#young-adults-hike-852766" status="publish" site="ldsorg" source="chq" words="138" tgp="0.4825"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:25.859613-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

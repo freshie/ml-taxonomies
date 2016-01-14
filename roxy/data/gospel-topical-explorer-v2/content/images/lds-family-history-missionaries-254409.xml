@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/family-history#lds-family-history-missionaries-254409" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">lds-family-history-missionaries-254409</uri-title>
+      <source>lds-family-history-missionaries-254409</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>church service missionaries</subject>
+          <subject>computer</subject>
+          <subject>elderly</subject>
+          <subject>women</subject>
+          <subject>family history library</subject>
+          <subject>missionaries</subject>
+          <subject>genealogy</subject>
+          <subject>helping</subject>
+          <subject>ancestor</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>224 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>308 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>675 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.0 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/family-history/lds-family-history-missionaries-254409-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="lds-family-history-missionaries-254409" locale="eng" uri="/media-library/images/family-history#lds-family-history-missionaries-254409" status="publish" site="ldsorg" source="chq" words="143" tgp="0.5"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:12.550235-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

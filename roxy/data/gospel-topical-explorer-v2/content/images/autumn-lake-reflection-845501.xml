@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/fall#autumn-lake-reflection-845501" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">autumn-lake-reflection-845501</uri-title>
+      <source>autumn-lake-reflection-845501</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-10-23">2012-10-23</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Alberta</subject>
+          <subject>Autumn</subject>
+          <subject>Canada</subject>
+          <subject>Evergreens</subject>
+          <subject>Fall</subject>
+          <subject>Forests</subject>
+          <subject>Lakes</subject>
+          <subject>Mountains</subject>
+          <subject>Nature</subject>
+          <subject>Outdoors</subject>
+          <subject>Pine trees</subject>
+          <subject>Quaking aspens</subject>
+          <subject>Reflections (water)</subject>
+          <subject>Shores</subject>
+          <subject>Trees</subject>
+          <subject>Valleys</subject>
+          <subject>Banff</subject>
+          <subject>Banff National Park</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>220 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>249 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>585 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>1.2 MB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/fall/autumn-lake-reflection-845501-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

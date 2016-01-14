@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#family-picnic-271796" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">family-picnic-271796</uri-title>
+      <source>family-picnic-271796</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Families</subject>
+          <subject>Family Life</subject>
+          <subject>Picnics</subject>
+          <subject>Reier</subject>
+          <subject>Matthew</subject>
+          <subject>Summer</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>190 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>218 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>441 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>859 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/family-picnic-271796-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

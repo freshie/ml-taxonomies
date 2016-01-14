@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/seasons/summer#lds-youth-conference-manti-utah-932988" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">lds-youth-conference-manti-utah-932988</uri-title>
+      <source>lds-youth-conference-manti-utah-932988</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-11-08">2012-11-08</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Games</subject>
+          <subject>Slides</subject>
+          <subject>Sliding</subject>
+          <subject>Summer</subject>
+          <subject>Water</subject>
+          <subject>Water Slides</subject>
+          <subject>Youth</subject>
+          <subject>Youth conferences</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>129 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>143 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>288 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>558 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/seasons/summer/lds-youth-conference-manti-utah-932988-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

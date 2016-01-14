@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu-items>
+    <menu-item type="left">
+        <label>Home</label>
+        <url/>
+        <roles>public,editor,admin</roles>
+    </menu-item>
+    <menu-item type="left">
+        <label>Explore</label>
+        <url>search/</url>
+        <roles>public,editor,admin</roles>
+        <menu-items>
+            <menu-item>
+                <label>Search</label>
+                <url>search/</url>
+            </menu-item>
+            <menu-item>
+                <label>Image keywords</label>
+                <url>search/images.xqy</url>
+            </menu-item>
+            <menu-item>
+                <label>Relate</label>
+                <url>relate/</url>
+            </menu-item>
+            <menu-item>
+                <label>Browse</label>
+                <url>concept/</url>
+            </menu-item>
+            <menu-item>
+                <label>Visualize</label>
+                <url>visualize.xqy</url>
+                <roles>public,editor,admin</roles>
+            </menu-item>
+        </menu-items>
+    </menu-item>
+    <menu-item type="left">
+        <label>About</label>
+        <url>about/faq.xqy</url>
+        <roles>public,editor,admin</roles>
+        <menu-items>
+            <menu-item>
+                <label>Frequently Asked Questions</label>
+                <url>about/faq.xqy</url>
+            </menu-item>
+            <menu-item>
+                <label>Features</label>
+                <url>about/features.xqy</url>
+            </menu-item>
+            <menu-item>
+                <label>Road Map</label>
+                <url>about/road-map.xqy</url>
+            </menu-item>
+        </menu-items>
+    </menu-item>
+</menu-items>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/missionary#elder-missionaries-london-england-mtc-817958" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">elder-missionaries-london-england-mtc-817958</uri-title>
+      <source>elder-missionaries-london-england-mtc-817958</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-06-20">2012-06-20</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>Elder missionaries</subject>
+          <subject>Missionary Training Centers</subject>
+          <subject>Wills</subject>
+          <subject>Chris</subject>
+          <subject>Europe</subject>
+          <subject>England</subject>
+          <subject>Preston (England)</subject>
+          <subject>Preston England Missionary Training Center</subject>
+          <subject>Preston England Missionary Training Centre</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>136 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>162 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>337 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>626 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/missionary/elder-missionaries-london-england-mtc-817958-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/structures#wyoming-tabernacle-770697" xml:lang="eng" locale="eng" status="publish">
+  <search-meta>
+      <uri-title its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">wyoming-tabernacle-770697</uri-title>
+      <source>wyoming-tabernacle-770697</source>
+      <publication-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</publication-type>
+      <media-type its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-04-09">2012-04-09</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">global-search</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">media</collection>
+          <collection its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">images</collection>
+      </collections>
+      <subjects>
+          <subject>Star Valley Stake Tabernacle</subject>
+          <subject>night</subject>
+          <subject>Wyoming</subject>
+          <subject>Afton</subject>
+          <subject>worship</subject>
+          <subject>assembly</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-gallery.jpg</path>
+      <images>
+          <small its:translate="no" xmlns:its="http://www.w3.org/2005/11/its">http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>57 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>78 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>171 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-print.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Wallpaper</label>
+                  <size>291 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/structures/wyoming-tabernacle-770697-wallpaper.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+<ldse-meta its:translate="no" xmlns="http://lds.org/code/lds-edit" xmlns:its="http://www.w3.org/2005/11/its"><document id="wyoming-tabernacle-770697" locale="eng" uri="/media-library/images/structures#wyoming-tabernacle-770697" status="publish" site="ldsorg" source="chq" words="116" tgp="0.4056"/><created username="lds-edit" userid=""/><last-modified date="2012-05-10T12:26:23.573084-06:00" username="lds-edit" userid=""/></ldse-meta></ldswebml>

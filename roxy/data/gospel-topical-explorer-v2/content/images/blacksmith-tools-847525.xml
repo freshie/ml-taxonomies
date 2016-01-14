@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldswebml type="image" uri="/media-library/images/objects#blacksmith-tools-847525" xml:lang="eng" locale="eng" status="publish" xmlns:its="http://www.w3.org/2005/11/its">
+  <search-meta>
+      <uri-title its:translate="no">blacksmith-tools-847525</uri-title>
+      <source>blacksmith-tools-847525</source>
+      <publication-type its:translate="no">image</publication-type>
+      <media-type its:translate="no">image</media-type>
+      <publication value="ldsorg">LDS.org</publication>
+      <publication-date value="2012-05-30">2012-05-30</publication-date>
+      <title/>
+      <description/>
+      <collections>
+          <collection its:translate="no">global-search</collection>
+          <collection its:translate="no">media</collection>
+          <collection its:translate="no">images</collection>
+      </collections>
+      <subjects>
+          <subject>blacksmith tools</subject>
+          <subject>aprons</subject>
+          <subject>bricks</subject>
+          <subject>gloves</subject>
+          <subject>ladles</subject>
+          <subject>smelters</subject>
+          <subject>spoons</subject>
+          <subject>tools</subject>
+          <subject>work gloves</subject>
+          <subject>kirkland</subject>
+      </subjects>
+  </search-meta>
+  <no-search>
+      <path>http://media.ldscdn.org/images/media-library/objects/blacksmith-tools-847525-gallery.jpg</path>
+      <images>
+          <small its:translate="no">http://media.ldscdn.org/images/media-library/objects/blacksmith-tools-847525-thumbnail.jpg</small>
+      </images>
+          <download-urls>
+              <download-url>
+                  <label>Mobile</label>
+                  <size>320 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/blacksmith-tools-847525-mobile.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Tablet</label>
+                  <size>432 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/blacksmith-tools-847525-tablet.jpg</path>
+              </download-url>
+              <download-url>
+                  <label>Print</label>
+                  <size>871 KB</size>
+                  <path>http://media.ldscdn.org/images/media-library/objects/blacksmith-tools-847525-print.jpg</path>
+              </download-url>
+          </download-urls>
+  </no-search>
+</ldswebml>
