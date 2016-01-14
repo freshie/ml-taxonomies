@@ -116,7 +116,7 @@
   </certificates>
   <roles xmlns="http://marklogic.com/xdmp/security">
     <role>
-      <role-name>@ml.app-roxy</role-name>
+      <role-name>@ml.app-role</role-name>
       <description>All the permisiosns that roxy needs to run this applaction</description>
       <role-names>
       </role-names>
@@ -156,31 +156,10 @@
       </privileges>
     </role>
     <role>
-      <role-name>@ml.app-xray</role-name>
-      <description>The permissions that are need to run the xray unit testing</description>
-      <role-names>
-           <role-name>@ml.app-roxy</role-name>
-           <role-name>@ml.app-viewer</role-name>
-      </role-names>
-      <collections>
-      </collections>
-      <privileges>
-        <privilege>
-          <privilege-name>xdmp:filesystem-directory</privilege-name>
-        </privilege>
-        <privilege>
-          <privilege-name>xslt:invoke</privilege-name>
-        </privilege>
-        <privilege>
-          <privilege-name>xdmp:eval</privilege-name>
-        </privilege>
-      </privileges>
-    </role>
-    <role>
       <role-name>@ml.app-viewer</role-name>
       <description>A role for users of the @ml.app-name application</description>
       <role-names>
-           <role-name>@ml.app-roxy</role-name>
+           <role-name>@ml.app-role</role-name>
       </role-names>
       <collections>
       </collections>
@@ -193,6 +172,26 @@
         </privilege>
         <privilege>
           <privilege-name>sem:sparql</privilege-name>
+        </privilege>
+      </privileges>
+    </role>
+    <role>
+      <role-name>@ml.app-xray</role-name>
+      <description>The permissions that are need to run the xray unit testing</description>
+      <role-names>
+           <role-name>@ml.app-viewer</role-name>
+      </role-names>
+      <collections>
+      </collections>
+      <privileges>
+        <privilege>
+          <privilege-name>xdmp:filesystem-directory</privilege-name>
+        </privilege>
+        <privilege>
+          <privilege-name>xdmp:invoke</privilege-name>
+        </privilege>
+        <privilege>
+          <privilege-name>xdmp:eval</privilege-name>
         </privilege>
       </privileges>
     </role>
