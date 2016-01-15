@@ -1,0 +1,10 @@
+# ML Taxonomies
+This file describes changes made to Ml Taxonomies per release
+
+## 0.9
+
+### New Features
+* Added a change log
+* Added a contriubting file
+* Got the go to be deploy able
+
