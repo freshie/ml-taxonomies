@@ -126,6 +126,11 @@ When finished, verify that the self-test works.
 
 Make sure that all tests pass. Please, do not submit patches that fail.
 
+you can test your code by going to the xray unit tester and reunning in the xray/test folder
+
+ex: 
+http://localhost:9679/xray/?dir=%2Fxray%2Ftest&modules=&tests=&format=html
+
 #### Push your changes
 
 ```sh

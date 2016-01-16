@@ -1,6 +1,11 @@
 # ML Taxonomies
 This file describes changes made to Ml Taxonomies per release
 
+## 0.9.1
+
+### New Features
+* Got unit testing working
+
 ## 0.9
 
 ### New Features
