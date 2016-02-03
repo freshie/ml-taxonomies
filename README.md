@@ -49,10 +49,10 @@ Since we are using roxy framework for our deployer you'll just have to run the r
 *This step describes how to deploy your Roxy application into your MarkLogic Server modules database.*
 
 1. Open a command prompt in the root folder of Roxy
-	`$ ml local deploy modules`
+ `$ ml local deploy modules`
 
 ### Deploying content
 *This step describes how to deploy your content to the MarkLogic Server content database.*
 
 1. Open a command prompt in the root folder of Roxy
-	`$ ml local deploy content`
+ `$ ml local deploy content`
