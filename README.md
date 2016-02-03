@@ -11,7 +11,7 @@ This project started as the Gospel topical explorer (GTE) which went into the GT
 ## Installing
 This section describes the steps needed to install this project and get it running.
 
-This appliaction uses roxy for its deployer. First you'll want to check the confiurations. Then do a roxy boostrap a modules deploy and finally a content deploy. Onces all that is finished and you have changed the default port you can open up a broswer and go to http://localhost:9679 and start using the application. 
+This appliaction uses roxy for its deployer. First you'll want to check the confiurations. Then do a roxy boostrap, a modules deploy and finally a content deploy. Onces all that is finished and you have not changed the default port you can open up a broswer and go to http://localhost:9679 and start using the application. If you changed the default app-port just go to http://localhost:{newport} and put the port that you used for the newport.
 
 ### Configure your application
 This application uses roxy so if you want to change any of the default settings edit the local-config.properties file.
