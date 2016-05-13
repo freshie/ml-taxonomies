@@ -10,9 +10,6 @@ declare option xdmp:output "method = html";
 
 declare variable $user := xdmp:get-session-field( "user", "public" );
 declare variable $role := core:get-user-roles( $user );
-declare variable $taxonomy := xdmp:get-session-field( "taxonomy", "graph" );
-declare variable $taxonomy-title := xdmp:get-session-field( "taxonomy-title", "LDS Knowledge Graph" );
-declare variable $taxonomy-path := xdmp:get-session-field( "taxonomy-path", $core:baseURI );
 
 declare variable $keywords := xdmp:get-request-field( "keywords", "" );
 declare variable $selected-scheme := xdmp:get-request-field( "scheme", "All" );
@@ -26,7 +23,7 @@ declare function local:select-scheme() as element (select) {
         else <option value="All">All</option>
     }
     { 
-    for $scheme in semantics:getSubjectByObjectPredicateDirectiory("http://www.w3.org/2004/02/skos/core#ConceptScheme","http://www.w3.org/1999/02/22-rdf-syntax-ns#type", $taxonomy-path)
+    for $scheme in semantics:getSubjectByObjectPredicateDirectiory("http://www.w3.org/2004/02/skos/core#ConceptScheme","http://www.w3.org/1999/02/22-rdf-syntax-ns#type", $core:taxonomy-path)
     let $label := semantics:get-label($scheme)
     return
         if ( $scheme eq $selected-scheme )
@@ -57,7 +54,7 @@ let $results :=
                 "http://www.w3.org/2004/02/skos/core#hiddenLabel", 
                 "http://www.lds.org/core#doctrinalStatement"
             )
-            return semantics:getTripleByPredicateDirectioryWord($predicates, $taxonomy-path, $keywords)
+            return semantics:getTripleByPredicateDirectioryWord($predicates, $core:taxonomy-path, $keywords)
         else ()
 return
     if (fn:count( $results ) eq 1)
@@ -94,8 +91,8 @@ return
                         for $triple in $results
                         let $subject := $triple/sem:subject/xs:string(.)
                         let $label := semantics:get-label($subject)
-                        let $rels := semantics:getObjectBySubjectPredicateDirectiory($subject, "http://www.lds.org/core#relCount", $taxonomy-path)
-                        let $definition := semantics:getObjectBySubjectPredicateDirectiory($subject, "http://www.w3.org/2004/02/skos/core#definition", $taxonomy-path)
+                        let $rels := semantics:getObjectBySubjectPredicateDirectiory($subject, "http://www.lds.org/core#relCount", $core:taxonomy-path)
+                        let $definition := semantics:getObjectBySubjectPredicateDirectiory($subject, "http://www.w3.org/2004/02/skos/core#definition", $core:taxonomy-path)
                         let $highlightedDefinition := cts:highlight(<div>{$definition}</div>, $keywords,  <mark>{$cts:text}</mark>)
                         order by
                             if ($selected-order = "Relevance")

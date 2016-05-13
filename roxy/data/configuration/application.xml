@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+ <!-- base path of the application -->
+ <siteRootURL>/gte20/</siteRootURL>
+ <!-- base path of the cdn -->
+ <cdnURL>/gte20/cdn/</cdnURL>
+ <!-- The base URI used for all URIs in the taxonomy -->
+ <baseURI>/gospel-topical-explorer-v2/</baseURI>
+
+ <!-- the title of the application. This shows up on the front page and the navicaiton bar !-->
+ <title>LDS Taxonomies</title>
+ <!-- the description of the application. This shows up on the front page under the title !-->
+ <description>A simple tool for managing LDS taxonomies.</description>
+
+ <!-- these defaults are used for the for the get-session-field in core/functions -->
+ <defaults>
+    <taxonomy>graph</taxonomy>
+    <taxonomy-title>LDS Knowledge Graph</taxonomy-title>
+    <taxonomy-path>/gospel-topical-explorer-v2/taxonomies/</taxonomy-path>
+ </defaults>
+
+</application>

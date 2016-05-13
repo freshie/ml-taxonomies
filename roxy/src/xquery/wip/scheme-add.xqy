@@ -9,11 +9,6 @@ declare option xdmp:output "method = html";
 
 declare variable $user := xdmp:get-session-field( "user", "public" );
 declare variable $role := core:get-user-roles( $user );
-declare variable $taxonomy := xdmp:get-session-field( "taxonomy", "graph" );
-declare variable $taxonomy-title := xdmp:get-session-field( "taxonomy-title", "LDS Knowledge Graph" );
-declare variable $taxonomy-path := xdmp:get-session-field( "taxonomy-path", "http://lds.org/sem/taxonomies/" );
-declare variable $base := "http://lds.org/sem/";
-
 
 let $error := xdmp:get-request-field( "error", "" )
 let $scheme := xdmp:get-request-field( "scheme", "" )
@@ -21,7 +16,7 @@ let $prefix := xdmp:get-request-field( "prefix", "" )
 let $note := xdmp:get-request-field( "note", "" )
 let $scheme-error := if ( $error = "3" or $error = "1" ) then " has-error" else ""
 let $prefix-error := if ( $error = "3" or $error = "2" ) then " has-error" else ""
-let $scheme-subjects := xdmp:directory( $taxonomy-path, "infinity" )//sem:triple[
+let $scheme-subjects := xdmp:directory( $core:taxonomy-path, "infinity" )//sem:triple[
     sem:predicate = "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" and
     sem:object = "http://www.w3.org/2004/02/skos/core#ConceptScheme"]/sem:subject/text()
 return
@@ -65,7 +60,7 @@ return
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="default.xqy">{ $taxonomy-title }</a>
+                <a class="navbar-brand" href="default.xqy">{ $core:taxonomy-title }</a>
                 <div class="nav-collapse collapse">
                 { core:menu-main( "Admin", $user ) }
                 </div><!--/.nav-collapse -->
@@ -127,7 +122,7 @@ return
                         {
                         for $subject in $scheme-subjects
                         let $label := semantics:get-label( $subject )
-                        let $prefix := xdmp:directory( $taxonomy-path, "infinity" )//sem:triple[
+                        let $prefix := xdmp:directory( $core:taxonomy-path, "infinity" )//sem:triple[
                             sem:subject = $subject and
                             sem:predicate = "http://www.lds.org/core#prefix"]/sem:object/text()
                         order by $label

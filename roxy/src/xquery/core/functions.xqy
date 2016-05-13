@@ -2,16 +2,18 @@ module namespace core = "org.lds.gte.core-functions";
 
 declare namespace sem = "http://marklogic.com/semantics";
 
-declare variable $siteRootURL := "/gte20/";
-declare variable $cdnURL := $siteRootURL || "cdn/";
+declare variable $applicationConfig := fn:doc("/configuration/application.xml")/element();
 
-declare variable $baseURI := "/gospel-topical-explorer-v2/";
+declare variable $siteRootURL := $applicationConfig/siteRootURL/text();
+declare variable $cdnURL := $applicationConfig/cdnURL/text();
+
+declare variable $baseURI := $applicationConfig/baseURI/text();
 
 declare variable $model :=  $baseURI || "model/";
 
-declare variable $taxonomy := xdmp:get-session-field( "taxonomy", "graph" );
-declare variable $taxonomy-title := xdmp:get-session-field( "taxonomy-title", "LDS Knowledge Graph" );
-declare variable $taxonomy-path := xdmp:get-session-field( "taxonomy-path", $baseURI || "taxonomies/" );
+declare variable $taxonomy := xdmp:get-session-field( "taxonomy",  $applicationConfig/defaults/taxonomy/text() );
+declare variable $taxonomy-title := xdmp:get-session-field( "taxonomy-title", $applicationConfig/defaults/taxonomy-title/text() );
+declare variable $taxonomy-path := xdmp:get-session-field( "taxonomy-path", $applicationConfig/defaults/taxonomy-path/text() );
 
 declare variable $user := xdmp:get-session-field( "user", "public" );
 declare variable $roles := core:get-user-roles( $user );

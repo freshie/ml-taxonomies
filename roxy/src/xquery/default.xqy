@@ -21,8 +21,8 @@ return
 
         <!-- Main component for a primary marketing message or call to action -->
             <div class="jumbotron">
-                <h1>LDS Taxonomies</h1>
-                <p class="lead">A simple tool for managing LDS taxonomies.</p>
+                <h1>{$core:applicationConfig/title/text()}</h1>
+                <p class="lead">{$core:applicationConfig/description/text()}</p>
                 <p><a class="btn btn-lg btn-success" href="{$core:siteRootURL}about/faq.xqy">Frequently Asked Questions</a></p>
             </div>
             
