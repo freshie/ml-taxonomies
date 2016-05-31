@@ -208,6 +208,9 @@
         <privilege>
           <privilege-name>xdmp:xslt-invoke</privilege-name>
         </privilege>
+        <privilege>
+          <privilege-name>xdmp:login</privilege-name>
+        </privilege>
       </privileges>
     </role>
   </roles>
@@ -244,28 +247,28 @@
       <local-name>filesystem-directory-exists</local-name>
       <doc-uri>/xquery/xray/src/modules-filesystem.xqy</doc-uri>
       <db-name>@ml.app-modules-db</db-name>
-      <role-name>@ml.app-xray</role-name>
+      <role-name>@ml.app-name-xray</role-name>
     </amp>
     <amp>
       <namespace>http://github.com/robwhitby/xray</namespace>
       <local-name>transform</local-name>
       <doc-uri>/xquery/xray/src/xray.xqy</doc-uri>
       <db-name>@ml.app-modules-db</db-name>
-      <role-name>@ml.app-xray</role-name>
+      <role-name>@ml.app-name-xray</role-name>
     </amp>
     <amp>
       <namespace>http://github.com/robwhitby/xray</namespace>
       <local-name>run-module</local-name>
       <doc-uri>/xquery/xray/src/xray.xqy</doc-uri>
       <db-name>@ml.app-modules-db</db-name>
-      <role-name>@ml.app-xray</role-name>
+      <role-name>@ml.app-name-xray</role-name>
     </amp>
     <amp>
       <namespace>http://github.com/robwhitby/xray</namespace>
       <local-name>run-tests</local-name>
       <doc-uri>/xquery/xray/src/xray.xqy</doc-uri>
       <db-name>@ml.app-modules-db</db-name>
-      <role-name>@ml.app-xray</role-name>
+      <role-name>@ml.app-name-xray</role-name>
     </amp>
 
   <!--

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
+ <name>ml-taxonomies</name>
  <!-- base path of the application -->
  <siteRootURL>/gte20/</siteRootURL>
  <!-- base path of the cdn -->

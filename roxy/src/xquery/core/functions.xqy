@@ -4,6 +4,8 @@ declare namespace sem = "http://marklogic.com/semantics";
 
 declare variable $applicationConfig := fn:doc("/configuration/application.xml")/element();
 
+declare variable $applicationURI := "http://" || $applicationConfig/name || ".com/";
+
 declare variable $siteRootURL := $applicationConfig/siteRootURL/text();
 declare variable $cdnURL := $applicationConfig/cdnURL/text();
 
