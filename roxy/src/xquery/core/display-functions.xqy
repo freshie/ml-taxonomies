@@ -29,10 +29,10 @@ declare function display:menu-main(
                 <li><a href="{$core:siteRootURL}user/sign-in.xqy">Sign in</a></li>
             else
                 <li class="dropdown">
-                    <a href="{$core:siteRootURL}user/sign-in.xqy?logout=true" class="dropdown-toggle" data-toggle="dropdown">{ $user:user } <b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">{ $user:user } <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="{$core:siteRootURL}user/sign-in.xqy?logout=true">Sign out</a>
+                            <a href="{$core:siteRootURL}user/sign-out.xqy">Sign out</a>
                         </li>
                     </ul>
                 </li>

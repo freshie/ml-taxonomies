@@ -7,13 +7,12 @@ declare namespace sem = "http://marklogic.com/semantics";
 declare option xdmp:output "method = html";
 
 let $error := xdmp:get-request-field( "error", "" )
-let $logout := xdmp:get-request-field( "logout", "false" )
-let $_ := if ( $logout = "true" ) then xdmp:set-session-field( "user", "public" ) else ()
+let $logout := xdmp:get-request-field( "logout", "" )
 return
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
     {display:head("Home")}
-
+    
     <body xmlns="">
 
         {display:nav("sign-in")} 
@@ -21,7 +20,7 @@ return
         <div class="container">
 
             <div class="col-lg-4 col-offset-4">
-                <form action="{$core:siteRootURL}/user/sign-in-validate.xqy" method="post">
+                <form action="{$core:siteRootURL}user/sign-in-validate.xqy" method="post">
                   <fieldset>
                     <legend>Sign in</legend>
                     {
@@ -29,6 +28,11 @@ return
                             <div class="alert alert-danger">Login expired. Please login again.</div>
                         ) else if ( $error ) then (
                             <div class="alert alert-danger">Login was unsuccessful. Please try again.</div>
+                        ) else ()
+                    }
+                    {
+                        if ( $logout = "true" ) then (
+                            <div class="alert alert-success">You have successfully logged out.</div>
                         ) else ()
                     }
                     <div class="form-group">
