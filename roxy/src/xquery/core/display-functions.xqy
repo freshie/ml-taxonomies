@@ -117,8 +117,8 @@ declare function display:bottomIncludes() {
     <script type="text/javascript">
       var GTE = {{}};
     </script>,
-    <script src="{$core:cdnURL}js/jquery.js"></script>,
-    <script src="{$core:cdnURL}bootstrap/js/bootstrap.min.js"></script>,
+    <script type="text/javascript" src="{$core:cdnURL}js/jquery.js"></script>,
+    <script type="text/javascript" src="{$core:cdnURL}bootstrap/js/bootstrap.min.js"></script>,
     <script type="text/javascript" src="{$core:cdnURL}js/typeahead.bundle.js"></script>,
-    <script src="{$core:cdnURL}js/main.js"></script>
+    <script type="text/javascript" src="{$core:cdnURL}js/main.js"></script>
 };
