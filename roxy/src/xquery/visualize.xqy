@@ -16,8 +16,6 @@ declare variable $ontologies :=
         <option value="core-out2">Combined</option>
     </options>;
 
-declare option xdmp:output "method = html";
-
 declare function local:select(
     $name as xs:string, 
     $options as element (options), 
@@ -33,9 +31,6 @@ declare function local:select(
     }
     </select>
 };
-
-let $user := xdmp:get-session-field( "user", "public" )
-let $role := core:get-user-roles( $user )
 
 let $onto-file := fn:concat( "data/", $ontology, ".gexf" )
 return

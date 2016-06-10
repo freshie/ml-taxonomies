@@ -117,7 +117,7 @@
   <roles xmlns="http://marklogic.com/xdmp/security">
     <role>
       <role-name>@ml.app-name-role</role-name>
-      <description>All the permisiosns that roxy needs to run this applaction</description>
+      <description>All the permisions that roxy needs to run this applaction</description>
       <role-names>
       </role-names>
       <permissions>
@@ -156,6 +156,22 @@
       </privileges>
     </role>
     <role>
+      <role-name>@ml.app-name-user-funcions</role-name>
+      <description>There are some privliegs that the user functions need and this allows them to be ampped</description>
+      <privileges>
+        <privilege>
+          <privilege-name>xdmp:eval</privilege-name>
+        </privilege>
+        <privilege>
+          <privilege-name>user-privileges</privilege-name>
+        </privilege>
+        <privilege>
+          <privilege-name>xdmp:eval-in</privilege-name>
+        </privilege>
+        
+      </privileges>
+    </role>
+    <role>
       <role-name>@ml.app-name-editor</role-name>
       <description>A role that will allow users to use the Ontology Management Feature of the @ml.app-name application</description>
       <privileges>
@@ -173,6 +189,9 @@
       <collections>
       </collections>
       <privileges>
+        <privilege>
+          <privilege-name>@ml.app-name-viewer</privilege-name>
+        </privilege>
         <privilege>
           <privilege-name>xdmp:get-session-field</privilege-name>
         </privilege>
@@ -216,7 +235,7 @@
   </roles>
   <users xmlns="http://marklogic.com/xdmp/security">
     <user>
-      <user-name>@ml.app-name-user</user-name>
+      <user-name>@ml.app-name-public</user-name>
       <description>A user for the @ml.app-name application</description>
       <password>@ml.appuser-password</password>
       <role-names>
@@ -226,7 +245,7 @@
       <collections/>
     </user>
     <user>
-      <user-name>editor</user-name>
+      <user-name>@ml.app-name-editor</user-name>
       <description>A demo user for shwowing off editing and the Ontology Management Features</description>
       <password>editor</password>
       <role-names>
@@ -242,6 +261,13 @@
     ### Start xray amps ###
     This is so you can run xray unit testing  
   -->
+    <amp>
+      <namespace>org.lds.gte.core-user-functions</namespace>
+      <local-name>get-current-user-privileges</local-name>
+      <doc-uri>/xquery/core/user-functions.xqy</doc-uri>
+      <db-name>@ml.app-modules-db</db-name>
+      <role-name>@ml.app-name-user-funcions</role-name>
+    </amp>
     <amp>
       <namespace>http://github.com/robwhitby/xray/modules-fs</namespace>
       <local-name>filesystem-directory-exists</local-name>
@@ -279,6 +305,13 @@
     <privilege>
       <privilege-name>@ml.app-name-editor</privilege-name>
       <action>http://@ml.app-name.com/editor</action>
+      <kind>execute</kind>
+    </privilege>
+  </privileges>
+  <privileges xmlns="http://marklogic.com/xdmp/security">
+    <privilege>
+      <privilege-name>@ml.app-name-viewer</privilege-name>
+      <action>http://@ml.app-name.com/viewer</action>
       <kind>execute</kind>
     </privilege>
   </privileges>

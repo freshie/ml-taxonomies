@@ -1,6 +1,7 @@
 module namespace display = "org.lds.gte.core-display-functions";
 
 import module namespace core = "org.lds.gte.core-functions" at "/core/functions.xqy";
+import module namespace user = "org.lds.gte.core-user-functions" at "/core/user-functions.xqy";
 
 declare namespace sem = "http://marklogic.com/semantics";
 
@@ -14,7 +15,7 @@ declare function display:menu-main(
         let $sub-items := $menu-item/menu-items
         let $menuRoles := $menu-item/roles/xs:string(.)
         return
-            if ( core:has-role( $core:roles, $menuRoles ) )
+            if ( core:has-role( $user:privileges, $menuRoles ) )
                 then
                     if ( $sub-items )
                         then
@@ -55,7 +56,7 @@ declare function display:menu-main(
         let $sub-items := $menu-item/menu-items
         let $menuRoles := $menu-item/roles/xs:string(.)
         return
-            if ( core:has-role( $core:roles, $menuRoles ) )
+            if ( core:has-role( $user:privileges, $menuRoles ) )
                 then
                     if ( $sub-items )
                         then
@@ -76,12 +77,12 @@ declare function display:menu-main(
                 else ()
         }
         {
-        if ( $core:user eq "public" )
+        if ( $user:user eq "public" )
             then
                 <li><a href="{$core:siteRootURL}sign-in.xqy">Sign in</a></li>
             else
                 <li class="dropdown">
-                    <a href="{$core:siteRootURL}sign-in.xqy?logout=true" class="dropdown-toggle" data-toggle="dropdown">{ $core:user } <b class="caret"></b></a>
+                    <a href="{$core:siteRootURL}sign-in.xqy?logout=true" class="dropdown-toggle" data-toggle="dropdown">{ $user:user } <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
                             <a href="{$core:siteRootURL}sign-in.xqy?logout=true">Sign out</a>

@@ -17,9 +17,6 @@ declare variable $taxonomy := xdmp:get-session-field( "taxonomy",  $applicationC
 declare variable $taxonomy-title := xdmp:get-session-field( "taxonomy-title", $applicationConfig/defaults/taxonomy-title/text() );
 declare variable $taxonomy-path := xdmp:get-session-field( "taxonomy-path", $applicationConfig/defaults/taxonomy-path/text() );
 
-declare variable $user := xdmp:get-session-field( "user", "public" );
-declare variable $roles := core:get-user-roles( $user );
-
 declare variable $core:SEM-RELS :=
     (
     "http://www.w3.org/2004/02/skos/core#broadMatch",
@@ -35,37 +32,6 @@ declare variable $core:SEM-RELS :=
     "http://www.w3.org/2004/02/skos/core#relatedMatch",
     "http://www.w3.org/2004/02/skos/core#semanticRelation"
     );
-
-declare function core:get-user-roles-from-secdb(
-    $user as xs:string
-) as xs:string*{
-    let $options :=
-        <options xmlns="xdmp:eval">
-            <database>{ xdmp:security-database() }</database>
-        </options>
-    let $xquery :=
-        '
-        import module namespace sec="http://marklogic.com/xdmp/security" at "/MarkLogic/security.xqy";
-        declare variable $user as xs:string external;
-        sec:user-get-roles( $user )
-        '
-    return
-        if ( $user eq "public" )
-        then "public"
-        else xdmp:eval( $xquery, (xs:QName( "user" ),$user), $options )
-};
-
-declare function core:get-user-roles(
-    $user as xs:string
-) as element (roles){
-    cts:search(
-      /users/user, 
-      cts:and-query((
-        cts:document-query( $baseURI || "admin/users.xml"),
-        cts:element-word-query(xs:QName("username"), $user, "exact")
-      ))
-    )/roles
-};
 
 declare function core:getMenuItem(
     $type as xs:string

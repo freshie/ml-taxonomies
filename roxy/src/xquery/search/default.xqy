@@ -8,9 +8,6 @@ declare namespace sem = "http://marklogic.com/semantics";
 
 declare option xdmp:output "method = html";
 
-declare variable $user := xdmp:get-session-field( "user", "public" );
-declare variable $role := core:get-user-roles( $user );
-
 declare variable $keywords := xdmp:get-request-field( "keywords", "" );
 declare variable $selected-scheme := xdmp:get-request-field( "scheme", "All" );
 declare variable $selected-order := xdmp:get-request-field( "order", "Relatedness" );

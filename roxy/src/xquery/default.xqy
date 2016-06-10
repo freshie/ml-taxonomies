@@ -6,10 +6,6 @@ declare namespace sem = "http://marklogic.com/semantics";
 
 declare option xdmp:output "method = html";
 
-let $user := xdmp:get-session-field( "user", "public" )
-let $role := core:get-user-roles( $user )
-return
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
     {display:head("Home")}
 

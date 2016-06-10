@@ -8,12 +8,13 @@ import module namespace user = "org.lds.gte.core-user-functions" at "/core/user-
 
 declare %test:case function editor-user-has-edit-privileges()
 {
+  let $user := $core:applicationConfig/name/text() || "editor"
   let $test := 
     xdmp:eval(
       'xdmp:has-privilege("' || $core:applicationURI || 'editor", "execute")', 
       (),
       <options xmlns="xdmp:eval">
-        <user-id>{xdmp:user("editor")}</user-id>
+        <user-id>{xdmp:user($user)}</user-id>
       </options>
     )
    return assert:true($test)
@@ -35,7 +36,8 @@ declare %test:case function viewer-user-does-not-have-edit-privileges()
 
 declare %test:case function isEditor-true-case()
 {
-  let $login := xdmp:login("editor")
+  let $user := $core:applicationConfig/name/text() || "editor"
+  let $login := xdmp:login($user)
   let $test := user:isEditor()
   
   return assert:true($test)
