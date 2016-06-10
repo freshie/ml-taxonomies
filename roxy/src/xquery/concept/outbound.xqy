@@ -18,7 +18,7 @@ let $predicates := semantics:get-predicates-list()
 let $triples := semantics:getTripleBySubjectDirectiory($subject, $core:taxonomy-path)
     
 let $pref-label := $triples[sem:predicate = "http://www.w3.org/2004/02/skos/core#prefLabel"]/sem:object/xs:string(.)
-let $hasAdminEditor := core:has-role( $core:roles, "admin,editor" )
+let $hasAdminEditor := fn:false()
 return
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
