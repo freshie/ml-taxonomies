@@ -8,36 +8,32 @@ import module namespace user = "org.lds.gte.core-user-functions" at "/core/user-
 
 declare %test:case function editor-user-has-edit-privileges()
 {
-  let $user := $core:applicationConfig/name/text() || "editor"
-  let $test := 
-    xdmp:eval(
-      'xdmp:has-privilege("' || $core:applicationURI || 'editor", "execute")', 
-      (),
-      <options xmlns="xdmp:eval">
-        <user-id>{xdmp:user($user)}</user-id>
-      </options>
-    )
-   return assert:true($test)
+  let $user := $core:applicationConfig/name/text() || "-editor"
+  
+  let $login := xdmp:login($user)
+  
+  let $test := xdmp:has-privilege($core:applicationURI || "editor", "execute")
+  
+  return assert:true($test)
 };
 
 declare %test:case function viewer-user-does-not-have-edit-privileges()
 {
-  let $user := $core:applicationConfig/name/text() ||  "-user"
-  let $test := 
-    xdmp:eval(
-      'xdmp:has-privilege("' || $core:applicationURI || 'editor", "execute")', 
-      (),
-      <options xmlns="xdmp:eval">
-        <user-id>{xdmp:user($user)}</user-id>
-      </options>
-    )
-   return assert:false($test)
+  let $user := $core:applicationConfig/name/text() ||  "-public"
+  
+  let $login := xdmp:login($user)
+
+  let $test := xdmp:has-privilege($core:applicationURI || "editor", "execute")
+     
+  return assert:false($test)
 };
 
 declare %test:case function isEditor-true-case()
 {
-  let $user := $core:applicationConfig/name/text() || "editor"
+  let $user := $core:applicationConfig/name/text() || "-editor"
+  
   let $login := xdmp:login($user)
+  
   let $test := user:isEditor()
   
   return assert:true($test)
@@ -45,10 +41,33 @@ declare %test:case function isEditor-true-case()
 
 declare %test:case function isEditor-false-case()
 {
-  let $user := $core:applicationConfig/name/text() ||  "-user"
+  let $user := $core:applicationConfig/name/text() ||  "-public"
+  
   let $login := xdmp:login($user )
   
   let $test := user:isEditor()
    
   return assert:false($test)
+};
+
+declare %test:case function get-current-user-public()
+{
+  let $user := $core:applicationConfig/name/text() ||  "-public"
+
+  let $login := xdmp:login($user)
+
+  let $test := user:get-current-user() 
+
+  return assert:equal($test, "public")
+};
+
+declare %test:case function get-current-user-editor()
+{
+  let $user := $core:applicationConfig/name/text() ||  "-editor"
+
+  let $login := xdmp:login($user)
+
+  let $test := user:get-current-user() 
+
+  return assert:equal($test, "editor")
 };
