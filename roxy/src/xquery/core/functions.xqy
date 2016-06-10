@@ -39,18 +39,10 @@ declare function core:getMenuItem(
     cts:search(
         /menu-items/menu-item, 
           cts:and-query((
-            cts:document-query( $baseURI || "menu.xml"),
+            cts:document-query("/configuration/menu.xml"),
             cts:element-attribute-word-query(xs:QName("menu-item"), xs:QName("type"),  $type, "exact")
           ))
     )
-};
-
-declare function core:has-role(
- $role as xs:string, 
- $roles as xs:string
-) as xs:boolean {
-    let $roles-seq := fn:tokenize( $roles, "," )
-    return fn:index-of( $roles-seq, $role ) > 0
 };
 
 declare function core:cleanInput($input){

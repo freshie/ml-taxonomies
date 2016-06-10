@@ -3,12 +3,16 @@
     <menu-item type="left">
         <label>Home</label>
         <url/>
-        <roles>public,editor,admin</roles>
+        <roles>
+            <role>viewer</role>
+        </roles>
     </menu-item>
     <menu-item type="left">
         <label>Explore</label>
         <url>search/</url>
-        <roles>public,editor,admin</roles>
+        <roles>
+            <role>viewer</role>
+        </roles>
         <menu-items>
             <menu-item>
                 <label>Search</label>
@@ -29,14 +33,15 @@
             <menu-item>
                 <label>Visualize</label>
                 <url>visualize.xqy</url>
-                <roles>public,editor,admin</roles>
             </menu-item>
         </menu-items>
     </menu-item>
     <menu-item type="left">
         <label>About</label>
         <url>about/faq.xqy</url>
-        <roles>public,editor,admin</roles>
+        <roles>
+            <role>viewer</role>
+        </roles>
         <menu-items>
             <menu-item>
                 <label>Frequently Asked Questions</label>

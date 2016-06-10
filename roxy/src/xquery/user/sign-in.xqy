@@ -21,7 +21,7 @@ return
         <div class="container">
 
             <div class="col-lg-4 col-offset-4">
-                <form action="{$core:siteRootURL}sign-in-validate.xqy" method="post">
+                <form action="{$core:siteRootURL}/user/sign-in-validate.xqy" method="post">
                   <fieldset>
                     <legend>Sign in</legend>
                     {

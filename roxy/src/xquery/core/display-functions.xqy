@@ -10,39 +10,10 @@ declare function display:menu-main(
 ) as element (ul)* {
     let $left :=
         <ul class="nav navbar-nav">
-        {
-        for $menu-item in core:getMenuItem("left")
-        let $sub-items := $menu-item/menu-items
-        let $menuRoles := $menu-item/roles/xs:string(.)
-        return
-            if ( core:has-role( $user:privileges, $menuRoles ) )
-                then
-                    if ( $sub-items )
-                        then
-                            let $class := 
-                                if ($menu-item/label/xs:string(.) eq $active)
-                                then ("active")
-                                else ()
-                            return 
-                            <li class="dropdown">
-                                <a href="{ $core:siteRootURL || $menu-item/url/xs:string(.) }" class="dropdown-toggle {$class}" data-toggle="dropdown">{ $menu-item/label/xs:string(.) } <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                {
-                                for $sub-item in $sub-items/menu-item
-                                return
-                                    <li><a href="{$core:siteRootURL || $sub-item/url/xs:string(.) }">{ $sub-item/label/xs:string(.) }</a></li>
-                                }
-                              </ul>
-                            </li>
-                        else
-                    if ( $menu-item/label/xs:string(.) = $active )
-                        then <li class="active"><a href="{$core:siteRootURL || $menu-item/url/xs:string(.) }">{ $menu-item/label/xs:string(.) }</a></li>
-                        else <li><a href="{$core:siteRootURL || $menu-item/url/xs:string(.) }">{ $menu-item/label/xs:string(.) }</a></li>
-                else ()
-        }
+            {display:buildManu($active, "left")}
             <li>
                 <form action="{$core:siteRootURL}search/" method="get" class="navbar-form">
-                     <div class="scrollable-dropdown-menu">
+                    <div class="scrollable-dropdown-menu">
                         <input type="text" name="keywords" value="" placeholder="QuickSearch" class="form-control typeahead"/>
                         <button class="hide" type="submit">Quick Search</button>
                     </div>
@@ -51,47 +22,51 @@ declare function display:menu-main(
         </ul>
     let $right :=
         <ul class="nav navbar-nav pull-right">
-        {
-        for $menu-item in core:getMenuItem("right")
-        let $sub-items := $menu-item/menu-items
-        let $menuRoles := $menu-item/roles/xs:string(.)
-        return
-            if ( core:has-role( $user:privileges, $menuRoles ) )
-                then
-                    if ( $sub-items )
-                        then
-                            <li class="dropdown">
-                                <a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}" class="dropdown-toggle" data-toggle="dropdown">{ $menu-item/label/xs:string(.)} <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                {
-                                for $sub-item in $sub-items/menu-item
-                                return
-                                    <li><a href="{$core:siteRootURL || $sub-item/url/xs:string(.)}">{ $sub-item/label/xs:string(.)}</a></li>
-                                }
-                              </ul>
-                            </li>
-                        else
-                    if ( $menu-item/label/xs:string(.)= $active )
-                        then <li class="active"><a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}">{ $menu-item/label/xs:string(.)}</a></li>
-                        else <li><a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}">{ $menu-item/label/xs:string(.)}</a></li>
-                else ()
-        }
+        {display:buildManu($active, "right")}
         {
         if ( $user:user eq "public" )
             then
-                <li><a href="{$core:siteRootURL}sign-in.xqy">Sign in</a></li>
+                <li><a href="{$core:siteRootURL}user/sign-in.xqy">Sign in</a></li>
             else
                 <li class="dropdown">
-                    <a href="{$core:siteRootURL}sign-in.xqy?logout=true" class="dropdown-toggle" data-toggle="dropdown">{ $user:user } <b class="caret"></b></a>
+                    <a href="{$core:siteRootURL}user/sign-in.xqy?logout=true" class="dropdown-toggle" data-toggle="dropdown">{ $user:user } <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="{$core:siteRootURL}sign-in.xqy?logout=true">Sign out</a>
+                            <a href="{$core:siteRootURL}user/sign-in.xqy?logout=true">Sign out</a>
                         </li>
                     </ul>
                 </li>
         }
         </ul>
     return ($left,$right)
+};
+
+declare function display:buildManu(
+    $active as xs:string,
+    $name as xs:string
+) as element(li)* {
+    for $menu-item in core:getMenuItem($name)
+    let $sub-items := $menu-item/menu-items
+    let $menuRoles := $menu-item/roles/role/xs:string(.)
+    return
+        if ( $user:privileges eq $menuRoles) then
+                if ( $sub-items ) then (
+                    <li class="dropdown">
+                        <a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}" class="dropdown-toggle" data-toggle="dropdown">{ $menu-item/label/xs:string(.)} <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        {
+                        for $sub-item in $sub-items/menu-item
+                        return
+                            <li><a href="{$core:siteRootURL || $sub-item/url/xs:string(.)}">{ $sub-item/label/xs:string(.)}</a></li>
+                        }
+                      </ul>
+                    </li>
+                ) else if ( $menu-item/label/xs:string(.)= $active ) then (
+                    <li class="active"><a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}">{ $menu-item/label/xs:string(.)}</a></li>
+                ) else (
+                    <li><a href="{$core:siteRootURL || $menu-item/url/xs:string(.)}">{ $menu-item/label/xs:string(.)}</a></li>
+                )
+        else ()
 };
 
 declare function display:nav(
