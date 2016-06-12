@@ -45,6 +45,17 @@ declare function core:getMenuItem(
     )
 };
 
-declare function core:cleanInput($input){
+declare function core:cleanInput(
+    $input as xs:string
+) as xs:string {
     fn:normalize-space($input) ! fn:replace(., "'",  "") ! fn:replace(., '"',  '') ! fn:replace(., '\\',  '')
+};
+
+declare function core:getTaxonomys() as node()* {
+    cts:search(
+        /taxonomy, 
+        cts:and-query((
+            cts:directory-query( $core:baseURI || "admin/taxonomies/")
+        ))
+    )
 };

@@ -24,14 +24,8 @@ declare option xdmp:output "method = html";
             </div>
            
             {
-                let $taxonomys :=
-                    cts:search(
-                        /taxonomy, 
-                        cts:and-query((
-                            cts:directory-query( $core:baseURI || "admin/taxonomies/")
-                        ))
-                    )
-                for $taxonomy in $taxonomys 
+                for $taxonomy in core:getTaxonomys()
+                let $key := xs:string($taxonomy/@key)
                 order by xs:string($taxonomy/title)
                 return
                     <div class="col-lg-4">
@@ -43,11 +37,11 @@ declare option xdmp:output "method = html";
                         <div class="btn-group">
                             {
                                 if ($user:privileges eq "editor") then (
-                                <a class="btn btn-info" href="#" style=" margin-right: .5em;">Edit</a>
+                                <a class="btn btn-info" href="{$core:siteRootURL}taxonomy/add.xqy?taxonomy={ $key }" style=" margin-right: .5em;">Edit</a>
                              ) else ()
                             }    
 
-                            <a class="btn btn-primary" href="{$core:siteRootURL}taxonomy.xqy?taxonomy={ xs:string( $taxonomy/@key ) }" style=" margin-right: .5em;">Search &raquo;</a>
+                            <a class="btn btn-primary" href="{$core:siteRootURL}taxonomy/set.xqy?taxonomy={ $key }" style=" margin-right: .5em;">Search &raquo;</a>
                            
                         </div>
                     </div>
