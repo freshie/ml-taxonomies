@@ -29,3 +29,9 @@ declare function user:get-current-user-privileges() as xs:string*{
     )
     return $privileges ! ./sec:action[fn:starts-with(. ,$core:applicationURI)]/text() ! fn:substring-after(., $core:applicationURI)
 };
+
+declare function user:assertPrivilege(
+    $privilege as xs:string
+) as item()* {
+  xdmp:security-assert($core:applicationURI || "editor", "execute")
+};

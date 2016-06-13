@@ -30,18 +30,16 @@ declare option xdmp:output "method = html";
                 return
                     <div class="col-lg-4">
                         <h2>{ $taxonomy/title/xs:string(.) }</h2>
-                      
-                        
                         
                         <p>{ $taxonomy/description/xs:string(.) }</p>
                         <div class="btn-group">
                             {
-                                if ($user:privileges eq "editor") then (
-                                <a class="btn btn-info" href="{$core:siteRootURL}taxonomy/add.xqy?taxonomy={ $key }" style=" margin-right: .5em;">Edit</a>
+                             if ($user:privileges eq "editor") then (
+                                <a class="btn btn-info" href="{$core:siteRootURL}taxonomy/update.xqy?previousKey={ $key }" style=" margin-right: .5em;">Edit</a>
                              ) else ()
                             }    
 
-                            <a class="btn btn-primary" href="{$core:siteRootURL}taxonomy/set.xqy?taxonomy={ $key }" style=" margin-right: .5em;">Search &raquo;</a>
+                            <a class="btn btn-primary" href="{$core:siteRootURL}taxonomy/set.xqy?key={ $key }" style=" margin-right: .5em;">Search &raquo;</a>
                            
                         </div>
                     </div>

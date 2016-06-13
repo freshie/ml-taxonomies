@@ -71,3 +71,39 @@ declare %test:case function get-current-user-editor()
 
   return assert:equal($test, "editor")
 };
+
+
+declare %test:case function assertPrivilege-editor-as-editor()
+{
+  let $user := $core:applicationConfig/name/text() ||  "-editor"
+
+  let $login := xdmp:login($user)
+
+  let $test := 
+    try {
+      user:assertPrivilege("editor"),
+      fn:true() 
+    } catch ($e) {
+      fn:false()
+    }
+    
+  return assert:true($test)
+};
+
+
+declare %test:case function assertPrivilege-editor-as-public()
+{
+  let $user := $core:applicationConfig/name/text() ||  "-public"
+
+  let $login := xdmp:login($user)
+
+  let $test := 
+    try {
+      user:assertPrivilege("editor"),
+      fn:true() 
+    } catch ($e) {
+      fn:false()
+    }
+    
+  return assert:false($test)
+};

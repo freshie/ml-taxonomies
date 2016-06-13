@@ -123,19 +123,19 @@
       <permissions>
         <permission>
           <capability>execute</capability>
-          <role-name>@ml.app-role</role-name>
+          <role-name>@ml.app-name-role</role-name>
         </permission>
         <permission>
           <capability>update</capability>
-          <role-name>@ml.app-role</role-name>
+          <role-name>@ml.app-name-editor</role-name>
         </permission>
         <permission>
           <capability>insert</capability>
-          <role-name>@ml.app-role</role-name>
+          <role-name>@ml.app-name-editor</role-name>
         </permission>
         <permission>
           <capability>read</capability>
-          <role-name>@ml.app-role</role-name>
+          <role-name>@ml.app-name-viewer</role-name>
         </permission>
       </permissions>
       <collections>
@@ -173,10 +173,16 @@
     </role>
     <role>
       <role-name>@ml.app-name-editor</role-name>
+      <role-names>
+           <role-name>@ml.app-name-viewer</role-name>
+      </role-names>
       <description>A role that will allow users to use the Ontology Management Feature of the @ml.app-name application</description>
       <privileges>
         <privilege>
           <privilege-name>@ml.app-name-editor</privilege-name>
+        </privilege>
+        <privilege>
+          <privilege-name>@ml.app-name-URI</privilege-name>
         </privilege>
       </privileges>
     </role>
@@ -184,7 +190,7 @@
       <role-name>@ml.app-name-viewer</role-name>
       <description>A role for users of the @ml.app-name application</description>
       <role-names>
-           <role-name>@ml.app-role</role-name>
+           <role-name>@ml.app-name-role</role-name>
       </role-names>
       <collections>
       </collections>
@@ -249,7 +255,6 @@
       <description>A demo user for shwowing off editing and the Ontology Management Features</description>
       <password>editor</password>
       <role-names>
-        <role-name>@ml.app-name-viewer</role-name>
         <role-name>@ml.app-name-editor</role-name>
       </role-names>
       <permissions/>
@@ -307,12 +312,15 @@
       <action>http://@ml.app-name.com/editor</action>
       <kind>execute</kind>
     </privilege>
-  </privileges>
-  <privileges xmlns="http://marklogic.com/xdmp/security">
     <privilege>
       <privilege-name>@ml.app-name-viewer</privilege-name>
       <action>http://@ml.app-name.com/viewer</action>
       <kind>execute</kind>
+    </privilege>
+    <privilege>
+      <privilege-name>@ml.app-name-URI</privilege-name>
+      <action>/</action>
+      <kind>uri</kind>
     </privilege>
   </privileges>
 </configuration>

@@ -59,3 +59,15 @@ declare function core:getTaxonomys() as node()* {
         ))
     )
 };
+
+declare function core:getTaxonomyByKey(
+    $key as xs:string
+) as element(taxonomy) {
+    cts:search(
+        fn:doc(),
+        cts:and-query((
+            cts:element-attribute-value-query(xs:QName("taxonomy"),  xs:QName("key"), $key),
+            cts:directory-query( $core:baseURI || "admin/taxonomies/")
+        ))
+    )/taxonomy
+};

@@ -8,9 +8,12 @@ declare option xdmp:output "method = html";
 
 let $assert := user:assertPrivilege("editor")
 let $errors := fn:tokenize( xdmp:get-request-field( "errors", "" ), "," )
-let $title := xdmp:get-request-field( "title", "" )
-let $key := xdmp:get-request-field( "key", "" )
-let $description := xdmp:get-request-field( "description", "" )
+let $previousKey := xdmp:get-request-field( "previousKey")
+let $taxonomyData:= core:getTaxonomyByKey( $previousKey)
+
+let $title := $taxonomyData/title/text()
+let $key :=  xs:string($taxonomyData/@key)
+let $description :=  $taxonomyData/description/text()
 
 let $title-error := 
     if ( $errors[1] = "true" or $errors[2] = "true" ) then (
@@ -47,10 +50,10 @@ return
             <div class="col-lg-12">
                 <div class="panel">
                     <!-- Default panel contents -->
-                    <h2 class="panel-heading">Create a Taxonomy</h2>
+                    <h2 class="panel-heading">Update Taxonomy</h2>
                     <p></p>
 
-                    <form method="post" action="{$core:siteRootURL}taxonomy/add-save.xqy">
+                    <form method="post" action="{$core:siteRootURL}taxonomy/update-save.xqy?previousKey={$previousKey}">
                         <!-- List group -->
                         <ul class="list-group">
                             <li class="list-group-item">
@@ -72,8 +75,11 @@ return
                                     <textarea name="description" rows="4" class="form-control">{ $description }</textarea>
                                 </div>
                             </li>
+                            <li class="list-group-item">
+                            <button type="submit" class="btn btn-success ">Update</button>
+                            </li>
                         </ul>
-                        <button type="submit" class="btn btn-default">Create</button>
+                        
                     </form>
                 </div><!-- Panel -->
             </div>
@@ -83,7 +89,7 @@ return
             <div class="col-lg-12">
                 <div class="panel">
                     <!-- Default panel contents -->
-                    <h3 class="panel-heading">Existing Taxonomies</h3>
+                    <h3 class="panel-heading">Other Existing Taxonomies</h3>
                     <p class="panel-body">A taxonomy is a distinct grouping of terms. A taxonomy includes at least one concept scheme.</p>
                     
                     <div>
@@ -94,7 +100,9 @@ return
                             let $key := xs:string( $taxonomy/@key )
                             let $description := $taxonomy/description/text()
                             let $owner := $taxonomy/owner/text()
+                            where $previousKey ne $key
                             order by $title
+
                             return
                                 <li class="list-group-item">
                                     <h4 class="list-group-item-heading">{ $title }  </h4>
