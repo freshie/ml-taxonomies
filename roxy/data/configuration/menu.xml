@@ -57,4 +57,17 @@
             </menu-item>
         </menu-items>
     </menu-item>
+    <menu-item type="right">
+        <label>add</label>
+        <url></url>
+        <roles>
+            <role>editor</role>
+        </roles>
+        <menu-items>
+            <menu-item>
+                <label>Taxonomy</label>
+                <url>taxonomy/add.xqy</url>
+            </menu-item>
+        </menu-items>
+    </menu-item>
 </menu-items>
