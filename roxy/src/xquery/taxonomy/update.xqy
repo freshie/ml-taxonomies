@@ -53,7 +53,7 @@ return
                     <h2 class="panel-heading">Update Taxonomy</h2>
                     <p></p>
 
-                    <form method="post" action="{$core:siteRootURL}taxonomy/update-save.xqy?previousKey={$previousKey}">
+                    <form method="post" action="{$core:siteRootURL}taxonomy/update-action.xqy?previousKey={$previousKey}">
                         <!-- List group -->
                         <ul class="list-group">
                             <li class="list-group-item">
@@ -76,7 +76,7 @@ return
                                 </div>
                             </li>
                             <li class="list-group-item">
-                            <button type="submit" class="btn btn-success ">Update</button>
+                                <button type="submit" class="btn btn-success " style=" margin-right: .5em;">Update</button> <a class="btn btn-danger" href="{$core:siteRootURL}taxonomy/delete.xqy?key={ $previousKey }" style=" margin-right: .5em;">Delete</a>
                             </li>
                         </ul>
                         

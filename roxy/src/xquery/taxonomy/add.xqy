@@ -50,7 +50,7 @@ return
                     <h2 class="panel-heading">Create a Taxonomy</h2>
                     <p></p>
 
-                    <form method="post" action="{$core:siteRootURL}taxonomy/add-save.xqy">
+                    <form method="post" action="{$core:siteRootURL}taxonomy/add-action.xqy">
                         <!-- List group -->
                         <ul class="list-group">
                             <li class="list-group-item">
